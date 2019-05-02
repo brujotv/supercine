@@ -220,15 +220,23 @@
   
 <item>
 <title> 2011 [COLOR lime](1)[/COLOR]</title>
-<thumbnail></thumbnail>
+<thumbnail>https://i.imgur.com/PsjFmU7.png</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/brujotv/supercine/master/2011.xml</externallink>
 </item>
 
 <item>
+<title> 2012 [COLOR lime](0)[/COLOR]</title>
+<thumbnail>https://i.imgur.com/SqWUIiH.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink></externallink>
+</item>
+
+<item>
 <title> 2013 [COLOR lime](1)[/COLOR]</title>
-<thumbnail></thumbnail>
+<thumbnail>https://i.imgur.com/zEUdsOT.png</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/brujotv/puertotv/master/2013.xml</externallink>
@@ -236,7 +244,7 @@
 
 <item>
 <title> 2014 [COLOR lime](4)[/COLOR]</title>
-<thumbnail></thumbnail>
+<thumbnail>https://i.imgur.com/NLu27UX.png</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/brujotv/supercine/master/2014.xml</externallink>
@@ -244,7 +252,7 @@
 
 <item>
 <title> 2015 [COLOR lime](7)[/COLOR]</title>
-<thumbnail></thumbnail>
+<thumbnail>https://i.imgur.com/LxfBudz.png</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/brujotv/supercine/master/2015.xml</externallink>
@@ -252,7 +260,7 @@
 
 <item>
 <title> 2016 [COLOR lime](8)[/COLOR]</title>
-<thumbnail></thumbnail>
+<thumbnail>https://i.imgur.com/tR1iB3m.png</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/brujotv/supercine/master/2016.xml</externallink>
