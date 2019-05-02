@@ -5,7 +5,7 @@
 
 <item>
 <title>Ultimos estrenos</title>
-<thumbnail></thumbnail>
+<thumbnail>https://i.imgur.com/KN5G5q5.png</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/brujotv/supercine/master/estrenos.xml</externallink>
@@ -13,7 +13,7 @@
 
 <item>
 <title>Por años</title>
-<thumbnail></thumbnail>
+<thumbnail>https://i.imgur.com/kIarkNq.png</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/brujotv/supercine/master/cinea%C3%B1os.xml</externallink>
@@ -21,18 +21,11 @@
 
 <item>
 <title>Sagas</title>
-<thumbnail></thumbnail>
+<thumbnail>https://i.imgur.com/chTu5om.png</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
 <externallink>https://pastebin.com/raw/TBaeMu7s</externallink>
 </item>
 
-<item>
-<title>Todas</title>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink></externallink>
-</item>
 
 
