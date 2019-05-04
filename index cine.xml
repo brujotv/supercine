@@ -3,37 +3,32 @@
 
 
 
-<item>
-<title>[COLOR lime]•[/COLOR] Ultimos estrenos</title>
-<thumbnail>https://i.imgur.com/KN5G5q5.png</thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/brujotv/supercine/master/estrenos.xml</externallink>
-</item>
-
-<item>
-<title>[COLOR lime]•[/COLOR] Por años</title>
-<thumbnail>https://i.imgur.com/kIarkNq.png</thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/brujotv/supercine/master/cinea%C3%B1os.xml</externallink>
-</item>
-
-<item>
-<title>[COLOR lime]•[/COLOR] Sagas</title>
-<thumbnail>https://i.imgur.com/chTu5om.png</thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/brujotv/supercine/master/sagas.xml</externallink>
-</item>
-
-<item>
-<title>[COLOR lime]•[/COLOR] Cine [COLOR gold]4K[/COLOR] (Necesario Quasar)</title>
-<thumbnail>https://i.imgur.com/Hm1IH0W.png</thumbnail>
-<fanart></fanart>
-<link>http://ignoreme</link>
-<externallink>https://raw.githubusercontent.com/brujotv/supercine/master/cine%204k.xml</externallink>
-</item>
-
-
-
+<nppcrypt version="1015">
+<encryption cipher="rijndael256" mode="gcm" encoding="base64" tag="WZGQCwgemSAXPc+nIwEvVA==" />
+<random iv="GkOZvP+7aJb64tnf+98L2g==" salt="JXrkqefcZG18jsxEGCi0rQ==" />
+<key algorithm="scrypt" N="16384" r="8" p="1" />
+</nppcrypt>
+CNAf/gunZX+xHcpTBLvrSYUO5CuLYdxuzJCyXKihAMTiGFQkVfx1BFWWp8bStrtS
+c8RZ2iYrilqXFFtAkO+5CL7BZ3kpT5V+DHp5I9rZ4F10zMVi8yIDXhuM+fHnrWn7
+ucOmma1YBImobV9814QSqKpz9msnciwxw2cznXwe3wLZaGTjkD4NYxoz4Aip/xY+
+blJq2VVVPqh3RX5IMtqFt1irVo80UCmfEWMudRDduUcSGfc3F/dqbs8mXDtodUxs
+nOhTy6RK8L+8rsKSiJkPFr2YLv2xJ6ylXdY8HsNy4OnVWQcCYZy2gJz5xm9Pw3AF
+cLZfFadUJK8AOObnsRLSg5TmnRo+8dcQZxmQxKljm9IbBxZEJcsN9jTeW3USd27t
+O/S0wXechYfnbJ/jRdRRAVND8AWwv1JAcf8g08dZXlhEWH7lid83Eweo2E3rMEiP
+PrdfRGdR5C6365/pDcU1x5h5MFHZixT3pnhG/2rE1ZFoV4jV1OsYp/HGo3O9bEPx
+cKuTZGGBTpuBsk0xkye2MXJBYp8TMH+oLcU/OHLStP5uwAB0WELZiC2fyMdcGThq
+3OEIZUX082TrXS1KI5l8dbJ7oiY3nCRsfP3uM5DsFa7EuQzMTqu7SD13wYzHTe5V
+mkaT4xZrKQC3nyGgVlAaogky30VJGbeVSBbDoCbZ+ikOloRn/HEJFmyBAUqKvZgP
+7qHZshsCWKKRq6koPnVfXUdm5hSZZpGXZuVroeK3+i3IKTR+q70wqLrg69QXi+RL
+xDXAPFUvfj0c7Zc52ryzLgUwTt/QeCFJf/mxn8z/7P7Lgh7Ez7ByEhm2NENElW+0
+CbSL6hZEk9vlxBgrEg6viYc2sVfdM1j1TZ3wNInwapWuxCOTFLth8tgbqIRQvldI
+rK13VijbAMuVLJRPOeaeaE50OoqJVNWZz7PkOjhK97K9YNlaP1Kp5HPgat0akjrg
+Aupz6EzxKdIusGXEVycTN6kCgMPoj96ORkugWDvkdUF26EW9zH1Y73Vz0jDzE9SL
+AhRQVLXlMP09G4czHFqMEyPfSolW6rVHoVPik8ZySiaaIl21ICH4AyalnHHNjDS7
+tmbZd7AG2iR1lrk/8SUplrA0yfJnyEWENLM3/VAB9J+oNPdLMGGpnno9DNBk0LHN
+KJJpEhwYv0QZAWAKPCR1VlifGyaE4A7wXcho6BWFwxTSSToRAhvTojVdzQbsOzsU
+FpGTl6yRFThrUXXAExojNodGAkm4tSy7b5o7JEhAdfLgT2QkPX4iadoO8WSgVB8z
+370lpG7CVUMgPN+FTNsCBOyIHNvV7rkMIPzmnOwbdeU1ZgQuqrF3l8lBRtNRu0Xu
+WpwlkxH1a7egeMcrDh9PxZpKGY8KDC/CFrg9AkECLVG2Gb8b7ieMxg/Ga51A8qPu
+LfmN33umYaFMPJkpUKYOq8B74E73eDoQ5suGU7VuZQ0IZwFnpTg3uBtp+G7BVWxE
+m+JUVl+CVfI9YoibwFkMj2R0qKBEkLVWl0Nwbl89rFOGvJXWbAcIfejWvKD3bg0=
