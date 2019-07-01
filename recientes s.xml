@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
+  <item>
+ <title>HBO ES</title>
+<link>$doregex[url]|Referer=http://stream.televall.website/hbo.php&amp;User-Agent=Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.</link>
+  <regex>
+<name>url</name>
+<expres><![CDATA["(.*?m3u8.*?)"]]></expres>
+<page>http://stream.televall.website/hboes.php</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+</regex>
+<thumbnail>https://i.dlpng.com/static/png/1609119_thumb.png</thumbnail>
+<fanart>https://images5.alphacoders.com/403/thumb-1920-403408.jpg</fanart></item>
+
+
 <item>
 <title>[COLOR lime]•[/COLOR] Avengers: Endgame  (2019) </title>
 <urlsolve>https://streamango.com/f/mkmkapcdmtcspfpc/951G2TH7HALMMFZ6WE0VC_mp4</urlsolve>
