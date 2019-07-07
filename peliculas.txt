@@ -1,4 +1,4 @@
-peliculas nº483
+peliculas nº498
 
 2019-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -20,6 +20,10 @@ peliculas nº483
 16.Capitana Marvel
 17.Alita: Ángel de combate
 18.The Prodigy
+19.Shaft
+20.Perdiendo el este
+21.Feliz día de tu muerte 2
+22.¿en qué piensan los hombres?
 
 2018-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -82,6 +86,9 @@ peliculas nº483
 58.Astérix: El secreto de la poción mágica
 59.Above Suspicion
 60.Unbroken: Path to Redemption
+67.Ploey. Nunca volarás solo
+68.Jefa por accidente
+69.La perfección
 
 2017-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -158,6 +165,8 @@ peliculas nº483
 16.Zoolander No. 2
 17.Bridget Jones' Baby
 18.Capitán América: Civil War
+19.Presa
+20.Crímenes Oscuros
 
 2015-----------------------------------------------------------------------------------------------------------------------------------
 
