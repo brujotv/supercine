@@ -1,4 +1,4 @@
-peliculas nº565
+peliculas nº575
 
 2019-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -36,6 +36,11 @@ peliculas nº565
 32.Dumbo
 33.El caballero de las sombras
 34.¡Shazam!
+35.Dolor y gloria
+36.Nancy Drew y la escalera escondida
+37.El niño que pudo ser rey
+38.Point Blank: Cuenta atrás
+39.El secuestro de Stella
 
 2018-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -123,6 +128,11 @@ peliculas nº565
 89.Stubby, un héroe muy especial
 90.4 latas
 91.Háblame de ti
+92.70 binladens
+93.El Gordo y el Flaco (Stan & Ollie)
+94.Todos a una
+95.Van Gogh, a las puertas de la eternidad
+96.Toc Toc
 
 2017-----------------------------------------------------------------------------------------------------------------------------------
 
