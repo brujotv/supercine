@@ -1,4 +1,4 @@
-peliculas nº575
+peliculas nº590
 
 2019-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -41,6 +41,8 @@ peliculas nº575
 37.El niño que pudo ser rey
 38.Point Blank: Cuenta atrás
 39.El secuestro de Stella
+40.Venganza bajo cero
+41.IO
 
 2018-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -133,6 +135,13 @@ peliculas nº575
 94.Todos a una
 95.Van Gogh, a las puertas de la eternidad
 96.Toc Toc
+97.Deadpool 2
+98.Cuenta pendiente
+99.El Reino
+100.Hotel Transilvania 3: Unas vacaciones monstruosas
+101.La aparición
+102.Los Increibles 2
+103.Paciente cero
 
 2017-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -192,6 +201,9 @@ peliculas nº575
 54.Burn Out
 55.El extranjero
 56.John Wick: Pacto de sangre
+57.Bleeding Steel
+58.¿Dónde estás mamá?
+59.Una familia embarazosa
 
 2016-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -296,6 +308,7 @@ peliculas nº575
 19.Pacific Rim
 20.Iron Man 3 
 21.Riddick
+22.Gru 2. Mi villano favorito
 
 2012-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -393,6 +406,8 @@ peliculas nº575
 13.Algo pasa en Las Vegas
 14.Mortadelo y Filemón. Misión: salvar la Tierra
 15.Iron Man 
+16.Hancock
+17.Hellboy 2: El ejército dorado
 
 2007-----------------------------------------------------------------------------------------------------------------------------------
 
