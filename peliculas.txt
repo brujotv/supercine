@@ -1,4 +1,4 @@
-peliculas nº537
+peliculas nº610
 
 2019-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -30,6 +30,26 @@ peliculas nº537
 26.Extremadamente cruel, malvado y perverso
 27.Uno más de la familia
 28.I Am Mother
+29.Nosotros
+30.Deadwood: La película
+31.Corgi: Las mascotas de la reina
+32.Dumbo
+33.El caballero de las sombras
+34.¡Shazam!
+35.Dolor y gloria
+36.Nancy Drew y la escalera escondida
+37.El niño que pudo ser rey
+38.Point Blank: Cuenta atrás
+39.El secuestro de Stella
+40.IO
+41.Bosque maldito
+42.Secret Obsession
+43.The Intruder
+44.La hija del lobo
+45.Taxi a Gibraltar
+46.Pequeño gran problema
+47.Más allá de la esperanza
+48.Robert Reborn
 
 2018-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -108,6 +128,33 @@ peliculas nº537
 80.Una cuestión de género
 81.The Axiom
 82.The Titan
+83.De tonta, nada
+84.Eliminado: Dark Web
+85.Vengadores: Infinity War
+86.Black 47
+87.Blue Iguana
+88.Smallfoot
+89.Stubby, un héroe muy especial
+90.4 latas
+91.Háblame de ti
+92.70 binladens
+93.El Gordo y el Flaco (Stan & Ollie)
+94.Todos a una
+95.Van Gogh, a las puertas de la eternidad
+96.Toc Toc
+97.Deadpool 2
+98.Cuenta pendiente
+99.El Reino
+100.Hotel Transilvania 3: Unas vacaciones monstruosas
+101.La aparición
+102.Los Increibles 2
+103.Paciente cero
+104.Donnybrook
+105.The Equalizer 2
+106.Upgrade (Ilimitado)
+107.Anon
+108.London Fields
+109.Quiero comerme tu páncreas
 
 2017-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -166,6 +213,11 @@ peliculas nº537
 53.Amigos por siempre
 54.Burn Out
 55.El extranjero
+56.John Wick: Pacto de sangre
+57.Bleeding Steel
+58.¿Dónde estás mamá?
+59.Una familia embarazosa
+60.Lejos de Praga
 
 2016-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -192,6 +244,8 @@ peliculas nº537
 21.Underworld: Guerras de sangre
 22.Fight to the Finish
 23.Rendel
+24.Deadpool
+25.Parada en el Infierno
 
 2015-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -246,7 +300,7 @@ peliculas nº537
 21.Ocho apellidos vascos
 22.La teoría del todo
 23.El juez
-
+ 
 2013-----------------------------------------------------------------------------------------------------------------------------------
 
 1.Soulmate
@@ -270,6 +324,7 @@ peliculas nº537
 19.Pacific Rim
 20.Iron Man 3 
 21.Riddick
+22.Gru 2. Mi villano favorito
 
 2012-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -297,6 +352,7 @@ peliculas nº537
 22.La mujer de negro
 23.Lo imposible
 24.El vuelo (Flight)
+25.Los vengadores
 
 2011-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -333,6 +389,7 @@ peliculas nº537
 11.Niños grandes
 12.Jackass 3D
 13.Iron Man 2 
+14.The Rig
 
 2009-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -346,6 +403,7 @@ peliculas nº537
 8.Crank: Alto voltaje
 9.Malditos bastardos
 10.Underworld: La rebelión de los licántropos
+11.La cruda realidad
 
 2008-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -364,6 +422,9 @@ peliculas nº537
 13.Algo pasa en Las Vegas
 14.Mortadelo y Filemón. Misión: salvar la Tierra
 15.Iron Man 
+16.Hancock
+17.Hellboy 2: El ejército dorado
+18.Zohan: Licencia para peinar
 
 2007-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -378,6 +439,7 @@ peliculas nº537
 9.Posdata: Te quiero
 10.Hellion, el ángel caído
 11.30 días de oscuridad
+12.Taxi 4
 
 2006-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -430,6 +492,7 @@ peliculas nº537
 11.Los padres de él
 12.La pasión de Cristo
 13.Las crónicas de Riddick
+14.Torque: Rodando al límite
 
 2003-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -449,6 +512,7 @@ peliculas nº537
 14.La gran aventura de Mortadelo y Filemón
 15.Underworld
 16.A todo gas 2
+17.Taxi 3
 
 2002-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -481,6 +545,7 @@ peliculas nº537
 4.Chicken Run: Evasión en la granja
 5.Los padres de ella
 6.Pitch Black
+7.Taxi 2
 
 1999-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -489,6 +554,9 @@ peliculas nº537
 3.Gigoló
 
 1998-----------------------------------------------------------------------------------------------------------------------------------
+
+1.Taxi Express
+
 1997-----------------------------------------------------------------------------------------------------------------------------------
 
 1.Mentiroso compulsivo
@@ -496,13 +564,20 @@ peliculas nº537
 
 1996-----------------------------------------------------------------------------------------------------------------------------------
 1995-----------------------------------------------------------------------------------------------------------------------------------
+
+1.Seven (Se7en)
+
 1994-----------------------------------------------------------------------------------------------------------------------------------
 
 1.La máscara
 2.Entrevista con el vampiro
+3.Superdetective en Hollywood III
 
 1993-----------------------------------------------------------------------------------------------------------------------------------
 1992-----------------------------------------------------------------------------------------------------------------------------------
+
+1.Instinto básico
+
 1991-----------------------------------------------------------------------------------------------------------------------------------
 1990-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -525,6 +600,7 @@ peliculas nº537
 4.Están vivos
 5.Contacto sangriento
 6.Rambo III
+7.Arde Mississippi
 
 1987-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -532,6 +608,8 @@ peliculas nº537
 2.Jóvenes ocultos
 3.Depredador
 4.El chip prodigioso
+5.Superdetective en Hollywood II
+6.Bala blindada
 
 1986-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -563,6 +641,7 @@ peliculas nº537
 7.La aventura de los Ewoks (TV)
 8.Pesadilla en Elm Street
 9.Karate kid, el momento de la verdad
+10.Superdetective en Hollywood
 
 1983-----------------------------------------------------------------------------------------------------------------------------------
 
