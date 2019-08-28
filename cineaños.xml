@@ -74,7 +74,7 @@
 </item>
 
 <item>
-<title> 2010 [COLOR lime](19)[/COLOR]</title>
+<title> 2010 [COLOR lime](21)[/COLOR]</title>
 <thumbnail>https://i.imgur.com/76vFfRE.png</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
@@ -114,7 +114,7 @@
 </item>
 
 <item>
-<title> 2005 [COLOR lime](15)[/COLOR]</title>
+<title> 2005 [COLOR lime](16)[/COLOR]</title>
 <thumbnail>https://i.imgur.com/dT3GDQb.png</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
@@ -146,7 +146,7 @@
 </item> 
 
 <item>
-<title> 2001 [COLOR lime](13)[/COLOR]</title>
+<title> 2001 [COLOR lime](14)[/COLOR]</title>
 <thumbnail>https://i.imgur.com/VjVqGCP.png</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
@@ -162,7 +162,7 @@
 </item>
 
 <item>
-<title> 1999 [COLOR lime](4)[/COLOR]</title>
+<title> 1999 [COLOR lime](5)[/COLOR]</title>
 <thumbnail>https://i.imgur.com/w04r2iq.png</thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
@@ -210,7 +210,7 @@
 </item>
 
 <item>
-<title> 1993 [COLOR lime](3)[/COLOR]</title>
+<title> 1993 [COLOR lime](4)[/COLOR]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
@@ -346,11 +346,19 @@
 </item>
 
 <item>
-<title> 1976 [COLOR lime](1)[/COLOR]</title>
+<title> 1976 [COLOR lime](2)[/COLOR]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/brujotv/supercine/master/1976.xml</externallink>
+</item>
+
+<item>
+<title> 1975 [COLOR lime](1)[/COLOR]</title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/brujotv/supercine/master/1975.xml</externallink>
 </item>
 
 <item>
@@ -378,7 +386,7 @@
 </item>
 
 <item>
-<title> 1971 [COLOR lime](6)[/COLOR]</title>
+<title> 1971 [COLOR lime](7)[/COLOR]</title>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
