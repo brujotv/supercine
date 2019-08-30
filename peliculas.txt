@@ -1,4 +1,4 @@
-peliculas nº874
+peliculas nº901
 
 2019-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -386,6 +386,8 @@ peliculas nº874
 26.Annie
 27.Antes de que te vayas
 28.Sin City: Una dama por la que matar
+29.April Rain
+30.ärtico
 
 2013-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -415,6 +417,9 @@ peliculas nº874
 24.Percy Jackson y el mar de los monstruos
 25.12 trampas 2
 26.Antes del anochecer
+27.April Apocalypse
+28.As I Lay Dying (El último deseo)
+29.Asalto al furgón blindado
 
 2012-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -447,6 +452,7 @@ peliculas nº874
 27.Los mercenarios 2
 28.El Hobbit: Un viaje inesperado (v.ext)
 29.Apartamento 1303 La maldicion
+30.Arachnoquake (TV)
 
 2011-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -472,6 +478,9 @@ peliculas nº874
 20.J. Edgar
 21.Año de Gracia
 22.Apollo 18
+23.Arrugas
+24.Arthur Christmas: Operación Regalo
+25.Arthur, el soltero de oro
 
 2010-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -496,6 +505,7 @@ peliculas nº874
 19.Más allá de la vida
 20.Red
 21.El desafío de las águilas
+22.Arrietty y el mundo de los diminutos
 
 2009-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -516,6 +526,7 @@ peliculas nº874
 15.Invictus
 16.Anticristo
 17.Año uno
+18.Arrástrame al infierno
 
 2008-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -539,6 +550,7 @@ peliculas nº874
 18.Zohan: Licencia para peinar
 19.Gran Torino
 20.Appaloosa
+21.Area de descanso 2 No mires atras 
 
 2007-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -558,6 +570,8 @@ peliculas nº874
 14.El orfanato
 15.American Gangster
 16.Antes que el diablo sepa que has muerto
+17.Arma fatal
+18.Arn El Caballero Templario
 
 2006-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -579,6 +593,8 @@ peliculas nº874
 16.Jackass: Number Two
 17.A todo gas: Tokyo Race (A todo gas 3)
 18.Apocalypto
+19.Aquamarine
+20.Aquellos días felices
 
 2005-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -599,6 +615,7 @@ peliculas nº874
 15.Semen, una historia de amor
 16.7 vírgenes
 17.Apostando al límite
+18.Asalto al distrito 13
 
 2004-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -642,6 +659,7 @@ peliculas nº874
 17.Taxi 3
 18.Mystic River
 19.Animatrix
+20.Aquellas juergas universitarias
 
 2002-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -689,12 +707,16 @@ peliculas nº874
 3.Gigoló
 4.La trampa
 5.Ejecución inminente
+6.Aprendiendo a vivir
+7.Asesinato en 8mm.
 
 1998-----------------------------------------------------------------------------------------------------------------------------------
 
 1.Taxi Express
 2.El hombre de la máscara de hierro
 3.Torrente, el brazo tonto de la ley
+4.Arma letal 4
+5.Armageddon
 
 1997-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -737,6 +759,7 @@ peliculas nº874
 1.Instinto básico
 2.Sin perdón
 3.Makinavaja, el último choriso
+4.Arma letal 3
 
 1991-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -762,6 +785,7 @@ peliculas nº874
 7.Cazafantasmas 2
 8.Profundidad seis
 9.El cadillac rosa
+10.Arma letal 2
 
 1988-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -774,6 +798,7 @@ peliculas nº874
 7.Arde Mississippi
 8.Cocodrilo Dundee II
 9.La lista negra
+10.Arma joven
 
 1987-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -851,6 +876,7 @@ peliculas nº874
 6.Halcones de la noche
 7.Posesión infernal
 8.En el estanque dorado
+9.Aquella casa al lado del cementerio
 
 1980-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -984,6 +1010,7 @@ peliculas nº874
 3.El perro de Baskerville (1959)
 4.De repente, el último verano
 5.Río Bravo
+6.Apuestas contra el mañana
 
 1957-----------------------------------------------------------------------------------------------------------------------------------
 
