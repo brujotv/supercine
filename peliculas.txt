@@ -1,4 +1,4 @@
-peliculas nº904
+peliculas nº952
 
 2019-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -75,6 +75,10 @@ peliculas nº904
 71.Pokémon: Detective Pikachu
 72.Rocketman
 73.Bellezonismo
+74.Amor en obras
+75.La intervención
+76.¡Vaya clase!
+77.El caballero de las sombras
 
 2018-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -216,6 +220,7 @@ peliculas nº904
 143.15:17 Tren a París
 144.Las invisibles
 145.No hay salida
+146.Los hermanos Sisters
 
 2017-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -388,6 +393,9 @@ peliculas nº904
 28.Sin City: Una dama por la que matar
 29.April Rain
 30.ärtico
+31.Autómata
+32.Ataque a los Titanes, la película. Parte 1. El arco y la flecha escarlatas
+33.Asylum: El experimento
 
 2013-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -420,6 +428,8 @@ peliculas nº904
 27.April Apocalypse
 28.As I Lay Dying (El último deseo)
 29.Asalto al furgón blindado
+30.Asesino en el tiempo
+31.Atrapada en la oscuridad
 
 2012-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -484,6 +494,10 @@ peliculas nº904
 23.Arrugas
 24.Arthur Christmas: Operación Regalo
 25.Arthur, el soltero de oro
+26.Asesinos de élite
+27. Atraco en Belfast
+28.Atraco por duplicado
+29.Attack The Block
 
 2010-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -530,6 +544,9 @@ peliculas nº904
 16.Anticristo
 17.Año uno
 18.Arrástrame al infierno
+19.Astro Boy (Astroboy)
+20.Asuntos de familia (City Island)
+21.Ataque terrorista
 
 2008-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -554,6 +571,10 @@ peliculas nº904
 19.Gran Torino
 20.Appaloosa
 21.Area de descanso 2 No mires atras 
+22.Asesinato justo
+23.Ashley Tisdale: Imagínatelo
+24.Astérix en los Juegos Olímpicos
+25.Australia
 
 2007-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -575,6 +596,7 @@ peliculas nº904
 16.Antes que el diablo sepa que has muerto
 17.Arma fatal
 18.Arn El Caballero Templario
+19.Atasco en la nacional
 
 2006-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -598,6 +620,7 @@ peliculas nº904
 18.Apocalypto
 19.Aquamarine
 20.Aquellos días felices
+21.Aullidos (The Breed)
 
 2005-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -640,6 +663,8 @@ peliculas nº904
 16.Million Dollar Baby
 17.Antes del atardecer
 18.Appleseed: The Beginning
+19.Asmodexia
+20.Asuntos pendientes
 
 2003-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -663,6 +688,7 @@ peliculas nº904
 18.Mystic River
 19.Animatrix
 20.Aquellas juergas universitarias
+21.Astronautas
 
 2002-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -674,6 +700,9 @@ peliculas nº904
 6.El imperio del fuego
 7.Golpe de efecto
 8.Deuda de sangre
+9.Asesinato... 1-2-3
+10.Astérix y Obélix: Misión Cleopatra
+11.Austin Powers en Miembro de Oro
 
 2001-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -691,6 +720,9 @@ peliculas nº904
 12.Cocodrilo Dundee en Los Ángeles
 13.A todo gas
 14.El diario de Bridget Jones
+15.Avalon
+16.Atlantis: El imperio perdido
+17.Atando cabos
 
 2000-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -712,6 +744,8 @@ peliculas nº904
 5.Ejecución inminente
 6.Aprendiendo a vivir
 7.Asesinato en 8mm.
+8.Audition
+9.Astérix y Obélix contra César
 
 1998-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -720,6 +754,7 @@ peliculas nº904
 3.Torrente, el brazo tonto de la ley
 4.Arma letal 4
 5.Armageddon
+6.Asesinos de reemplazo
 
 1997-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -728,6 +763,7 @@ peliculas nº904
 3.El quinto elemento
 4.Liberad a Willy 3. El rescate
 5.Medidas desesperadas
+6.Austin Powers: Misterioso agente internacional
 
 1996-----------------------------------------------------------------------------------------------------------------------------------
 1995-----------------------------------------------------------------------------------------------------------------------------------
@@ -748,6 +784,7 @@ peliculas nº904
 4.Las aventuras de Bastian (La historia interminable 3)
 5.Forrest Gump
 6.Dos tontos muy tontos
+7.Asesinos natos
 
 1993-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -776,6 +813,7 @@ peliculas nº904
 3.Pretty Woman
 4.La hoguera de las vanidades
 5.La historia interminable 2. El siguiente capítulo
+6.Autopista al infierno
 
 1989-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -789,6 +827,7 @@ peliculas nº904
 8.Profundidad seis
 9.El cadillac rosa
 10.Arma letal 2
+11.Astérix y el golpe del menhir
 
 1988-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -802,6 +841,7 @@ peliculas nº904
 8.Cocodrilo Dundee II
 9.La lista negra
 10.Arma joven
+11.Atracción diabólica
 
 1987-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -813,6 +853,7 @@ peliculas nº904
 6.Bala blindada
 7.Granja maldita
 8.Los intocables de Eliot Ness
+9.Atracción fatal
 
 1986-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -836,6 +877,7 @@ peliculas nº904
 6.Re-Animator
 7.Rambo: Acorralado Parte II (Rambo 2)
 8.El jinete pálido
+9.Aullidos 2: Stirba, la mujer lobo
 
 1984-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -868,6 +910,8 @@ peliculas nº904
 2.El señor de las bestias
 3.E.T
 4.Acorralado (Rambo)
+5.Aterriza como puedas II
+6.Ator el poderoso
 
 1981-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -880,6 +924,8 @@ peliculas nº904
 7.Posesión infernal
 8.En el estanque dorado
 9.Aquella casa al lado del cementerio
+10.Ausencia de malicia
+11.Aullidos
 
 1980-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -892,6 +938,8 @@ peliculas nº904
 7.Locos de remate
 8.El resplandor
 9.La gran pelea
+10.Aterriza como puedas
+11.Atlantic City
 
 1979-----------------------------------------------------------------------------------------------------------------------------------
 
