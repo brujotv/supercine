@@ -6,7 +6,7 @@
   </dir>
 <plugin>
     <name>Heisenberg</name>
-    <link>plugin://plugin.video.naranjito/?action=search</link>
+    <link>plugin://plugin.video.Naranjito/?action=search</link>
     <thumbnail></thumbnail>
 </plugin>
 
