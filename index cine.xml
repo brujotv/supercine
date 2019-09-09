@@ -6,7 +6,7 @@
   </dir>
 <plugin>
     <name>Heisenberg</name>
-    <link>plugin://plugin.video.Naranjito/?action=search</link>
+    <link>https://github.com/brujotv/supercine/?action=search</link>
     <thumbnail></thumbnail>
 </plugin>
 
