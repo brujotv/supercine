@@ -4,6 +4,12 @@
     <link>http://streamcloud.eu/ghl4zm7lowur/A_Trip_to_the_Moon.avi.html</link>
 	<referer>https://playmax.mx/viaje-a-la-luna-f245-dc=y7j4k3f2r2</referer>
 	<title>[COLOR lime]•[/COLOR] Viaje a la luna (1902)</title>
+	<meta>
+<content>movie</content>
+<imdb></imdb>
+<title>(.*?)</title>
+<year>1902</year>
+</meta>
     <thumbnail>https://playmax.mx/caratula/400/1/245.jpg4</thumbnail>
     <fanart>https://playmax.mx/cover/full/1/245.jpg0</fanart>
     <genre>Ciencia ficción, Fantástico</genre>
