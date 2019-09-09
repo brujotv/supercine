@@ -1,14 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-  <dir>
-    <title>Addon</title>
-    <trakt>search</trakt>
-  </dir>
-<plugin>
-    <name>Heisenberg</name>
-    <link>plugin://plugin.video.Heisenberg/?action=search</link>
-    <thumbnail></thumbnail>
-</plugin>
+
 
 <item>
 <title>[COLOR lime]•[/COLOR] A fondo  </title>
