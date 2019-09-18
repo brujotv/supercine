@@ -11,11 +11,19 @@
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR] Por años</title>
+<title>[COLOR lime]•[/COLOR] años</title>
 <thumbnail>https://i.imgur.com/ZMJ0fEb.jpg</thumbnail>
 <fanart>https://i.imgur.com/aj44T00.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://raw.githubusercontent.com/brujotv/supercine/master/cinea%C3%B1os.xml</externallink>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Genero </title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/brujotv/supercine/master/gene.xml</externallink>
 </item>
 
 <item>
