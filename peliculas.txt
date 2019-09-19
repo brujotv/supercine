@@ -1,4 +1,4 @@
-peliculas nº960
+peliculas nº968
 
 2019-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -81,6 +81,10 @@ peliculas nº960
 77.El caballero de las sombras
 78.Lo dejo cuando quiera
 79.X-Men: Fénix oscura
+80.El juego del asesino
+81.Tall Girl
+82.Hellboy
+83.Godzilla: Rey de los monstruos
 
 2018-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -227,6 +231,9 @@ peliculas nº960
 148.De la India a París en un armario de Ikea
 149.Gloria Bell
 150.Welcome Home
+151.Dragged Across Concrete
+152.Me llamo Gennet (TV)
+153.Mug
 
 2017-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -301,6 +308,7 @@ peliculas nº960
 69.Un golpe con estilo
 70.Un corazón extraordinario
 71.Familiye
+72.Buenos vecinos
 
 2016-----------------------------------------------------------------------------------------------------------------------------------
 
