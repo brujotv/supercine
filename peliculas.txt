@@ -1,4 +1,4 @@
-peliculas nº987
+peliculas nº1001
 
 2019-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -94,6 +94,8 @@ peliculas nº987
 90.El lado siniestro de la luna
 91.Súper empollonas
 92.Entre dos helechos: La película
+93.Terra Willy: planeta desconocido
+94.Stuber Express
 
 2018-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -251,6 +253,12 @@ peliculas nº987
 159.La corresponsal
 160.Sombra
 161.La importancia de llamarse Oscar Wilde
+162.Ein Sommer in Vietnam (TV)
+163.Dobles vidas
+164.Family Vanished
+165.La tercera esposa
+166.La pequeña traviesa
+167.Project Gutenberg
 
 2017-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -328,6 +336,8 @@ peliculas nº987
 72.Buenos vecinos
 73.Voces ocultas
 74.Como pez fuera del agua
+75.Estasis
+76.Un extraño presentimiento
 
 2016-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -363,6 +373,8 @@ peliculas nº987
 30.13 Horas: Los soldados secretos de Bengasi
 31.Sully
 32.Assassination Classroom: La graduación
+33.Ozzy
+34.Satanic
 
 2015-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -465,6 +477,7 @@ peliculas nº987
 29.Asalto al furgón blindado
 30.Asesino en el tiempo
 31.Atrapada en la oscuridad
+32.París: infierno helado
 
 2012-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -801,6 +814,9 @@ peliculas nº987
 6.Austin Powers: Misterioso agente internacional
 
 1996-----------------------------------------------------------------------------------------------------------------------------------
+
+1.Space Jam
+
 1995-----------------------------------------------------------------------------------------------------------------------------------
 
 1.Seven (Se7en)
