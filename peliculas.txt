@@ -1,4 +1,4 @@
-peliculas nº1009
+peliculas nº1018
 
 2019-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -102,6 +102,11 @@ peliculas nº1009
 98.Toy Story 4
 99.El final de la verdad
 100.Spider-Man: Lejos de casa
+101.La influencia
+102.La biblioteca de los libros rechazados
+103.Fractura
+104.10 días sin mamá
+105.Suburbanos
 
 2018-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -267,6 +272,10 @@ peliculas nº1009
 167.Project Gutenberg
 168.Inuyashiki
 169.Vuela como una mariposa
+170.Kin
+171.Hotel Artemis
+172.Necesitamos tu voto
+173.Vitoria, 3 de marzo
 
 2017-----------------------------------------------------------------------------------------------------------------------------------
 
