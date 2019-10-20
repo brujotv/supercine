@@ -1,4 +1,4 @@
-peliculas nº1018
+peliculas nº1027
 
 2019-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -107,6 +107,10 @@ peliculas nº1018
 103.Fractura
 104.10 días sin mamá
 105.Suburbanos
+106.El sol también es una estrella
+107.The Laundromat: Dinero sucio
+108.Wounds
+109.Mr. Link. El origen perdido
 
 2018-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -276,6 +280,11 @@ peliculas nº1018
 171.Hotel Artemis
 172.Necesitamos tu voto
 173.Vitoria, 3 de marzo
+174.Hurricane
+175.Enemigos íntimos
+176.La canción de mi padre
+177.Driven: el origen de la leyenda
+178.El vendedor de tabaco
 
 2017-----------------------------------------------------------------------------------------------------------------------------------
 
