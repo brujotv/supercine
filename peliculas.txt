@@ -1,5 +1,8 @@
 peliculas nº1028
 calorina sandobal
+<link>plugin://plugin.video.torrentin/?uri=</link>
+
+
 2019-----------------------------------------------------------------------------------------------------------------------------------
 
 1.Cómo entrenar a tu dragón 3
