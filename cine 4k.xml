@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+
+<item>
+<title>[COLOR lime]•[/COLOR] esl [COLOR yellow]HD[/COLOR]</title>
+<link>plugin://plugin.video.torrentin/?uri=https://archive.org/download/pt1941.mkv/pt1941.mkv_archive.torrent</link>
+<fanart>https://www.adslzone.net/app/uploads/2017/12/blu-ray-4k-uhd.jpg</fanart>
+<thumbnail>http://www.veotorrent.com/media/k2/items/cache/dda224f5f73f8293718cc39912ac22e5_L.jpg</thumbnail>
+</item>
+
+plugin://plugin.video.torrentin/?uri=http%3A%2F%2Fwww.elitetorrent.net%2Fget-torrent%2F27233&image=imageurl&player=0'
  
 <item>
 <title>[COLOR lime]•[/COLOR] esl [COLOR yellow]HD[/COLOR]</title>
