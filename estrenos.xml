@@ -1,15 +1,63 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[COLOR lime]•[/COLOR]  </title>
-<urlsolve></urlsolve>
-<urlsolve></urlsolve>
+<title>[COLOR lime]•[/COLOR]  [COLOR red](torrent)[/COLOR]</title>
+<link>plugin://plugin.video.torrentin/?uri=</link>
+<thumbnail><thumbnail>
+<fanart></fanart>
+<genre></genre>
+<year>2019</year>
+<info></info> 
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR]  [COLOR yellow](Streaming)[/COLOR]</title>
 <urlsolve></urlsolve>
 <thumbnail><thumbnail>
 <fanart></fanart>
 <genre></genre>
 <year>2019</year>
 <info></info> 
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Diecisiete [COLOR red](torrent)[/COLOR]</title>
+<link>plugin://plugin.video.torrentin/?uri=https://www.elitetorrent.nu/wp-content/uploads/files/1571606640-1571399690-Seventeen%20[1080p][Castellano][wWw.EliteTorrent.IS]%20(1).torrent</link>
+<thumbnail>https://i.imgur.com/52wmOFf.jpg<thumbnail>
+<fanart>https://i.imgur.com/0YTvDoD.jpg</fanart>
+<genre>Drama. Comedia</genre>
+<year>2019</year>
+<info>Héctor es un chico de 17 años que lleva dos interno en un centro de menores. Insociable y poco comunicativo, apenas se relaciona con nadie hasta que se anima a participar en una terapia de reinserción con perros. En ella establece un vínculo indisoluble con una perra, a la que llama Oveja. Pero un día la perra es adoptada y Héctor se muestra incapaz de aceptarlo. A pesar de que le quedan menos de dos meses para cumplir su internamiento, decide escaparse para ir a buscarla.</info> 
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Diecisiete [COLOR yellow](Streaming)[/COLOR]</title>
+<urlsolve>https://vidoza.net/wtalalstbzp2.html</urlsolve>
+<thumbnail>https://i.imgur.com/52wmOFf.jpg<thumbnail>
+<fanart>https://i.imgur.com/0YTvDoD.jpg</fanart>
+<genre>Drama. Comedia</genre>
+<year>2019</year>
+<info>Héctor es un chico de 17 años que lleva dos interno en un centro de menores. Insociable y poco comunicativo, apenas se relaciona con nadie hasta que se anima a participar en una terapia de reinserción con perros. En ella establece un vínculo indisoluble con una perra, a la que llama Oveja. Pero un día la perra es adoptada y Héctor se muestra incapaz de aceptarlo. A pesar de que le quedan menos de dos meses para cumplir su internamiento, decide escaparse para ir a buscarla.</info> 
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Los Descendientes 3 (TV) [COLOR red](torrent)[/COLOR]</title>
+<link>plugin://plugin.video.torrentin/?uri=https://www.elitetorrent.nu/wp-content/uploads/files/1572994688-Desscendientes%203%20[1080p][Castellano][wWw.EliteTorrent.NU].torrent</link>
+<thumbnail>https://i.imgur.com/xkQuXfy.jpg<thumbnail>
+<fanart>https://i.imgur.com/KZzRx58.jpg</fanart>
+<genre>Fantástico</genre>
+<year>2019</year>
+<info>Los hijos de los villanos, Mal, Evie, Jay y Carlos vuelven una vez más a la pequeña pantalla en una aventura en la que conoceremos al padre de Mal, que será el nuevo villano. Además, la hija de Úrsula, Uma, que dio mucha guerra en la anterior entrega, se une al grupo de protagonistas. En la cinta también aparecerán otros villanos clásicos de Disney como Hades, de Hércules, y el Dr. Facilier, de Tiana y el sapo.</info> 
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Los Descendientes 3 (TV) [COLOR yellow](Streaming)[/COLOR]</title>
+<urlsolve>https://vidoza.net/b903ls7cjllb.html</urlsolve>
+<thumbnail>https://i.imgur.com/xkQuXfy.jpg<thumbnail>
+<fanart>https://i.imgur.com/KZzRx58.jpg</fanart>
+<genre>Fantástico</genre>
+<year>2019</year>
+<info>Los hijos de los villanos, Mal, Evie, Jay y Carlos vuelven una vez más a la pequeña pantalla en una aventura en la que conoceremos al padre de Mal, que será el nuevo villano. Además, la hija de Úrsula, Uma, que dio mucha guerra en la anterior entrega, se une al grupo de protagonistas. En la cinta también aparecerán otros villanos clásicos de Disney como Hades, de Hércules, y el Dr. Facilier, de Tiana y el sapo.</info> 
 </item>
 
 <item>
