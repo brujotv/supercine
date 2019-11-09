@@ -1,24 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-<item>
-<title>[COLOR lime]•[/COLOR]  [COLOR red](torrent)[/COLOR]</title>
-<link>plugin://plugin.video.torrentin/?uri=</link>
-<thumbnail><thumbnail>
-<fanart></fanart>
-<genre></genre>
-<year>2019</year>
-<info></info> 
-</item>
 
-<item>
-<title>[COLOR lime]•[/COLOR]  [COLOR yellow](Streaming)[/COLOR]</title>
-<urlsolve></urlsolve>
-<thumbnail><thumbnail>
-<fanart></fanart>
-<genre></genre>
-<year>2019</year>
-<info></info> 
-</item>
 
 <item>
 <title>[COLOR lime]•[/COLOR] Diecisiete [COLOR red](torrent)[/COLOR]</title>

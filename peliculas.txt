@@ -3,6 +3,26 @@ calorina sandobal
 <link>plugin://plugin.video.torrentin/?uri=</link>
 
 
+<item>
+<title>[COLOR lime]•[/COLOR]  [COLOR red](torrent)[/COLOR]</title>
+<link>plugin://plugin.video.torrentin/?uri=</link>
+<thumbnail><thumbnail>
+<fanart></fanart>
+<genre></genre>
+<year>2019</year>
+<info></info> 
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR]  [COLOR yellow](Streaming)[/COLOR]</title>
+<urlsolve></urlsolve>
+<thumbnail><thumbnail>
+<fanart></fanart>
+<genre></genre>
+<year>2019</year>
+<info></info> 
+</item>
+
 2019-----------------------------------------------------------------------------------------------------------------------------------
 
 1.Cómo entrenar a tu dragón 3
