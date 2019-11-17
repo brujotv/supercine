@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-
+<item>
+<title>[COLOR lime]•[/COLOR] Ana y el apocalipsis [COLOR red](torrent)[/COLOR]</title>
+<link>plugin://plugin.video.torrentin/?uri=https://www.elitetorrent.tv/wp-content/uploads/files/1566537183-Ana%20y%20el%20Apocalipsis%20[1080p][Castellano][wWw.EliteTorrent.IO].torrent</link>
+<thumbnail>https://i.imgur.com/NbVhPQe.jpg<thumbnail>
+<fanart>https://i.imgur.com/3V3z6cU.jpg</fanart>
+<genre>Comedia. Terror. Musical</genre>
+<year>2017</year>
+<info>La tranquila localidad de Little Haven se ve invadida por una horda de muertos vivientes que amenazan con chafarles las fiestas navideñas. Anna y sus amigos harán frente a la amenaza con toda su energía, sobreviviendo a muñecos de nieve zombificados, salvajes despedidas de soltero y adolescentes desenfrenados. ¡Y aún les sobrarán fuerzas para marcarse unos números musicales!</info> 
+</item>
 
 <item>
-<title>[COLOR lime]•[/COLOR] Ana y el apocalipsis </title>
-<urlsolve>https://verystream.com/stream/NS3rsj9crL5/An4Apoc4lips1s.mkv.mp4</urlsolve>
-<urlsolve>https://www.rapidvideo.com/v/G6DT95CVMZ</urlsolve>
+<title>[COLOR lime]•[/COLOR] Ana y el apocalipsis [COLOR yellow](Streaming)[/COLOR]</title>
 <urlsolve></urlsolve>
 <thumbnail>https://i.imgur.com/NbVhPQe.jpg<thumbnail>
 <fanart>https://i.imgur.com/3V3z6cU.jpg</fanart>
@@ -15,10 +21,22 @@
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR] A la sombra de Kennedy </title>
-<urlsolve>https://verystream.com/stream/YsQJwmRQviM/AlaS0mbr4K3n3dy.mkv</urlsolve>
-<urlsolve>https://www.rapidvideo.com/v/G6P4U9AANN</urlsolve>
-<urlsolve>http://streamcloud.eu/qi6kgvxpgkcj/ALaS0mbraD3K3nn3dy.avi.html</urlsolve>
+<title>[COLOR lime]•[/COLOR] A la sombra de Kennedy [COLOR red](torrent)[/COLOR]</title>
+<link>plugin://plugin.video.torrentin/?uri=</link>
+<thumbnail>https://i.imgur.com/hBB65hh.jpg<thumbnail>
+<fanart>https://i.imgur.com/z2mfTgA.jpg</fanart>
+<genre>Drama</genre>
+<year>2016</year>
+<info>Biopic del 36º sobre el presidente norteamericano Lyndon B. Johnson:
+ su época como senador, su candidatura a la Vicepresidencia y su papel como 
+ Presidente de los Estados Unidos tras el asesinato de John Fitzgerald Kennedy en Dallas,
+ en noviembre de 1963.
+ </info> 
+</item>
+ 
+<item>
+<title>[COLOR lime]•[/COLOR] A la sombra de Kennedy [COLOR yellow](Streaming)[/COLOR]</title>
+<urlsolve></urlsolve>
 <thumbnail>https://i.imgur.com/hBB65hh.jpg<thumbnail>
 <fanart>https://i.imgur.com/z2mfTgA.jpg</fanart>
 <genre>Drama</genre>
@@ -30,10 +48,9 @@
  </info> 
 </item>
 
- <item>
-<title>[COLOR lime]•[/COLOR] Amigos por siempre </title>
-<urlsolve>https://www.rapidvideo.com/v/G4STICI8DM</urlsolve>
-<urlsolve>http://streamcloud.eu/axoo7ubfhtdv/Am1g0sP0rS13mpr3.mkv.html</urlsolve>
+<item>
+<title>[COLOR lime]•[/COLOR] Amigos por siempre [COLOR red](torrent)[/COLOR]</title>
+<link>plugin://plugin.video.torrentin/?uri=</link>
 <thumbnail>https://image.tmdb.org/t/p/w154/l7y52rDag7Q3srH0Ej0X5GuQTUf.jpg<thumbnail>
 <fanart>https://i.imgur.com/Z1EHdek.jpg</fanart>
 <genre>Comedia.Drama</genre>
@@ -45,11 +62,35 @@ en el día a día.
 </info> 
 </item>
 
+ <item>
+<title>[COLOR lime]•[/COLOR] Amigos por siempre [COLOR yellow](Streaming)[/COLOR]</title>
+<urlsolve></urlsolve>
+<thumbnail>https://image.tmdb.org/t/p/w154/l7y52rDag7Q3srH0Ej0X5GuQTUf.jpg<thumbnail>
+<fanart>https://i.imgur.com/Z1EHdek.jpg</fanart>
+<genre>Comedia.Drama</genre>
+<year>2017</year>
+<info>Remake norteamericano del gran éxito del cine francés «Intocable» (2011),
+que aborda la relación que se desarrolla entre un parapléjico y un desempleado 
+con antecedentes criminales que es contratado como asistente personal para ayudarle 
+en el día a día.
+</info> 
+</item> 
+ 
 <item>
-<title>[COLOR lime]•[/COLOR] Abracadabra</title>
-<urlsolve>https://verystream.com/stream/eermyzkCKoR/A8racada8ra.avi</urlsolve>
-<urlsolve>https://www.rapidvideo.com/v/G6OVDEDX75</urlsolve>
-<urlsolve>http://streamcloud.eu/xi2773yx1mwr/abracadabra.microhd720p.bravier.mkv.html</urlsolve>
+<title>[COLOR lime]•[/COLOR] Abracadabra </title>
+<link>plugin://plugin.video.torrentin/?uri=</link>
+<thumbnail>https://i.imgur.com/9URVUau.jpg<thumbnail>
+<fanart>https://i.imgur.com/zEYc9CC.jpg</fanart>
+<genre>Comedia</genre>
+<year>2017</year>
+<info>Carmen (Maribel Verdú), un ama de casa del barrio madrileño de Carabanchel, 
+  descubre un día que su marido, Carlos (De la Torre), parece estar poseído por un espíritu maligno. 
+  Ahí empieza una exhaustiva investigación, entre terrorífica y disparatada, para intentar recuperarlo.</info> 
+</item>
+ 
+<item>
+<title>[COLOR lime]•[/COLOR] Abracadabra </title>
+<urlsolve></urlsolve>
 <thumbnail>https://i.imgur.com/9URVUau.jpg<thumbnail>
 <fanart>https://i.imgur.com/zEYc9CC.jpg</fanart>
 <genre>Comedia</genre>
@@ -61,9 +102,7 @@ en el día a día.
 
 <item>
 <title>[COLOR lime]•[/COLOR] Arsenal </title>
-<urlsolve>https://verystream.com/stream/VPMQmNWGQBJ/Ar53na1.mkv</urlsolve>
-<urlsolve>https://www.rapidvideo.com/v/G6OWGE8WDN</urlsolve>
-<urlsolve>http://streamcloud.eu/rg7xxwt9clz8/Arsenal.avi.html</urlsolve>
+<urlsolve></urlsolve>
 <thumbnail>https://i.imgur.com/mQ9pVA6.jpg<thumbnail>
 <fanart>https://i.imgur.com/cN64h9g.jpg</fanart>
 <genre>Thriller</genre>
@@ -77,8 +116,6 @@ Entonces será cuando el empresario deba tomar cartas en el asunto.
 
 <item>
 <title>[COLOR lime]•[/COLOR] Buenos vecinos </title>
-<urlsolve>https://verystream.com/stream/QVEGFhfE2Ww/Bu3nosV3c1nos.mkv</urlsolve>
-<urlsolve>https://www.rapidvideo.com/v/G73RDLUVI3</urlsolve>
 <urlsolve></urlsolve>
 <thumbnail>https://i.imgur.com/4prJXf5.jpg<thumbnail>
 <fanart>https://i.imgur.com/OLwylLS.jpg</fanart>
@@ -89,9 +126,7 @@ Entonces será cuando el empresario deba tomar cartas en el asunto.
 
 <item>
 <title>[COLOR lime]•[/COLOR] Bleeding Steel </title>
-<urlsolve>https://verystream.com/stream/ZAkZvK83VCk/B133d1ng5t33l.mkv</urlsolve>
-<urlsolve>https://www.rapidvideo.com/v/G57L8QL09S</urlsolve>
-<urlsolve>http://streamcloud.eu/jt15aeewzo2y/B133d1ng5t33l.mkv.html</urlsolve>
+<urlsolve></urlsolve>
 <thumbnail>https://i.imgur.com/wxF80ut.jpg<thumbnail>
 <fanart>https://i.imgur.com/X6NbVjt.jpg</fanart>
 <genre>Acción.Comedia.Ciencia ficción.Thriller</genre>
@@ -101,8 +136,7 @@ Entonces será cuando el empresario deba tomar cartas en el asunto.
 
 <item>
 <title>[COLOR lime]•[/COLOR] Burn Out </title>
-<urlsolve>https://www.rapidvideo.com/v/G4W5JBY7PO</urlsolve>
-<urlsolve>http://streamcloud.eu/gm76yf38m1of/8rn0ut.mkv.html</urlsolve>
+<urlsolve></urlsolve>
 <thumbnail>https://i.imgur.com/Uulyp67.jpg<thumbnail>
 <fanart>https://i.imgur.com/u220fij.jpg</fanart>
 <genre>Acción.Thriller</genre>
@@ -112,9 +146,7 @@ Entonces será cuando el empresario deba tomar cartas en el asunto.
 
 <item>
 <title>[COLOR lime]•[/COLOR] Breath (Respira) </title>
-<urlsolve>https://verystream.com/stream/chv5rwhLfmR/Br34th.mkv</urlsolve>
-<urlsolve>https://www.rapidvideo.com/v/G6P59O3Z86</urlsolve>
-<urlsolve>http://streamcloud.eu/a1plpfciz3m1/Breath__BluRay_Rip_720p_X264_MKV__AC3_5.1_Castellano_-_Ingles_-_Sub_ES__2019_.mkv.html</urlsolve>
+<urlsolve></urlsolve>
 <thumbnail>https://i.imgur.com/fHTHMaZ.jpg<thumbnail>
 <fanart>https://i.imgur.com/W9Wn9tq.jpg</fanart>
 <genre>Drama</genre>
@@ -127,9 +159,7 @@ Entonces será cuando el empresario deba tomar cartas en el asunto.
 
 <item>
 <title>[COLOR lime]•[/COLOR] Baby Driver</title>
-<urlsolve>https://verystream.com/stream/hdm9RUeKXNP/8a8yDr1v3r.avi</urlsolve>
-<urlsolve>https://www.rapidvideo.com/v/G6OWAXKWYI</urlsolve>
-<urlsolve>http://streamcloud.eu/dkj8losz80qo/baby_driver__2017___hdrip_xvid_.avi.html</urlsolve>
+<urlsolve></urlsolve>
 <thumbnail>https://i.imgur.com/JygxLJY.jpg<thumbnail>
 <fanart>https://i.imgur.com/cCC6CbO.jpg</fanart>
 <genre>Thriller. Acción. Comedia</genre>
@@ -144,9 +174,7 @@ Entonces será cuando el empresario deba tomar cartas en el asunto.
 
  <item>
 <title>[COLOR lime]•[/COLOR] Barry Seal: El Traficante</title>
-<urlsolve>https://verystream.com/stream/7ekL1YQwAJF/8arry53a1.mp4</urlsolve>
-<urlsolve>https://www.rapidvideo.com/v/G6R48HI98P</urlsolve>
-<urlsolve>http://streamcloud.eu/z8yoei1aja1t/Barry_Seal_El_traficante__BluRay_Rip__AC3_5.1_Espa__ol_Castellano__2017_.avi.html</urlsolve>
+<urlsolve></urlsolve>
 <thumbnail>https://i.imgur.com/HdAElkM.jpg</thumbnail>
 <fanart>https://i.imgur.com/moKOfIt.jpg</fanart>
 <genre>Thriller</genre>
@@ -156,11 +184,9 @@ Entonces será cuando el empresario deba tomar cartas en el asunto.
  reclutado por la CIA y el departamento de inteligencia de la DEA.</info> 
 </item>
  
- <item>
+<item>
 <title>[COLOR lime]•[/COLOR] Bright</title>
-<urlsolve>https://verystream.com/stream/YG1bRFgJBuU/8r1ght.mp4</urlsolve>
-<urlsolve>https://www.rapidvideo.com/v/G6R25FMJ7V</urlsolve>
-<urlsolve>http://streamcloud.eu/6m3r5zrb5buj/Bright.2017.HD.mkv_ESP__1080p__www.elitetorrent.biz_.mp4.html</urlsolve>
+<urlsolve></urlsolve>
 <thumbnail>https://i.imgur.com/xLfWy07.jpg<thumbnail>
 <fanart>https://i.imgur.com/IPo5nbG.jpg</fanart>
 <genre>Fantástico. Acción</genre>
@@ -174,11 +200,9 @@ Entonces será cuando el empresario deba tomar cartas en el asunto.
  Los dos protagonistas se verán entonces envueltos en una guerra territorial.</info> 
 </item>
 
- <item>
+<item>
 <title>[COLOR lime]•[/COLOR] Blade runner 2049</title>
-<urlsolve>https://verystream.com/stream/HaEkpCGz1bu/81ad3Runn3r2049.avi</urlsolve>
-<urlsolve>https://www.rapidvideo.com/v/G6R41GF2J6</urlsolve>
-<urlsolve>http://streamcloud.eu/p0ilb8gjwe54/Blade_Runner_2049__HDRip__Espa__ol__wWw.EliteTorrent.BiZ_.avi.html</urlsolve>
+<urlsolve></urlsolve>
 <thumbnail>https://i.imgur.com/pzmECsF.jpg<thumbnail>
 <fanart>https://i.imgur.com/Mf4KidB.jpg</fanart>
 <genre>Ciencia ficción</genre>
@@ -203,9 +227,7 @@ Denis Villeneuve (Sicario, La llegada) dirige esta nueva historia
 
 <item>
 <title>[COLOR lime]•[/COLOR] Bushwick</title>
-<urlsolve>https://verystream.com/stream/HD4xbiJAxY5/bushw1ck.mp4</urlsolve>
-<urlsolve>https://www.rapidvideo.com/v/G6R3TKH2QS</urlsolve>
-<urlsolve>http://streamcloud.eu/xoazv14bq3cd/Bushwick.HDRip.avi.html</urlsolve>
+<urlsolve></urlsolve>
 <thumbnail>https://i.imgur.com/zmUIyXc.jpg</thumbnail>
 <fanart>https://i.imgur.com/Xty0R6Y.jpg</fanart>
 <genre>Acción</genre>
@@ -221,8 +243,7 @@ Denis Villeneuve (Sicario, La llegada) dirige esta nueva historia
 
 <item>
 <title>[COLOR lime]•[/COLOR] Bomb City </title>
-<urlsolve>https://www.rapidvideo.com/v/G4N4GW09CC</urlsolve>
-<urlsolve>http://streamcloud.eu/3cxuq1n142tt/80mbC1ty.mkv.html</urlsolve>
+<urlsolve></urlsolve>
 <thumbnail>https://i.imgur.com/LoYzIy1.jpg</thumbnail>
 <fanart>https://i.imgur.com/Bi2ljJj.jpg</fanart>
 <genre>Drama | Crimen. Basado en hechos reales</genre>
@@ -233,8 +254,6 @@ Basada en la historia de un joven asesinado en un entorno de aversión cultural 
 
 <item>
 <title>[COLOR lime]•[/COLOR] Como pez fuera del agua </title>
-<urlsolve>https://verystream.com/stream/2SKFm82Cvpf/pt1774.mkv</urlsolve>
-<urlsolve>https://www.rapidvideo.com/v/G7MKYO2LY6</urlsolve>
 <urlsolve></urlsolve>
 <thumbnail>https://i.imgur.com/9frqYeH.jpg<thumbnail>
 <fanart>https://i.imgur.com/6GGZzod.jpg</fanart>
@@ -245,8 +264,6 @@ Basada en la historia de un joven asesinado en un entorno de aversión cultural 
 
 <item>
 <title>[COLOR lime]•[/COLOR] Ciudad sin ley </title>
-<urlsolve>https://verystream.com/stream/hJe8zNKc4JR/C1udadL3y.mkv.mp4</urlsolve>
-<urlsolve>https://www.rapidvideo.com/v/G60UV9RN0L</urlsolve>
 <urlsolve></urlsolve>
 <thumbnail>https://i.imgur.com/04FM0mf.jpg<thumbnail>
 <fanart>https://i.imgur.com/WmBbPkP.png</fanart>
@@ -257,9 +274,7 @@ Basada en la historia de un joven asesinado en un entorno de aversión cultural 
 
 <item>
 <title>[COLOR lime]•[/COLOR] Colonia V </title>
-<urlsolve>https://verystream.com/stream/ZA5zANnKG1o/C010n1aV.mkv.mp4</urlsolve>
-<urlsolve>https://www.rapidvideo.com/v/G5JPNQRC79</urlsolve>
-<urlsolve>http://streamcloud.eu/uhy1k00u9kra/C010n1aV.mkv.html</urlsolve>
+<urlsolve></urlsolve>
 <thumbnail>https://i.imgur.com/sRJkyuF.jpg<thumbnail>
 <fanart>https://i.imgur.com/G6Lzea1.jpg</fanart>
 <genre>Ciencia ficción.Acción</genre>
@@ -269,9 +284,7 @@ Basada en la historia de un joven asesinado en un entorno de aversión cultural 
 
 <item>
 <title>[COLOR lime]•[/COLOR] Cincuenta sombras mas oscuras (V.Ext)</title>
-<urlsolve>https://verystream.com/stream/4f27BMwGRuX/C1ncu3nta50mbra5m%C3%A1505cura5.mkv.mp4</urlsolve>
-<urlsolve>https://www.rapidvideo.com/v/G6R43BQYMO</urlsolve>
-<urlsolve>http://streamcloud.eu/rwiyk5qgfhtz/Cincuenta_sombras_m__s_oscuras__V.Ext___HDRip_.avi.html</urlsolve>
+<urlsolve></urlsolve>
 <thumbnail>https://i.imgur.com/ISc15X4.jpg<thumbnail>
 <fanart>https://i.imgur.com/8GFPtrS.jpg</fanart>
 <genre>Romance. Drama</genre>
@@ -284,9 +297,18 @@ Basada en la historia de un joven asesinado en un entorno de aversión cultural 
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR] Cuestión de karma  </title>
-<urlsolve>https://www.rapidvideo.com/v/G4LO0HKS94</urlsolve>
-<urlsolve>http://streamcloud.eu/cgxvlhwtlhrc/Cu3stionK4rma.mkv.html</urlsolve>
+<title>[COLOR lime]•[/COLOR] Cuestión de karma [COLOR red](torrent)[/COLOR] </title>
+<link>plugin://plugin.video.torrentin/?uri=</link>
+<thumbnail>https://i.imgur.com/9aAm4MM.jpg<thumbnail>
+<fanart></fanart>
+<genre>Comedia</genre>
+<year>2017</year>
+<info>Giacomo (Fabio De Luigi) es el extravagante heredero de una dinastía de empresarios, pero más que interesarse por los negocios, prefiere dedicarse a sus muchas pasiones. Su vida ha estado marcada por la desaparición de su padre cuando era muy pequeño. El encuentro con un excéntrico esoterista francés le cambia la vida: éste le convence de haber encontrado a la reencarnación de su padre. Se trata de un tal Mario Pitagora (Elio Germano), un hombre para nada espiritual, interesado solo por el dinero, y endeudado con media ciudad.</info> 
+</item>
+ 
+<item>
+<title>[COLOR lime]•[/COLOR] Cuestión de karma [COLOR yellow](Streaming)[/COLOR] </title>
+<urlsolve></urlsolve>
 <thumbnail>https://i.imgur.com/9aAm4MM.jpg<thumbnail>
 <fanart></fanart>
 <genre>Comedia</genre>
@@ -328,9 +350,7 @@ Basada en la historia de un joven asesinado en un entorno de aversión cultural 
 
  <item>
 <title>[COLOR lime]•[/COLOR] Capitán Calzoncillos</title>
-<urlsolve>https://verystream.com/stream/3ddmBT5GQLv/Capt1anCalz0nc1ll05.avi.mp4</urlsolve>
-<urlsolve>https://www.rapidvideo.com/v/G6RHQ4XIMT</urlsolve>
-<urlsolve>http://streamcloud.eu/0wom6ceakvex/Cap1tanC4lzoncill0s.DVDR.bibi.avi.html</urlsolve>
+<urlsolve></urlsolve>
 <thumbnail>https://i.imgur.com/dPfA3Fi.jpg<thumbnail>
 <fanart>https://i.imgur.com/EXpv87d.jpg</fanart>
 <genre>Animación. Comedia</genre>
@@ -347,9 +367,7 @@ Basada en la historia de un joven asesinado en un entorno de aversión cultural 
 
 <item>
 <title>[COLOR lime]•[/COLOR] Ciudad Virtual / Fabricated City </title>
-<urlsolve>https://www.rapidvideo.com/v/G4QHLIPUEL</urlsolve>
-<urlsolve>http://streamcloud.eu/b98hvsoem163/Fabricated_City_DVDRip_www.DivxTotaL.com.avi.html</urlsolve>
-<urlsolve>https://streamango.com/embed/lfobedbsolblfplt/</urlsolve>
+<urlsolve></urlsolve>
 <thumbnail>https://i.imgur.com/8rdr35f.jpg<thumbnail>
 <fanart>https://i.imgur.com/xeJz3p7.jpg</fanart>
 <genre>Acción. Thriller</genre>
@@ -359,8 +377,7 @@ Basada en la historia de un joven asesinado en un entorno de aversión cultural 
 
 <item>
 <title>[COLOR lime]•[/COLOR] Cambio de reinas </title>
-<urlsolve>https://www.rapidvideo.com/v/G4LO5B4J17</urlsolve>
-<urlsolve>http://streamcloud.eu/d4vjsnqpvdlt/C4mbioR3inas.mkv.html</urlsolve>
+<urlsolve></urlsolve>
 <thumbnail>https://i.imgur.com/SYq5ccU.jpg<thumbnail>
 <fanart>https://i.imgur.com/0LY6FB4.jpg</fanart>
 <genre>Drama</genre>
@@ -370,9 +387,7 @@ Basada en la historia de un joven asesinado en un entorno de aversión cultural 
 
 <item>
 <title>[COLOR lime]•[/COLOR] Dementia 13 </title>
-<urlsolve>https://verystream.com/stream/qNEvt56kwb/D3m3nc1a.mkv</urlsolve>
-<urlsolve>https://www.rapidvideo.com/v/G6RRCRVRDT</urlsolve>
-<urlsolve>http://streamcloud.eu/5n2acavbol8w/Dementia_13__BlurayRIP__AC___2.0_Castellano__2019_.avi.html</urlsolve>
+<urlsolve></urlsolve>
 <thumbnail>https://i.imgur.com/eNcGKIJ.jpg<thumbnail>
 <fanart>https://i.imgur.com/PpPtVI9.jpg</fanart>
 <genre>Terror</genre>
@@ -385,8 +400,6 @@ convergen en una noche de terror.
 
 <item>
 <title>[COLOR lime]•[/COLOR] Estasis </title>
-<urlsolve>https://verystream.com/stream/eDd3cfzQqUY/pt1775.mkv</urlsolve>
-<urlsolve>https://www.rapidvideo.com/v/G7QW36KBVC</urlsolve>
 <urlsolve></urlsolve>
 <thumbnail>https://i.imgur.com/WvjBTAC.jpg<thumbnail>
 <fanart>https://i.imgur.com/h2Cf9Aj.jpg</fanart>
@@ -397,9 +410,7 @@ convergen en una noche de terror.
 
 <item>
 <title>[COLOR lime]•[/COLOR] El Ritual</title>
-<urlsolve>https://verystream.com/stream/AYLqny6JTqZ/31R1tua1.mkv</urlsolve>
-<urlsolve>https://www.rapidvideo.com/v/G6V3RKPNOE</urlsolve>
-<urlsolve>http://streamcloud.eu/hvtgsazhtxmy/El_Ritual_2017_HDRip_Spanish__ZonaTorrent2.Com_.avi.html</urlsolve>
+<urlsolve></urlsolve>
 <thumbnail>https://i.imgur.com/ab2Mg6E.jpg<thumbnail>
 <fanart>https://i.imgur.com/6Zp2OPv.jpg</fanart>
 <genre>Terror</genre>
@@ -412,8 +423,6 @@ convergen en una noche de terror.
 
 <item>
 <title>[COLOR lime]•[/COLOR] El precio del perdón </title>
-<urlsolve>https://verystream.com/stream/DT4WjbEUu1r/31Pr3c10D31P3rd0n.mkv.mp4</urlsolve>
-<urlsolve>https://www.rapidvideo.com/v/G6EDHCQ7SF</urlsolve>
 <urlsolve></urlsolve>
 <thumbnail>https://i.imgur.com/iFCoWPk.jpg<thumbnail>
 <fanart>https://i.imgur.com/P8vi90K.jpg</fanart>
@@ -425,8 +434,6 @@ convergen en una noche de terror.
 <item>
 <title>[COLOR lime]•[/COLOR] El profesor Marston y Wonder Women</title>
 <urlsolve></urlsolve>
-<urlsolve></urlsolve>
-<urlsolve>http://streamcloud.eu/k28d1txky7xr/El_Profesor_Marston_y_Wonder_Women_HDRip_Spanish.avi.html</urlsolve>
 <thumbnail>https://i.imgur.com/nexN0EO.jpg<thumbnail>
 <fanart>https://i.imgur.com/501Xir2.jpg</fanart>
 <genre>Drama</genre>
@@ -447,8 +454,6 @@ convergen en una noche de terror.
 <item>
 <title>[COLOR lime]•[/COLOR] El Pajaro Loco La Pelicula</title>
 <urlsolve></urlsolve>
-<urlsolve></urlsolve>
-<urlsolve>http://streamcloud.eu/zilgut37lkpk/El_Pajaro_Loco_La_pelicula_2017_HDRip_Spanish__ZonaTorrent2.Com_.avi.html</urlsolve>
 <thumbnail>https://i.imgur.com/LldOWMm.jpg<thumbnail>
 <fanart>https://i.imgur.com/9CcPjgY.jpg</fanart>
 <genre>Comedia</genre>
@@ -462,8 +467,6 @@ convergen en una noche de terror.
 <item>
 <title>[COLOR lime]•[/COLOR] El bebé jefazo </title>
 <urlsolve></urlsolve>
-<urlsolve></urlsolve>
-<urlsolve>http://streamcloud.eu/c9q4zbdbgy4b</urlsolve>
 <thumbnail>https://i.imgur.com/m5hbr7v.jpg<thumbnail>
 <fanart>https://i.imgur.com/51G5NoX.jpg</fanart>
 <genre>Animación. Comedia. Infantil</genre>
@@ -475,8 +478,6 @@ convergen en una noche de terror.
 
 <title>[COLOR lime]•[/COLOR] El Secreto de Marrowbone</title>
 <urlsolve></urlsolve>
-<urlsolve></urlsolve>
-<urlsolve>https://streamcherry.com/f/ocssmnrempfmccdn/Marrowbone_2017_1080p-dual-cast-cinecalidad_to_mp4</urlsolve>
 <fanart>https://i.imgur.com/5m4yQ6R.jpg</fanart>
 <thumbnail>https://i.imgur.com/DDJiLWl.jpg</thumbnail>
 <genre>Terror. Thriller. Drama</genre>
@@ -489,8 +490,6 @@ convergen en una noche de terror.
 <item>
 <title>[COLOR lime]•[/COLOR] El extranjero </title>
 <urlsolve></urlsolve>
-<urlsolve></urlsolve>
-<urlsolve>http://streamcloud.eu/mg3gbehactaf/El_Extranjero__2017__HD_1080p.mkv.html</urlsolve>
 <thumbnail>https://i.imgur.com/SKmZXQs.jpg<thumbnail>
 <fanart>https://i.imgur.com/hs2x33I.jpg</fanart>
 <genre>Thriller. Acción</genre>
@@ -505,9 +504,7 @@ juego del gato y el ratón con un funcionario del gobierno británico,
 
 <item>
 <title>[COLOR lime]•[/COLOR] Familiye </title>
-<urlsolve>https://verystream.com/stream/c76gw1uezx4/F4m1liye.mkv</urlsolve>
-<urlsolve>https://www.rapidvideo.com/v/G6MP03NTGI</urlsolve>
-<urlsolve>http://streamcloud.eu/3s1pbmhme1g8/Familiye__BluRay_Rip__AC3_5.1_Castellano__2019_.avi.html</urlsolve>
+<urlsolve></urlsolve>
 <thumbnail>https://i.imgur.com/2A1Iikb.jpg<thumbnail>
 <fanart>https://i.imgur.com/Y5d4790.jpg</fanart>
 <genre>Drama</genre>
@@ -520,8 +517,6 @@ después de salir de la cárcel, tiene que cuidar a sus dos hermanos menores.
 
 <item>
 <title>[COLOR lime]•[/COLOR] Framed </title>
-<urlsolve>https://verystream.com/stream/5KthunWFYzt/Fr4m3d.mkv.mp4</urlsolve>
-<urlsolve>https://www.rapidvideo.com/v/G630RW6IVG</urlsolve>
 <urlsolve></urlsolve>
 <thumbnail>https://i.imgur.com/rTswnRw.jpg<thumbnail>
 <fanart>https://i.imgur.com/3UT1ncx.jpg</fanart>
@@ -532,9 +527,7 @@ después de salir de la cárcel, tiene que cuidar a sus dos hermanos menores.
 
 <item>
 <title>[COLOR lime]•[/COLOR] Gru 3. Mi villano favorito </title>
-<urlsolve>https://verystream.com/stream/VXpewbjgcfi/gru3.mkv</urlsolve>
-<urlsolve>https://www.rapidvideo.com/v/G57NPAL8Y2</urlsolve>
-<urlsolve>http://streamcloud.eu/t68mlw8z7job/gru3.mkv.html</urlsolve>
+<urlsolve></urlsolve>
 <thumbnail>https://i.imgur.com/PILEz9T.jpg<thumbnail>
 <fanart>https://i.imgur.com/xvBQuKt.jpg</fanart>
 <genre>Animación.Comedia.Ciencia ficción.Infantil</genre>
@@ -545,8 +538,6 @@ después de salir de la cárcel, tiene que cuidar a sus dos hermanos menores.
 <item>
 <title>[COLOR lime]•[/COLOR] Geostorm</title>
 <urlsolve></urlsolve>
-<urlsolve></urlsolve>
-<urlsolve>http://streamcloud.eu/w9ooijqdkh1m/Geostorm__HDRip__Espa__ol__wWw.EliteTorrent.BiZ_.avi.html</urlsolve>
 <thumbnail>https://i.imgur.com/wFpAKbd.jpg</thumbnail>
 <fanart>https://i.imgur.com/46OLRg9.jpg</fanart>
 <genre>Acción. Thriller. Ciencia ficción</genre>
@@ -570,8 +561,6 @@ después de salir de la cárcel, tiene que cuidar a sus dos hermanos menores.
  <item>
 <title>[COLOR lime]•[/COLOR] Gremlin</title>
 <urlsolve></urlsolve>
-<urlsolve></urlsolve>
-<urlsolve>http://streamcloud.eu/8jyoe4zazm21/Gremlin_2017_HDRip_www.DESCARGASMIX.com.avi.html</urlsolve>
 <thumbnail>https://i.imgur.com/tVWlkhm.jpg<thumbnail>
 <fanart>https://i.imgur.com/n8rNlSi.jpg</fanart>
 <genre>Terror</genre>
@@ -584,8 +573,6 @@ después de salir de la cárcel, tiene que cuidar a sus dos hermanos menores.
  <item>
 <title>[COLOR lime]•[/COLOR] Inside</title>
 <urlsolve></urlsolve>
-<urlsolve></urlsolve>
-<urlsolve>http://streamcloud.eu/ye0svhsw89wt/Inside_2016_HDRip_Spanish.avi.html</urlsolve>
 <thumbnail>https://i.imgur.com/SwgHpW2.jpg<thumbnail>
 <fanart>https://i.imgur.com/RqrmW9U.jpg</fanart>
 <genre>Terror</genre>
@@ -600,9 +587,7 @@ intenciones… Remake de la cinta francesa “Al interior” (À l’intérieur,
 
 <item>
 <title>[COLOR lime]•[/COLOR] John Wick: Pacto de sangre </title>
-<urlsolve>https://verystream.com/stream/9AA8Y6QmtyL/J0hnW1ck2.avi.mp4</urlsolve>
-<urlsolve>https://www.rapidvideo.com/v/G50K6G15MQ</urlsolve>
-<urlsolve>http://streamcloud.eu/ydqtp7vwwnjb/J0hnW1ck2.avi.html</urlsolve>
+<urlsolve></urlsolve>
 <thumbnail>https://i.imgur.com/n3nv6Xr.jpg<thumbnail>
 <fanart>https://i.imgur.com/3B08Csz.jpg</fanart>
 <genre>Acción.Thriller</genre>
@@ -613,8 +598,6 @@ intenciones… Remake de la cinta francesa “Al interior” (À l’intérieur,
  <item>
 <title>[COLOR lime]•[/COLOR] Juerga de Mamis</title>
 <urlsolve></urlsolve>
-<urlsolve></urlsolve>
-<urlsolve>http://streamcloud.eu/g0yq8zqp48rf/Juerga_de_Mamis_2017_HDRip_Spanish.avi.html</urlsolve>
 <thumbnail>https://i.imgur.com/x32s0gZ.jpg?1</thumbnail>
 <fanart>https://i.imgur.com/XMvvfPQ.jpg</fanart>
 <genre>Comedia</genre>
@@ -628,8 +611,6 @@ que se darán cuenta de que tienen mucho más en común de lo que pensaban.</inf
 <item>
 <title>[COLOR lime]•[/COLOR] Kong: La isla calavera </title>
 <urlsolve></urlsolve>
-<urlsolve></urlsolve>
-<urlsolve>http://streamcloud.eu/kqx8unizly6q</urlsolve>
 <thumbnail>https://i.imgur.com/dGJxSLA.jpg</thumbnail>
 <fanart>https://i.imgur.com/jwophi0.jpg</fanart>
 <genre>Aventuras. Fantástico. Acción</genre>
@@ -639,9 +620,7 @@ que se darán cuenta de que tienen mucho más en común de lo que pensaban.</inf
 
 <item>
 <title>[COLOR lime]•[/COLOR] Lejos de Praga </title>
-<urlsolve>https://verystream.com/stream/Mr4pFwZBTwL/L3josPr4ga.m1080p.Castellano.mkv</urlsolve>
-<urlsolve>https://www.rapidvideo.com/v/G5CLPZYXUN</urlsolve>
-<urlsolve>http://streamcloud.eu/o4iekshijiox/L3josPr4ga.m1080p.Castellano.mkv.html</urlsolve>
+<urlsolve></urlsolve>
 <thumbnail>https://i.imgur.com/g1MIE3T.jpg</thumbnail>
 <fanart>https://i.imgur.com/2Mn9JrW.jpg</fanart>
 <genre>Drama.Comedia</genre>
@@ -652,8 +631,6 @@ que se darán cuenta de que tienen mucho más en común de lo que pensaban.</inf
 <item>
 <title>[COLOR lime]•[/COLOR] La Torre Oscura </title>
 <urlsolve></urlsolve>
-<urlsolve></urlsolve>
-<urlsolve>http://streamcloud.eu/q30vtjehr6kv</urlsolve>
 <thumbnail>https://i.imgur.com/DJD8UhP.jpg<thumbnail>
 <fanart>https://i.imgur.com/AXbmjn9.jpg</fanart>
 <genre>Fantástico. Western. Ciencia ficción</genre>
@@ -664,8 +641,6 @@ que se darán cuenta de que tienen mucho más en común de lo que pensaban.</inf
 <item>
 <title>[COLOR lime]•[/COLOR] La bella y la bestia </title>
 <urlsolve></urlsolve>
-<urlsolve></urlsolve>
-<urlsolve>http://streamcloud.eu/jt0ytj6sptmt</urlsolve>
 <thumbnail>https://i.imgur.com/xAQJ9HJ.jpg</thumbnail>
 <fanart>https://i.imgur.com/FJUvhdk.jpg</fanart>
 <genre>Romance. Musical. Fantástico</genre>
@@ -676,8 +651,6 @@ que se darán cuenta de que tienen mucho más en común de lo que pensaban.</inf
 <item>
 <title>[COLOR lime]•[/COLOR] Los vigilantes de la playa</title>
 <urlsolve></urlsolve>
-<urlsolve></urlsolve>
-<urlsolve>http://streamcloud.eu/07qehqjqbt3j/baywatch_los_vigilantes_de_la_playa_dvdrip_www.divxtotal.com.avi.html</urlsolve>
 <thumbnail>https://i.imgur.com/QSi98GR.jpg</thumbnail>
 <fanart>https://i.imgur.com/MWTRbqv.jpg</fanart>
 <genre>Acción. Comedia</genre>
@@ -695,8 +668,6 @@ que se darán cuenta de que tienen mucho más en común de lo que pensaban.</inf
 <item>
 <title>[COLOR lime]•[/COLOR] Liga de la Justicia</title>
 <urlsolve></urlsolve>
-<urlsolve></urlsolve>
-<urlsolve>http://streamcloud.eu/gvy6l4v78dcn/Liga_de_la_Justicia_2017_HDRip_Spanish__ZonaTorrent2.Com_.avi.html</urlsolve>
 <thumbnail>https://i.imgur.com/Z3f0wXr.jpg</thumbnail>
 <fanart>https://i.imgur.com/HQZG3DZ.jpg</fanart>
 <genre>Acción. Fantástico</genre>
@@ -712,8 +683,6 @@ que se darán cuenta de que tienen mucho más en común de lo que pensaban.</inf
 <item>
 <title>[COLOR lime]•[/COLOR] La tormenta (Locked in)</title>
 <urlsolve></urlsolve>
-<urlsolve></urlsolve>
-<urlsolve>http://streamcloud.eu/qtkhtt68mhhi/La_tormenta_2017_HDRip_www.DESCARGASMIX.com.avi.html</urlsolve>
 <thumbnail>https://i.imgur.com/99xDY4n.jpg</thumbnail>
 <fanart>https://i.imgur.com/gBmbpth.jpg</fanart>
 <genre>Thriller</genre>
@@ -726,8 +695,6 @@ que se darán cuenta de que tienen mucho más en común de lo que pensaban.</inf
 <item>
 <title>[COLOR lime]•[/COLOR] La guerra del planeta de los simios</title>
 <urlsolve></urlsolve>
-<urlsolve></urlsolve>
-<urlsolve>http://streamcloud.eu/6m6lmvg1evws/La_Guerra_Del_Planeta_de_los_Simios_2017_HDRip_Spanish__Zonatorrent.org_.avi.html</urlsolve>
 <thumbnail>https://i.imgur.com/xQhLIdr.jpg</thumbnail>
 <fanart>https://i.imgur.com/NrshRPR.jpg</fanart>
 <genre>Ciencia ficción. Aventuras. Bélico</genre>
@@ -743,8 +710,6 @@ que se darán cuenta de que tienen mucho más en común de lo que pensaban.</inf
  <item>
 <title>[COLOR lime]•[/COLOR] La cabaña</title>
 <urlsolve></urlsolve>
-<urlsolve></urlsolve>
-<urlsolve>http://streamcloud.eu/wh73zsup4e54/La_Caba__a_2017_HDRip_Spanish__ZonaTorrent2.Com_.avi.html</urlsolve>
 <thumbnail>https://i.imgur.com/P98z5xr.jpg</thumbnail>
 <fanart>https://i.imgur.com/3hnJW9H.jpg</fanart>
 <genre>Drama</genre>
@@ -760,11 +725,9 @@ que se darán cuenta de que tienen mucho más en común de lo que pensaban.</inf
  lo que encuentra allí cambiará su vida para siempre.</info> 
 </item>
  
- <item>
+<item>
 <title>[COLOR lime]•[/COLOR] La piel fría</title>
 <urlsolve></urlsolve>
-<urlsolve></urlsolve>
-<urlsolve>http://streamcloud.eu/hm6jetl9d7zg/La_Piel_fria_2017_HDRip_Spanish__ZonaTorrent2.Com_.avi.html</urlsolve>
 <thumbnail>https://i.imgur.com/HrcifWU.jpg</thumbnail>
 <fanart>https://i.imgur.com/5Guq8GM.jpg</fanart>
 <genre>Fantástico. Terror</genre>
@@ -778,8 +741,6 @@ que se darán cuenta de que tienen mucho más en común de lo que pensaban.</inf
 
 <item>
 <title>[COLOR lime]•[/COLOR] Monsters at Large </title>
-<urlsolve>https://verystream.com/stream/QVJc6ykt8cw/Caz4M0ustr.mkv.mp4</urlsolve>
-<urlsolve>https://www.rapidvideo.com/v/G62C4GV665</urlsolve>
 <urlsolve></urlsolve>
 <thumbnail>https://i.imgur.com/ez5jHxH.jpg</thumbnail>
 <fanart>https://i.imgur.com/ygArz78.jpg</fanart>
@@ -790,8 +751,6 @@ que se darán cuenta de que tienen mucho más en común de lo que pensaban.</inf
 
 <item>
 <title>[COLOR lime]•[/COLOR] Mujer y marido </title>
-<urlsolve>https://verystream.com/stream/Q6bPENsRcWG/Mujer.y.marido.720p.CAS.mkv</urlsolve>
-<urlsolve>https://www.rapidvideo.com/v/G5LYK49D76</urlsolve>
 <urlsolve></urlsolve>
 <thumbnail>https://i.imgur.com/R006Lsr.jpg</thumbnail>
 <fanart></fanart>
@@ -803,8 +762,6 @@ que se darán cuenta de que tienen mucho más en común de lo que pensaban.</inf
 <item>
 <title>[COLOR lime]•[/COLOR] Morir</title>
 <urlsolve></urlsolve>
-<urlsolve></urlsolve>
-<urlsolve>http://streamcloud.eu/fwrnhxqbjcwe/Morir_2017_HDRip_Spanish__ZonaTorrent2.Com_.avi.html</urlsolve>
 <thumbnail>https://i.imgur.com/tFqFqMy.jpg</thumbnail>
 <fanart>https://i.imgur.com/IWVcCrd.jpg</fanart>
 <genre>Drama</genre>
@@ -822,8 +779,6 @@ que se darán cuenta de que tienen mucho más en común de lo que pensaban.</inf
 <item>
 <title>[COLOR lime]•[/COLOR] Niebla y la doncella </title>
 <urlsolve></urlsolve>
-<urlsolve></urlsolve>
-<urlsolve>http://streamcloud.eu/1m0w25etdlaq/La_niebla_y_la_doncella__HDRip__Espa__ol__wWw.EliteTorrent.BiZ_.avi.html</urlsolve>
 <thumbnail>https://i.imgur.com/y3zVjkt.jpg</thumbnail>
 <fanart>https://i.imgur.com/c17rGxx.jpg</fanart>
 <genre>Thriller. Intriga</genre>
@@ -840,8 +795,6 @@ que se darán cuenta de que tienen mucho más en común de lo que pensaban.</inf
 
 <title>[COLOR lime]•[/COLOR] Noche de venganza </title>
 <urlsolve></urlsolve>
-<urlsolve></urlsolve>
-<urlsolve>http://streamcloud.eu/gn88vj4gglst</urlsolve>
 <thumbnail>https://i.imgur.com/iULw6vD.jpg</thumbnail>
 <fanart>https://i.imgur.com/C8woPN7.jpg</fanart>
 <genre>Acción. Thriller</genre>
@@ -852,8 +805,6 @@ que se darán cuenta de que tienen mucho más en común de lo que pensaban.</inf
 <item>
 <title>[COLOR lime]•[/COLOR] Operación cacahuete 2</title>
 <urlsolve></urlsolve>
-<urlsolve></urlsolve>
-<urlsolve>http://streamcloud.eu/jepyx4o6tmhk/Operacion_Cacahuete_2_HDRip_Spanish__ZonaTorrent2.Com_.avi.html</urlsolve>
 <thumbnail>https://i.imgur.com/51TP2UI.jpg</thumbnail>
 <fanart>https://i.imgur.com/I5ffgwX.jpg</fanart>
 <genre>Animación. Comedia. Aventuras</genre>
@@ -868,8 +819,6 @@ que se darán cuenta de que tienen mucho más en común de lo que pensaban.</inf
 <item>
 <title>[COLOR lime]•[/COLOR] Olé, el viaje de Ferdinand</title>
 <urlsolve></urlsolve>
-<urlsolve></urlsolve>
-<urlsolve>https://streamango.com/f/ooolnaroelesnfad/Ferdinand_2017_HRSink_720p_BluRay-BD4YU_mkv_mp4</urlsolve>
 <thumbnail>https://i.imgur.com/72gf5YW.jpg</thumbnail>
 <fanart>https://i.imgur.com/y33U8Gt.jpg</fanart>
 <genre>Animación. Comedia. Infantil</genre>
@@ -888,9 +837,7 @@ que se darán cuenta de que tienen mucho más en común de lo que pensaban.</inf
 
 <item>
 <title>[COLOR lime]•[/COLOR] Piratas del Caribe La venganza de Salazar</title>
-<urlsolve>https://verystream.com/stream/bv34u1HC89V/P1rata5d31Car1b31av3nganzad35a1azar.mkv.mp4</urlsolve>
-<urlsolve>https://www.rapidvideo.com/v/G4STFSPV0H</urlsolve>
-<urlsolve>http://streamcloud.eu/5i38t6cdg6ls/Piratas_Del_Caribe_5_La_Venganza_De_Salazar_HDRip_Spanish__Zonatorrent.org_.avi.html</urlsolve>
+<urlsolve></urlsolve>
 <thumbnail>https://i.imgur.com/FR6Ke1f.jpg</thumbnail>
 <fanart>https://i.imgur.com/YrCVodG.jpg</fanart>
 <genre>Aventuras. Fantástico. Acción. Comedia</genre>
@@ -908,8 +855,6 @@ que se darán cuenta de que tienen mucho más en común de lo que pensaban.</inf
 <item>
 <title>[COLOR lime]•[/COLOR] Salyut-7: Héroes en el espacio</title>
 <urlsolve></urlsolve>
-<urlsolve></urlsolve>
-<urlsolve>http://streamcloud.eu/a4ehpejzskno/Salyut-7_H_e9roes_en_el_espacio_pityuno.avi.html</urlsolve>
 <thumbnail>https://i.imgur.com/ZtnJYWr.jpg</thumbnail>
 <fanart>https://i.imgur.com/9vbpEmT.jpg</fanart>
 <genre>Aventuras. Drama</genre>
@@ -925,8 +870,6 @@ que se darán cuenta de que tienen mucho más en común de lo que pensaban.</inf
 <item>
 <title>[COLOR lime]•[/COLOR] Señor dame paciencia</title>
 <urlsolve></urlsolve>
-<urlsolve></urlsolve>
-<urlsolve>http://streamcloud.eu/k5wotwy04g7g/Se__or_Dame_Paciencia_2017_HDRip_Spanish__ZonaTorrent2.Com_.avi.html</urlsolve>
 <thumbnail>https://i.imgur.com/NUeS7CZ.jpg</thumbnail>
 <fanart>https://i.imgur.com/u0P6nsX.jpg</fanart>
 <genre>Señor, dame paciencia</genre>
@@ -943,9 +886,7 @@ que se darán cuenta de que tienen mucho más en común de lo que pensaban.</inf
 
 <item>
 <title>[COLOR lime]•[/COLOR] Spider-Man: Homecoming </title>
-<urlsolve>https://verystream.com/stream/T7NhfyfW3qh/5p1d3rManH0m3c0m1ng.avi</urlsolve>
-<urlsolve>https://www.rapidvideo.com/v/G524U510RY</urlsolve>
-<urlsolve>http://streamcloud.eu/tvavqvjifex3/5p1d3rManH0m3c0m1ng.avi.html</urlsolve>
+<urlsolve></urlsolve>
 <thumbnail>https://i.imgur.com/vjyaDtX.jpg</thumbnail>
 <fanart>https://i.imgur.com/n65Op9X.jpg</fanart>
 <genre>Fantástico.Acción.Comedia.Ciencia ficción</genre>
@@ -956,8 +897,6 @@ que se darán cuenta de que tienen mucho más en común de lo que pensaban.</inf
 <item>
 <title>[COLOR lime]•[/COLOR] Transformes: El ultimo caballero</title>
 <urlsolve></urlsolve>
-<urlsolve></urlsolve>
-<urlsolve>http://streamcloud.eu/obtoc34w3whi/t.el.ultimo.caballero.m720p.castellano.mkv.html</urlsolve>
 <thumbnail>https://i.imgur.com/SaAjzqT.jpg</thumbnail>
 <fanart>https://i.imgur.com/WNTqoIt.jpg</fanart>
 <genre>Acción. Aventuras. Ciencia ficción. Comedia</genre>
@@ -972,9 +911,7 @@ que se darán cuenta de que tienen mucho más en común de lo que pensaban.</inf
 
 <item>
 <title>[COLOR lime]•[/COLOR] Toc Toc </title>
-<urlsolve>https://verystream.com/stream/9fMJgwgDHhG/T0cT0c.mkv</urlsolve>
-<urlsolve>https://www.rapidvideo.com/v/G56HKLGMYS</urlsolve>
-<urlsolve>http://streamcloud.eu/4a4l41yd8b2e/T0cT0c.mkv.html</urlsolve>
+<urlsolve></urlsolve>
 <thumbnail>https://i.imgur.com/52kn8tU.jpg</thumbnail>
 <fanart>https://i.imgur.com/H89Ncz4.jpg</fanart>
 <genre>Comedia</genre>
@@ -985,8 +922,6 @@ que se darán cuenta de que tienen mucho más en común de lo que pensaban.</inf
 <item>
 <title>[COLOR lime]•[/COLOR] Tom of Finland</title>
 <urlsolve></urlsolve>
-<urlsolve></urlsolve>
-<urlsolve>http://streamcloud.eu/975fuxomvyu4/Tom_of_Finland_HDRip_www.DESCARGASMIX.com.avi.html</urlsolve>
 <thumbnail>https://i.imgur.com/eKmvlje.jpg</thumbnail>
 <fanart>https://i.imgur.com/Xo2YFqU.jpg</fanart>
 <genre>Drama</genre>
@@ -1005,8 +940,7 @@ que se darán cuenta de que tienen mucho más en común de lo que pensaban.</inf
 
 <item>
 <title>[COLOR lime]•[/COLOR] The Mummy</title>
-<urlsolve>https://www.rapidvideo.com/v/G4TYP1A1EM</urlsolve>
-<urlsolve>http://streamcloud.eu/g53vo9ak7jtj/La_Momia_2017_HDRip_Spanish__Zonatorrent.org_.avi.html</urlsolve>
+<urlsolve></urlsolve>
 <thumbnail>https://i.imgur.com/Ig04cWr.jpg</thumbnail>
 <fanart>https://i.imgur.com/06Jz8bT.jpg</fanart>
 <genre>Acción. Aventuras. Fantástico</genre>
@@ -1028,8 +962,6 @@ Reboot del tradicional personaje, La Momia. La cinta original data de mil noveci
 <item>
 <title>[COLOR lime]•[/COLOR] Thor 3 Ragnarok</title>
 <urlsolve></urlsolve>
-<urlsolve></urlsolve>
-<urlsolve>http://streamcloud.eu/tr7ll47v1bfs/Thor_3_Ragnarok_HDRip_Spanish__ZonaTorrent2.Com_.avi.html</urlsolve>
 <thumbnail>https://i.imgur.com/kBJTMc5.jpg</thumbnail>
 <fanart>https://i.imgur.com/PTtLZom.jpg</fanart>
 <genre>Fantástico. Acción. Aventuras. Comedia</genre>
@@ -1044,8 +976,6 @@ Reboot del tradicional personaje, La Momia. La cinta original data de mil noveci
 
 <item>
 <title>[COLOR lime]•[/COLOR] Un extraño presentimiento </title>
-<urlsolve>https://verystream.com/stream/PgZod3yuDHP/pt1776.mkv.mp4</urlsolve>
-<urlsolve>https://www.rapidvideo.com/v/G7QZG6Z0Q6</urlsolve>
 <urlsolve></urlsolve>
 <thumbnail>https://i.imgur.com/hlfjlzh.jpg<thumbnail>
 <fanart>https://i.imgur.com/XTFBeRA.png</fanart>
@@ -1056,8 +986,6 @@ Reboot del tradicional personaje, La Momia. La cinta original data de mil noveci
 
 <item>
 <title>[COLOR lime]•[/COLOR] Un corazón extraordinario </title>
-<urlsolve>https://verystream.com/stream/5Y5ZwHt1q1C/Cor4z0nExtr4o.mkv</urlsolve>
-<urlsolve>https://www.rapidvideo.com/v/G6GYU5KW0Q</urlsolve>
 <urlsolve></urlsolve>
 <thumbnail>https://i.imgur.com/TmIssVQ.jpg</thumbnail>
 <fanart>https://i.imgur.com/R2O6YHe.jpg</fanart>
@@ -1068,8 +996,6 @@ Reboot del tradicional personaje, La Momia. La cinta original data de mil noveci
 
 <item>
 <title>[COLOR lime]•[/COLOR] Un golpe con estilo </title>
-<urlsolve>https://verystream.com/stream/DbrWNqJnbbf/Ung0lp3c0n35t1l0.mkv</urlsolve>
-<urlsolve>https://www.rapidvideo.com/v/G6GPAIMWGV</urlsolve>
 <urlsolve></urlsolve>
 <thumbnail>https://i.imgur.com/Z8hjmBa.jpg</thumbnail>
 <fanart>https://i.imgur.com/XTXoKue.jpg</fanart>
@@ -1080,9 +1006,7 @@ Reboot del tradicional personaje, La Momia. La cinta original data de mil noveci
 
 <item>
 <title>[COLOR lime]•[/COLOR] Una familia embarazosa </title>
-<urlsolve>https://verystream.com/stream/ZJxQdaBsB4L/Fam111a3mbaraza.mkv</urlsolve>
-<urlsolve>https://www.rapidvideo.com/v/G57LODCEI7</urlsolve>
-<urlsolve>http://streamcloud.eu/lmaz19zmju3h/Fam111a3mbaraza.mkv.html</urlsolve>
+<urlsolve></urlsolve>
 <thumbnail>https://i.imgur.com/KlKzTOI.jpg<thumbnail>
 <fanart>https://i.imgur.com/rN4BzyC.jpg</fanart>
 <genre>Comedia</genre>
@@ -1093,8 +1017,6 @@ Reboot del tradicional personaje, La Momia. La cinta original data de mil noveci
 <item>
 <title>[COLOR lime]•[/COLOR] Una noche fuera de control</title>
 <urlsolve></urlsolve>
-<urlsolve></urlsolve>
-<urlsolve>http://streamcloud.eu/kkkb4f4opse5/una_noche_fuera_de_control_1080p_ww.descargasmix.com.mkv.html</urlsolve>
 <thumbnail>https://i.imgur.com/SuCHwPr.jpg</thumbnail>
 <fanart>https://i.imgur.com/Vmvdsn3.jpg</fanart>
 <genre>Comedia</genre>
@@ -1106,9 +1028,7 @@ Reboot del tradicional personaje, La Momia. La cinta original data de mil noveci
 
 <item>
 <title>[COLOR lime]•[/COLOR] Wonder Woman </title>
-<urlsolve>https://verystream.com/stream/e6UX4gABeCW/W0nd3rW0man.mkv.mp4</urlsolve>
-<urlsolve>https://www.rapidvideo.com/v/G5AL4EBK2E</urlsolve>
-<urlsolve>http://streamcloud.eu/12yisi63l2gl/W0nder_W0man_2017_HDRip_Spanish.avi.html</urlsolve>
+<urlsolve></urlsolve>
 <thumbnail>https://i.imgur.com/13Lc117.jpg</thumbnail>
 <fanart>https://i.imgur.com/65q9rEa.jpg</fanart>
 <genre>Fantástico.Acción.Bélico.Aventuras</genre>
@@ -1133,8 +1053,6 @@ su lucha contra el nacionalsocialismo.
 
 <item>
 <title>[COLOR lime]•[/COLOR] Voces ocultas </title>
-<urlsolve>https://verystream.com/stream/VL2yKjkt9mm/V0ces0cult4s.mkv</urlsolve>
-<urlsolve>https://www.rapidvideo.com/v/G765J90NU4</urlsolve>
 <urlsolve></urlsolve>
 <thumbnail>https://i.imgur.com/nEUkjjy.jpg<thumbnail>
 <fanart>https://i.imgur.com/ejeZhiL.jpg</fanart>
@@ -1146,8 +1064,6 @@ su lucha contra el nacionalsocialismo.
 <item>
 <title>[COLOR lime]•[/COLOR] Zona hostil </title>
 <urlsolve></urlsolve>
-<urlsolve></urlsolve>
-<urlsolve>http://streamcloud.eu/bwe432bc1c3k/Zona_Hostil__BluRay_Rip__AC3_5.1_Castellano__2017_.avi.html</urlsolve>
 <thumbnail>https://i.imgur.com/ANgnTxW.jpg<thumbnail>
 <fanart>https://i.imgur.com/X9NZ1i8.jpg</fanart>
 <genre>Bélico</genre>
@@ -1164,9 +1080,7 @@ su lucha contra el nacionalsocialismo.
 
 <item>
 <title>[COLOR lime]•[/COLOR] 6 días </title>
-<urlsolve>https://verystream.com/stream/cqVQpj1ca4g/6D1a5.mkv</urlsolve>
-<urlsolve>https://www.rapidvideo.com/v/G5JOXELIVT</urlsolve>
-<urlsolve>http://streamcloud.eu/oahuahvxm4l0/6D1a5.mkv.html</urlsolve>
+<urlsolve></urlsolve>
 <thumbnail>https://i.imgur.com/ueClFbL.jpg</thumbnail>
 <fanart>https://i.imgur.com/ENB82lQ.jpg</fanart>
 <genre>Acción</genre>
@@ -1176,9 +1090,7 @@ su lucha contra el nacionalsocialismo.
 
 <item>
 <title>[COLOR lime]•[/COLOR] ¿Dónde estás mamá? </title>
-<urlsolve>https://verystream.com/stream/WxZ3nbEyDyh/D0nd3M4ma.mkv</urlsolve>
-<urlsolve>https://www.rapidvideo.com/v/G57LMDEWSW</urlsolve>
-<urlsolve>http://streamcloud.eu/nki2xzgue9s8/D0nd3M4ma.mkv.html</urlsolve>
+<urlsolve></urlsolve>
 <thumbnail>https://i.imgur.com/QJPmGmx.jpg</thumbnail>
 <fanart>https://i.imgur.com/xxrFhx9.jpg</fanart>
 <genre>Comedia</genre>
