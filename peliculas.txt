@@ -1,4 +1,4 @@
-peliculas nº1028
+peliculas nº1039
 calorina sandobal
 <link>plugin://plugin.video.torrentin/?uri=</link>
 
@@ -137,6 +137,16 @@ calorina sandobal
 110.Eli
 111.Los Descendientes 3 (TV)
 112.Diecisiete
+113.The King
+114.Serenity
+115.Safari por Navidad
+116.Paradise Beach
+117.Muñeco diabólico
+118.Midsommar
+119.Los Japón
+120.La trampa de la araña
+121.La música del terremoto
+122.Fast & Furious: Hobbs & Shaw
 
 2018-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -311,6 +321,7 @@ calorina sandobal
 176.La canción de mi padre
 177.Driven: el origen de la leyenda
 178.El vendedor de tabaco
+179.123.El permiso
 
 2017-----------------------------------------------------------------------------------------------------------------------------------
 
