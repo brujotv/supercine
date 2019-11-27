@@ -147,6 +147,9 @@ calorina sandobal
 120.La trampa de la araña
 121.La música del terremoto
 122.Fast & Furious: Hobbs & Shaw
+123.Padre no hay más que uno
+124.Érase una vez en... Hollywood
+125.Angry Birds 2: La película
 
 2018-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -322,6 +325,8 @@ calorina sandobal
 177.Driven: el origen de la leyenda
 178.El vendedor de tabaco
 179.123.El permiso
+180.Los Bando
+181.Killer Kate!
 
 2017-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -401,6 +406,7 @@ calorina sandobal
 74.Como pez fuera del agua
 75.Estasis
 76.Un extraño presentimiento
+77.Garabandal, solo Dios lo sabe
 
 2016-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -438,6 +444,7 @@ calorina sandobal
 32.Assassination Classroom: La graduación
 33.Ozzy
 34.Satanic
+35.Luchando por un sueño
 
 2015-----------------------------------------------------------------------------------------------------------------------------------
 
