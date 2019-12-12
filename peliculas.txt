@@ -152,6 +152,8 @@ calorina sandobal
 125.Angry Birds 2: La película
 126.30 Miles from Nowhere
 127.Al agua gambas
+128.El rey león
+129.Brittany Runs a Marathon
 
 2018-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -330,6 +332,10 @@ calorina sandobal
 180.Los Bando
 181.Killer Kate!
 182.La tribu
+183.303
+184.Alcanzando tu sueño (Teen Spirit)
+185.Blaze
+186.Como la vida misma
 
 2017-----------------------------------------------------------------------------------------------------------------------------------
 
