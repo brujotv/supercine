@@ -156,6 +156,21 @@ calorina sandobal
 129.Brittany Runs a Marathon
 130.Mascotas 2
 131.La luz de mi vida
+132.Dos padres en apuros
+133.Ad Astra
+134.6 en la sombra
+135.A 47 metros 2
+136.Chicos buenos
+137.Dora y la ciudad perdida
+138.El arte de vivir bajo la lluvia
+139.El caso Willingham
+140.El irlandés
+141.Extra ordinario
+142.Historia de un matrimonio
+143.Historias de miedo para contar en la oscuridad
+144.It. Capítulo 2
+145.Let's Dance
+146.Un verano en Ibiza
 
 2018-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -338,6 +353,7 @@ calorina sandobal
 184.Alcanzando tu sueño (Teen Spirit)
 185.Blaze
 186.Como la vida misma
+187.Una íntima convicción
 
 2017-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -418,6 +434,7 @@ calorina sandobal
 75.Estasis
 76.Un extraño presentimiento
 77.Garabandal, solo Dios lo sabe
+78.The Whiskey Bandit
 
 2016-----------------------------------------------------------------------------------------------------------------------------------
 
