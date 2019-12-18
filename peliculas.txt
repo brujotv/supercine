@@ -171,6 +171,7 @@ calorina sandobal
 144.It. Capítulo 2
 145.Let's Dance
 146.Un verano en Ibiza
+147.Atlantique
 
 2018-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -354,6 +355,9 @@ calorina sandobal
 185.Blaze
 186.Como la vida misma
 187.Una íntima convicción
+188.Freaks
+189.La fiesta acaba de empezar
+190.The Domestics
 
 2017-----------------------------------------------------------------------------------------------------------------------------------
 
