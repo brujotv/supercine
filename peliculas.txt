@@ -173,6 +173,10 @@ calorina sandobal
 146.Un verano en Ibiza
 147.Atlantique
 148.La mensajera
+149.Vencedor
+150.Amor a segunda vista
+151.La mejor defensa es un ataque
+152.Elcano y Magallanes, la primera vuelta al mundo
 
 2018-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -441,6 +445,7 @@ calorina sandobal
 76.Un extraño presentimiento
 77.Garabandal, solo Dios lo sabe
 78.The Whiskey Bandit
+79.Ayla: La hija de la guerra
 
 2016-----------------------------------------------------------------------------------------------------------------------------------
 
