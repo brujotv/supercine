@@ -177,6 +177,11 @@ calorina sandobal
 150.Amor a segunda vista
 151.La mejor defensa es un ataque
 152.Elcano y Magallanes, la primera vuelta al mundo
+153.Abigail y la ciudad perdida
+154.Anna
+155.joker
+156.Objetivo: Washington D.C.
+157.Zombieland: Mata y remata
 
 2018-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -364,6 +369,7 @@ calorina sandobal
 189.La fiesta acaba de empezar
 190.The Domestics
 191.A Young Man with High Potential
+192.Atardecer
 
 2017-----------------------------------------------------------------------------------------------------------------------------------
 
