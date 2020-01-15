@@ -182,6 +182,18 @@ calorina sandobal
 155.joker
 156.Objetivo: Washington D.C.
 157.Zombieland: Mata y remata
+158.Girl on the Third Floor
+159.Quien a hierro mata
+160.The Poison Rose
+161.Yo, mi mujer y mi mujer muerta
+162.The Report
+163.The Informer
+164.Los dos papas
+165.Grimsey
+166.Litus
+167.Noche de bodas
+168.Vivir dos veces
+169.The Aeronauts
 
 2018-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -370,6 +382,9 @@ calorina sandobal
 190.The Domestics
 191.A Young Man with High Potential
 192.Atardecer
+193.Hotel Bombay
+194.Hex
+195.Viento de libertad
 
 2017-----------------------------------------------------------------------------------------------------------------------------------
 
