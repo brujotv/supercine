@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
+<link>plugin://plugin.video.torrentin/?uri=</link>
+<genre></genre>
+<year>2011</year>
+
+
 <item>
 <title>[COLOR lime]•[/COLOR] Attack The Block </title>
-<urlsolve></urlsolve>
-<urlsolve></urlsolve>
-<urlsolve>http://streamcloud.eu/5jjstbedpuav</urlsolve>
+<link>plugin://plugin.video.torrentin/?uri=https://www.elitetorrent.li/wp-content/uploads/files/attack-the-block-br-screener-MyJQ4.torrent</link>
 <thumbnail>https://i.imgur.com/o8MVXdD.jpg<thumbnail>
 <fanart>https://i.imgur.com/ui1arP5.jpg</fanart>
 <genre>Ciencia ficción. Acción. Terror</genre>
@@ -15,9 +18,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Atraco por duplicado </title>
-<urlsolve></urlsolve>
-<urlsolve></urlsolve>
-<urlsolve>http://streamcloud.eu/sgio95ff67ba</urlsolve>
+<link>plugin://plugin.video.torrentin/?uri=https://www.elitetorrent.li/wp-content/uploads/files/atraco-por-duplicado-br-screener-Wulaa.torrent</link>
 <thumbnail>https://i.imgur.com/WRBcKt4.jpg<thumbnail>
 <fanart>https://i.imgur.com/5KM9qDe.jpg</fanart>
 <genre>Thriller. Comedia. Romance</genre>
@@ -27,9 +28,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Atraco en Belfast </title>
-<urlsolve></urlsolve>
-<urlsolve></urlsolve>
-<urlsolve>http://streamcloud.eu/pefgo6svr9r5</urlsolve>
+<link>plugin://plugin.video.torrentin/?uri=https://www.elitetorrent.li/wp-content/uploads/files/atraco-en-belfast-hdrip-jm6sr.torrent</link>
 <thumbnail>https://i.imgur.com/76XpsVa.jpg<thumbnail>
 <fanart>https://i.imgur.com/7goZr35.jpg</fanart>
 <genre>Drama. Comedia</genre>
@@ -39,9 +38,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Arthur Christmas: Operación Regalo </title>
-<urlsolve></urlsolve>
-<urlsolve></urlsolve>
-<urlsolve>http://streamcloud.eu/pd0wetg676il</urlsolve>
+<link>plugin://plugin.video.torrentin/?uri=https://www.elitetorrent.li/wp-content/uploads/files/arthur-christmas-operacion-regalo-hdrip-61X10.torrent</link>
 <thumbnail>https://i.imgur.com/PHhCKxb.jpg<thumbnail>
 <fanart>https://i.imgur.com/tMbURNT.jpg</fanart>
 <genre>Animación. Comedia. Infantil</genre>
@@ -51,9 +48,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Arthur, el soltero de oro </title>
-<urlsolve></urlsolve>
-<urlsolve></urlsolve>
-<urlsolve>http://streamcloud.eu/dw611o4bmd9l</urlsolve>
+<link>plugin://plugin.video.torrentin/?uri=https://www.elitetorrent.li/wp-content/uploads/files/arthur-el-soltero-de-oro-dual-dvdrip-PkAzg.torrent</link>
 <thumbnail>https://i.imgur.com/oZQYELe.jpg<thumbnail>
 <fanart>https://i.imgur.com/slwcF3e.jpg</fanart>
 <genre>Comedia</genre>
@@ -63,9 +58,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Año de Gracia </title>
-<urlsolve></urlsolve>
-<urlsolve></urlsolve>
-<urlsolve>http://streamcloud.eu/s7nbfnavm4pl</urlsolve>
+<link>plugin://plugin.video.torrentin/?uri=https://www.elitetorrent.li/wp-content/uploads/files/ano-de-gracia-dvdrip-uYhq9.torrent</link>
 <thumbnail>https://i.imgur.com/2OGOXeH.jpg<thumbnail>
 <fanart>https://i.imgur.com/vA2TZpp.jpg</fanart>
 <genre>Comedia</genre>
@@ -75,9 +68,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Arrugas </title>
-<urlsolve></urlsolve>
-<urlsolve></urlsolve>
-<urlsolve>http://streamcloud.eu/gnl6x15m0qn5</urlsolve>
+<link>plugin://plugin.video.torrentin/?uri=https://www.elitetorrent.li/wp-content/uploads/files/arrugas-cam-TcF9H.torrent</link>
 <thumbnail>https://i.imgur.com/j2qMzNJ.jpg<thumbnail>
 <fanart>https://i.imgur.com/S4TScX5.jpg</fanart>
 <genre>Animación. Drama. Comedia</genre>
@@ -87,9 +78,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Apollo 18 </title>
-<urlsolve></urlsolve>
-<urlsolve></urlsolve>
-<urlsolve>http://streamcloud.eu/p3wszu7whyq9</urlsolve>
+<link>plugin://plugin.video.torrentin/?uri=https://www.elitetorrent.li/wp-content/uploads/files/apollo-18-hdrip-JNDG5.torrent</link>
 <thumbnail>https://i.imgur.com/HAXcd5u.jpg<thumbnail>
 <fanart>https://i.imgur.com/7mJPvvo.jpg</fanart>
 <genre>Ciencia ficción. Terror</genre>
@@ -99,17 +88,17 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Acero puro </title>
-<urlsolve>http://streamcloud.eu/tqscjpk6vzqe</urlsolve>
-<thumbnail>https://pics.filmaffinity.com/real_steel-892549102-mmed.jpg<thumbnail>
-<fanart></fanart>
+<link>plugin://plugin.video.torrentin/?uri=https://www.elitetorrent.li/wp-content/uploads/files/acero-puro-br-screener-ux9fK.torrent</link>
+<thumbnail>https://i.imgur.com/HR7uFcw.jpg<thumbnail>
+<fanart>https://i.imgur.com/mNTI37Q.jpg</fanart>
+<genre>Ciencia ficción. Acción</genre>
+<year>2011</year>
 <info>En un futuro no muy lejano el boxeo es robótico: en los combates ya no se enfrentan seres humanos, sino robots humanoides, sofisticadas máquinas diseñadas para luchar. Charlie Kenton, un antiguo púgil que casi llegó a alcanzar la gloria, está pasando una mala racha como promotor de combates. Un día, encuentra un viejo robot desechado y, al comprobar que es un gran boxeador, decide entrenarlo.</info> 
 </item>
 
 <item>
 <title>[COLOR lime]•[/COLOR] Asesinos de élite </title>
-<urlsolve></urlsolve>
-<urlsolve></urlsolve>
-<urlsolve>http://streamcloud.eu/3csp5q5w6iwr</urlsolve>
+<link>plugin://plugin.video.torrentin/?uri=https://www.elitetorrent.li/wp-content/uploads/files/asesinos-de-elite-br-screener-XAeau.torrent</link>
 <thumbnail>https://i.imgur.com/IFcbHaj.jpg<thumbnail>
 <fanart>https://i.imgur.com/M3iaCkI.jpg</fanart>
 <genre>Thriller. Acción</genre>
@@ -119,42 +108,51 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Capitán América: El primer vengador </title>
-<urlsolve>https://streamango.com/f/ffsksbkdacdcmrsa/CaAmericaM1080_www_newpct_com_mkv</urlsolve>
-<urlsolve>http://streamcloud.eu/i1r43ncyuo9d</urlsolve>
-<thumbnail>https://pics.filmaffinity.com/captain_america_the_first_avenger-163477639-mmed.jpg<thumbnail>
-<fanart></fanart>
+<link>plugin://plugin.video.torrentin/?uri=https://www.divxtotal.to/wp-content/uploads/files/capitan-america-el-primer-vengador-4dd4bae6764bf1c9d908a57f308891e1.torrent</link>
+<thumbnail>https://i.imgur.com/6Ce72RB.jpg<thumbnail>
+<fanart>https://i.imgur.com/V8Nwux9.jpg</fanart>
+<genre>Acción. Fantástico</genre>
+<year>2011</year>
 <info>Nacido durante la Gran Depresión (años 30), Steve Rogers creció como un chico enclenque en una familia pobre. Horrorizado por las noticias que llegaban de Europa sobre los nazis, decidió enrolarse en el ejército; sin embargo, debido a su precaria salud, fue rechazado una y otra vez. Enternecido por sus súplicas, el General Chester Phillips le ofreció la oportunidad de participar en un experimento especial: la "Operación Renacimiento". Tras administrarle el “Suero Super-Soldado” y bombardearlo con “vitarrayos”, el cuerpo de Steve se hace perfecto. A continuación, se sometió a un intensivo programa de entrenamiento físico y táctico. Tres meses después, le encomendaron su primera misión como Capitán América. Armado con un escudo indestructible, emprenderá la guerra contra el Mal como centinela de la libertad y líder de los Vengadores.</info> 
 </item>
 
 <item>
 <title>[COLOR lime]•[/COLOR] Cars 2 </title>
-<urlsolve>http://streamcloud.eu/6lkb4m7eztks</urlsolve>
-<thumbnail>https://pics.filmaffinity.com/cars_2-593734717-mmed.jpg<thumbnail>
-<fanart></fanart>
+<link>plugin://plugin.video.torrentin/?uri=https://www.elitetorrent.li/wp-content/uploads/files/cars-2-dual-bdrip-fki68.torrent</link>
+<thumbnail>https://i.imgur.com/t7rpKwX.jpg<thumbnail>
+<fanart>https://i.imgur.com/L1oWIFn.jpg</fanart>
+<genre>Animación. Aventuras. Comedia. Infantil</genre>
+<year>2011</year>
 <info>Rayo McQueen y su amigo, la grúa Mate, viajan al extranjero para participar en el primer Campeonato Mundial en el que se decidirá cuál es el coche más rápido del planeta. La primera escala es Tokio (Japón), donde Mate tendrá que convertirse en un espía secreto al verse envuelto inesperadamente en un caso de espionaje internacional, que lo llevará a París y a Londres. También vivirán una aventura de proporciones épicas al viajar a Porto Corsa (Italia), para disputar el Campeonato. Sin embargo, los dos tendrán que renunciar a los placeres de la Riviera italiana -yates, playas y pasta al pesto- ya que Mate está muy ocupado con su labor de espía, mientras que McQueen compite contra los mejores coches del mundo.</info> 
 </item>
 
 <item>
 <title>[COLOR lime]•[/COLOR] Crazy, Stupid, Love </title>
-<urlsolve>http://streamcloud.eu/s4iuhs2qnhov</urlsolve>
-<thumbnail>https://pics.filmaffinity.com/crazy_stupid_love-813652973-large.jpg<thumbnail>
-<fanart></fanart>
+<link>plugin://plugin.video.torrentin/?uri=https://www.elitetorrent.li/wp-content/uploads/files/crazy-stupid-love-vhs-screener-Of0Qi.torrent</link>
+<thumbnail>https://i.imgur.com/SKzZyEK.jpg<thumbnail>
+<fanart>https://i.imgur.com/gm7MofN.jpg</fanart>
+<genre>Comedia. Romance. Drama</genre>
+<year>2011</year>
 <info>Cal Weaver (Steve Carell), cuarentón y puritano, tiene una vida perfecta: un buen trabajo, una bonita casa, unos hijos estupendos y está casado con su novia de la adolescencia. Sin embargo, cuando se entera de que su esposa (Julianne Moore) lo ha traicionado y quiere el divorcio, su vida se desmorona.</info> 
 </item>
 
 <item>
 <title>[COLOR lime]•[/COLOR] Cómo acabar con tu jefe </title>
-<urlsolve>http://streamcloud.eu/oeo2coodm8yp</urlsolve>
+<link>plugin://plugin.video.torrentin/?uri=</link>
 <thumbnail>https://pics.filmaffinity.com/horrible_bosses-786462875-mmed.jpg<thumbnail>
 <fanart></fanart>
+<genre></genre>
+<year>2011</year>
 <info>Para Nick, Kurt y Dale, la única solución para hacer su rutina diaria más tolerable sería hacer desaparecer a sus insoportables jefes. Con la ayuda de unas copas de más y el consejo poco fiable de un expresidiario buscavidas, los tres idean un enrevesado e infalible plan para deshacerse para siempre de sus superiores. El único problema es que el plan es tan infalible como el cerebro que lo concibe.</info> 
 </item>
 
 <item>
 <title>[COLOR lime]•[/COLOR] El origen del planeta de los simios</title>
-<urlsolve>http://streamcloud.eu/sh0cd61bht95/El_Origen_Del_Planeta_De_Los_Simios_HDRip_Spanish__ZonaTorrent2.Com_.avi.html</urlsolve>
+<link>plugin://plugin.video.torrentin/?uri=</link>
 <thumbnail>https://i.imgur.com/ChOVSAC.jpg<thumbnail>
 <fanart>https://i.imgur.com/bBAVo7n.png</fanart>
+<genre></genre>
+<year>2011</year>
 <info>Esta película es una Precuela del ya mítico largometraje “El planeta de los simios”.
  Will Rodman (James Franco) es un joven científico que está investigando 
  con monos para obtener un tratamiento contra el alzheimer, 
@@ -166,31 +164,37 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] El gato con botas </title>
-<urlsolve>http://streamcloud.eu/nu3j9uv1dmdn</urlsolve>
+<link>plugin://plugin.video.torrentin/?uri=</link>
 <thumbnail>https://pics.filmaffinity.com/puss_in_boots-288874915-mmed.jpg<thumbnail>
 <fanart></fanart>
+<genre></genre>
+<year>2011</year>
 <info>Spin-off de la saga Shrek, "El gato con botas" se sitúa en el tiempo como la precuela de Shrek 2. Mucho tiempo antes de conocer a Shrek, el Gato con Botas emprendió un viaje aliándose con el ingenioso Humpty Dumpty y con la avispada Kitty Softpaws para robar el famoso ganso de los huevos de oro.</info> 
 </item>
 
 <item>
 <title>[COLOR lime]•[/COLOR] El rito </title>
-<urlsolve>http://streamcloud.eu/v20fnjtdw415</urlsolve>
+<link>plugin://plugin.video.torrentin/?uri=</link>
 <thumbnail>https://pics.filmaffinity.com/the_rite-175962094-large.jpg<thumbnail>
 <fanart></fanart>
+<genre></genre>
+<year>2011</year>
 <info>Michael Kovak (Colin O'Donoghue), un decepcionado seminarista norteamericano, decide asistir a un curso de exorcismos en el Vaticano, lo que hará que su fe se tambalee y tenga que enfrentarse a terribles fuerzas demoniacas. En Roma conocerá al Padre Lucas (Hopkins), un sacerdote poco ortodoxo que le enseñará el lado oscuro de la Fe.</info> 
 </item>
 
 <item>
 <title>[COLOR lime]•[/COLOR] Ice Age: Una navidad tamaño mamut (CORTO) </title>
-<urlsolve>http://streamcloud.eu/82r0knoy17d0</urlsolve>
+<link>plugin://plugin.video.torrentin/?uri=</link>
 <thumbnail>https://pics.filmaffinity.com/ice_age_a_mammoth_christmas_tv-571058200-mmed.jpg<thumbnail>
 <fanart></fanart>
+<genre></genre>
+<year>2011</year>
 <info>Sid termina en la "lista negra" de Santa Claus cuando destroza la roca navideña de Manny. Incapaz de aceptar al fatal destino, parte hacia el Polo Norte ignorando que las cosas van a ponerse bastante más feas.</info> 
 </item>
 
 <item>
 <title>[COLOR lime]•[/COLOR] J. Edgar  </title> 
-<urlsolve>http://streamcloud.eu/mz5w1nhuhw11/32.avi.html</urlsolve>
+<link>plugin://plugin.video.torrentin/?uri=</link>
 <thumbnail>https://i.imgur.com/A2PEWyc.jpg</thumbnail>
 <fanart>https://i.imgur.com/RsLj1lh.jpg</fanart>
 <genre>accion.</genre>
@@ -200,9 +204,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Los pingüinos del Sr. Poper </title>
-<urlsolve>https://verystream.com/stream/UXfoCwPPU8t/L05P1ngu1n05D315rP0p3r.mkv.mp4</urlsolve>
-<urlsolve>https://www.rapidvideo.com/v/G630FB39HT</urlsolve>
-<urlsolve></urlsolve>
+<link>plugin://plugin.video.torrentin/?uri=</link>
 <thumbnail>https://i.imgur.com/ZUeNaIG.jpg<thumbnail>
 <fanart>https://i.imgur.com/aUjoBQA.jpg</fanart>
 <genre>Comedia</genre>
@@ -212,9 +214,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] La cosa (The Thing) </title>
-<urlsolve>https://verystream.com/stream/Ar9Aenub76W/1aCo5a.mkv</urlsolve>
-<urlsolve>https://www.rapidvideo.com/v/G5QO5LBJBC</urlsolve>
-<urlsolve></urlsolve>
+<link>plugin://plugin.video.torrentin/?uri=</link>
 <thumbnail>https://i.imgur.com/Cu8yN1t.jpg<thumbnail>
 <fanart>https://i.imgur.com/2ZDjJTk.jpg</fanart>
 <genre>Ciencia ficción.Terror.Intriga.Thriller</genre>
@@ -224,8 +224,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Linterna Verde </title>
-<urlsolve>https://www.rapidvideo.com/v/G4U0ZKYP1O</urlsolve>
-<urlsolve>http://streamcloud.eu/8895h9yvgu2o/Gr33n.L4nt3rn.avi.html</urlsolve>
+<link>plugin://plugin.video.torrentin/?uri=</link>
 <thumbnail>https://i.imgur.com/hhZGEAk.jpg<thumbnail>
 <fanart>https://i.imgur.com/twiahhO.jpg</fanart>
 <genre>Ciencia ficción. Fantástico. Acción</genre>
@@ -235,57 +234,71 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] No lo llames amor... llámalo X </title>
-<urlsolve>http://streamcloud.eu/2h8gw3eioocm</urlsolve>
+<link>plugin://plugin.video.torrentin/?uri=</link>
 <thumbnail>https://pics.filmaffinity.com/no_lo_llames_amor_llamalo_x_el_alzamiento_nacional-520492800-mmed.jpg<thumbnail>
 <fanart></fanart>
+<genre></genre>
+<year>2011</year>
 <info>Tras casi 20 años de sequía creativa, el director de cine porno Pepe Fons decide rodar una última película que será la mayor producción española de cine porno de la historia: "El Alzamiento Nacional". Pepe pretende que la Guerra Civil (1936-1939) tenga una película X que le haga justicia. Lo que no se imagina ni siquiera remotamente es que en ese ambiente, que es la antítesis del romanticismo, vivirá las tres historias de amor más hermosas que haya conocido. Ópera prima de Oriol Capel, guionista de series como "7 vidas" y "Aida".</info> 
 </item>
 
 <item>
 <title>[COLOR lime]•[/COLOR] Piratas del Caribe: En mareas misteriosas </title>
-<urlsolve>http://streamcloud.eu/4688jaosr2uo</urlsolve>
+<link>plugin://plugin.video.torrentin/?uri=</link>
 <thumbnail>https://pics.filmaffinity.com/pirates_of_the_caribbean_on_stranger_tides-755499916-mmed.jpg<thumbnail>
 <fanart></fanart>
+<genre></genre>
+<year>2011</year>
 <info>Cuando Jack Sparrow (Johnny Depp) vuelve a encontrarse con una mujer a la que había conocido años atrás (Penélope Cruz), no está seguro de si se trata de amor o si ella es una estafadora sin escrúpulos que lo está utilizando para encontrar la legendaria Fuente de la Juventud. A todo esto, Jack es capturado por el Queen Anne's Revenge, el barco del temible pirata Barbanegra (Ian McShane), que lo obliga a unirse a su tripulación, lo que le hará vivir una inesperada aventura en la que no sabe quién le inspira más miedo si Barbanegra o esa mujer que regresa del pasado.</info> 
 </item>
 
 <item>
 <title>[COLOR lime]•[/COLOR] Rompiendo las reglas 2 </title>
-<urlsolve>http://streamcloud.eu/08lw5qgpvo8q</urlsolve>
+<link>plugin://plugin.video.torrentin/?uri=</link>
 <thumbnail>https://pics.filmaffinity.com/never_back_down_2_the_beatdown-860923269-mmed.jpg<thumbnail>
 <fanart></fanart>
+<genre></genre>
+<year>2011</year>
 <info>Cuatro luchadores con distintos pasados se reúnen para entrenar con un ex luchador de artes marciales mixtas y después pelearse contra los demás, con un traidor en el medio.</info> 
 </item>
 
 <item>
 <title>[COLOR lime]•[/COLOR] Sherlock Holmes: Juego de Sombras </title>
-<urlsolve>http://streamcloud.eu/xhcdfa2dvkjw</urlsolve>
+<link>plugin://plugin.video.torrentin/?uri=</link>
 <thumbnail>https://pics.filmaffinity.com/sherlock_holmes_a_game_of_shadows_sherlock_holmes_2-410280712-mmed.jpg<thumbnail>
 <fanart></fanart>
+<genre></genre>
+<year>2011</year>
 <info>En todo el mundo se están produciendo llamativas noticias: un escándalo acaba con un potentado del algodón de la India, un comerciante de opio chino fallece de una aparente sobredosis, estallan bombas en Estrasburgo y Viena, fallece un magnate del acero estadounidense... Nadie ve ninguna conexión entre estos acontecimientos aparentemente aleatorios, excepto el famoso detective Sherlock Holmes (Robert Downey Jr.), que ha adivinado una red deliberada de muerte y destrucción. Y en su centro, como una araña especialmente siniestra, está el profesor James Moriarty (Jared Harris), una mente maestra del crimen que auna su capacidad para el mal con una total falta de conciencia. La investigación por parte de Holmes del plan de Moriarty se torna más peligrosa cuando le hace abandonar Londres, junto a Watson, para dirigirse a Francia.</info> 
 </item>
 
 <item>
 <title>[COLOR lime]•[/COLOR] Torrente 4: Lethal Crisis (Crisis Letal) </title>
-<urlsolve>http://streamcloud.eu/cfn0hcbae9z4</urlsolve>
+<link>plugin://plugin.video.torrentin/?uri=</link>
 <thumbnail>https://pics.filmaffinity.com/torrente_4_lethal_crisis_crisis_letal-159607457-mmed.jpg<thumbnail>
 <fanart></fanart>
+<genre></genre>
+<year>2011</year>
 <info>Cuarta entrega de las aventuras del casposo policía José Luis Torrente. En esta ocasión encontramos a nuestro (anti)héroe en una situación delicada. Tras varios intentos fallidos de llevar una vida digna (como si eso fuese posible), decide aceptar un peligroso encargo que le hace un viejo conocido.</info> 
 </item>
 
 <item>
 <title>[COLOR lime]•[/COLOR] The Mechanic </title>
-<urlsolve>http://streamcloud.eu/5f7aexgfupkb</urlsolve>
+<link>plugin://plugin.video.torrentin/?uri=</link>
 <thumbnail>https://pics.filmaffinity.com/the_mechanic-343996468-mmed.jpg<thumbnail>
 <fanart></fanart>
+<genre></genre>
+<year>2011</year>
 <info>Arthur Bishop (Jason Statham) es un asesino profesional de élite, con un estricto código y un talento único para eliminar limpiamente a sus víctimas. La muerte de su amigo y mentor Harry (Donald Sutherland) le obligará a replantearse sus métodos, sobre todo cuando Steve (Ben Foster), el hijo de Harry, le pida ayuda para saciar su sed de venganza. Bishop empieza a entrenar a Steve y a enseñarle sus letales técnicas, pero las mentiras y los engaños amenazan con convertir esta alianza en el mayor de sus errores. Remake del film protagonizado por Charles Bronson en 1972.</info> 
 </item>
 
 <item>
 <title>[COLOR lime]•[/COLOR] Transformers: El lado oscuro de la Luna </title>
-<urlsolve>http://streamcloud.eu/hc21ltbvr10r</urlsolve>
+<link>plugin://plugin.video.torrentin/?uri=</link>
 <thumbnail>https://pics.filmaffinity.com/transformers_dark_of_the_moon-868681391-mmed.jpg<thumbnail>
 <fanart></fanart>
+<genre></genre>
+<year>2011</year>
 <info>Tercera entrega de Transformers. En la Tierra, los Autobots y los Decepticons se ven envueltos en una peligrosa carrera espacial, entre los EE.UU. y la Unión Soviética, que podría desencadenar una guerra de tal magnitud que destruiría el planeta sin que ni siquiera los "transformers" pudieran impedirlo. Una vez más, Sam Witwicky se encuentra involuntariamente en medio del conflicto.</info> 
 </item>
 
