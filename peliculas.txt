@@ -207,6 +207,32 @@ calorina sandobal
 174.Tu fotografía
 175.Rambo: Last Blood
 176.El jilguero
+177.@buelos
+178.Bienvenidos al barrio
+179.Diamantes en bruto
+180.En acto de servicio
+181.Géminis
+182.Jugando con fuego
+183.La banda
+184.La conquista de Siberia
+185.La directora de orquesta
+186.Mientras dure la guerra
+187.El juego más frío
+188.Maléfica: Maestra del mal
+189.Terminator: Destino oscuro
+190.522. Un gato, un chino y mi padre
+191.Día de lluvia en Nueva York
+192.El asesino de los caprichos
+193.Dragon Quest: Your Story
+194.Last Christmas
+195.El silencio de la ciudad blanca
+196.Doctor Sueño
+197.Le Mans '66
+198.La familia Addams
+199.La cocina del infierno
+200.Tan cerca, tan lejos
+201.Sorry We Missed You
+202.Darlin'
 
 2018-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -402,6 +428,14 @@ calorina sandobal
 197.En buenas manos
 198.Ghostland
 199.Only You
+200.City Hunter y el perfume de Cupido
+201.El regreso de Aladino
+202.Sordo
+203.La gran batalla
+204.Wild Rose
+205.Diane
+206.Farming
+207.Un amor imposible
 
 2017-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -485,6 +519,8 @@ calorina sandobal
 78.The Whiskey Bandit
 79.Ayla: La hija de la guerra
 80.El cocinero de los últimos deseos
+81.Blood Money
+82.Manou
 
 2016-----------------------------------------------------------------------------------------------------------------------------------
 
