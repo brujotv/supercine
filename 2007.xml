@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
+
 <item>
 <title>[COLOR lime]•[/COLOR] Atasco en la nacional </title>
-<urlsolve></urlsolve>
-<urlsolve></urlsolve>
-<urlsolve>http://streamcloud.eu/hg3absbwdj74</urlsolve>
-<thumbnail>https://i.imgur.com/tXmvVOW.jpg<thumbnail>
+<link>plugin://plugin.video.torrentin/?uri=https://www.divxtotal.eu/wp-content/uploads/files/atasco-en-la-nacional-cd6aebab56e8a99af92e401ccaef8b4a.torrent</link>
+<thumbnail>https://i.imgur.com/tXmvVOW.jpg</thumbnail>
 <fanart>https://i.imgur.com/05BeWBw.jpg</fanart>
 <genre>Comedia</genre>
 <year>2007</year>
@@ -15,10 +14,8 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Antes que el diablo sepa que has muerto </title>
-<urlsolve></urlsolve>
-<urlsolve></urlsolve>
-<urlsolve>http://streamcloud.eu/ssqqgvrvyw04</urlsolve>
-<thumbnail>https://i.imgur.com/dgEU9Mb.jpg<thumbnail>
+<link>plugin://plugin.video.torrentin/?uri=Antes Que El Diablo Sepa Que Has Muerto</link>
+<thumbnail>https://i.imgur.com/dgEU9Mb.jpg</thumbnail>
 <fanart>https://i.imgur.com/6oN7Is4.jpg</fanart>
 <genre>Thriller. Drama</genre>
 <year>2007</year>
@@ -27,10 +24,8 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Arn El Caballero Templario </title>
-<urlsolve></urlsolve>
-<urlsolve></urlsolve>
-<urlsolve>http://streamcloud.eu/p3t8pgxpo0rz</urlsolve>
-<thumbnail>https://i.imgur.com/YD2L8G6.jpg<thumbnail>
+<link>plugin://plugin.video.torrentin/?uri=https://www.divxtotal.eu/wp-content/uploads/files/arn-el-caballero-templario-ad9e8ace908e2354fcdda7d259ae9ccc.torrent</link>
+<thumbnail>https://i.imgur.com/YD2L8G6.jpg</thumbnail>
 <fanart>https://i.imgur.com/5z2yFqh.jpg</fanart>
 <genre>Aventuras. Acción. Drama. Romance. Bélico</genre>
 <year>2007</year>
@@ -39,10 +34,8 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Arma fatal </title>
-<urlsolve></urlsolve>
-<urlsolve></urlsolve>
-<urlsolve>http://streamcloud.eu/eszhhiv7s41h</urlsolve>
-<thumbnail>https://i.imgur.com/79X9Fxm.jpg<thumbnail>
+<link>plugin://plugin.video.torrentin/?uri=https://www.elitetorrent.bz/wp-content/uploads/files/arma-fatal-dvdscreener-ac3-t3Zr3.torrent</link>
+<thumbnail>https://i.imgur.com/79X9Fxm.jpg</thumbnail>
 <fanart>https://i.imgur.com/quXoE1o.jpg</fanart>
 <genre>Comedia. Acción</genre>
 <year>2007</year>
@@ -51,10 +44,8 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] American Gangster </title>
-<urlsolve>https://lh3.googleusercontent.com/K6keUAe8MZvExgMgRbFrvYHYZCWHDUykHuLczC20Gna_Hss89lYgPhYldbtbn5Ig0eu95RWTjqieQqo8rxfwwExvyRe2HNqin97H-6krz2aX8-ybeDJ2G5QMlwP-F8PGeUUyBBPBCu3Wg-qO5d9VWzfX9vdvyL_Iir30WGXxIM3C1R1fitwz6gkYhZBfIEboM6dZXDw60L-V-m2JEcWME_TpJEAKSTBdFYmadycIQz2k3MluQNZDrTIPyngLlxeEqx9ASEsGiMUOmFGewttcvAu2JhD0Fhp6lavSpZn3xW2jKY9k1M2MqcuRNSNt2zoFsmdPlduOpkQH-4NbW8P8OPGaXMeN8ODbAWjowRqzVJEHIaDoEwOW_ZlOv74Y3hXSgqsIxa_NNBCGiuZBXoBTRv6TfNVuNhXWokrpi_oZN6BSqscNLH_xu_kl21tE_E_RHQtk-2ppbw1Nq5pJ26wUNRS5FOM72kgSm1DvUeR4g0BrCK6OJevv28zgif8lyloQyzNcFFo5N844fDhhvE2hwQJ9wCEQ1oGKhs0PvG2xRlTcrbztry81V47W-eCP8luMVc8C4_l0yi0qw03yk88x8LomjGbsLJOfqrih4XH2RuxQgclkwPvC=m37?cpn=RkIOCuszbo9G3gx8&c=WEB&cver=1.20170404</urlsolve>
-<urlsolve></urlsolve>
-<urlsolve></urlsolve>
-<thumbnail>https://i.imgur.com/upnuGoP.jpg<thumbnail>
+<link>plugin://plugin.video.torrentin/?uri=https://www.divxtotal.eu/wp-content/uploads/files/american-gangster-fcc808dfa5e6359ad745220271c5d085.torrent</link>
+<thumbnail>https://i.imgur.com/upnuGoP.jpg</thumbnail>
 <fanart>https://i.imgur.com/8w3WTQe.jpg</fanart>
 <genre>Thriller. Drama</genre>
 <year>2007</year>
@@ -63,26 +54,28 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] American Pie 6: Fraternidad Beta </title>
-<urlsolve>http://streamcloud.eu/za71kp1xkdbu</urlsolve>
-<thumbnail>https://pics.filmaffinity.com/american_pie_presents_beta_house-918520452-mmed.jpg<thumbnail>
-<fanart></fanart>
+<link>plugin://plugin.video.torrentin/?uri=https://www.divxtotal.eu/wp-content/uploads/files/american-pie-fraternidad-beta-ff52b0f1dcc812677beae56ef3f81d72.torrent</link>
+<thumbnail>https://i.imgur.com/d9R6aT2.jpg</thumbnail>
+<fanart>https://i.imgur.com/uc6XvzE.jpg</fanart>
+<genre>Comedia</genre>
+<year>2007</year>
 <info>Erik, Ryan, y Cooze comienzan la universidad e ingresan en la Fraternidad Beta, presidida por el legendario Dwight Stifler. Pero el problema comienza cuando una fraternidad de chiflados amenaza con poner fin al libertinaje y la Fraternidad Beta tiene que reivindicar su derecho a la fiesta. </info> 
 </item>
 
 <item>
 <title>[COLOR lime]•[/COLOR] Bobby Z </title>
-<urlsolve>http://streamcloud.eu/4y1j6jonha18</urlsolve>
-<thumbnail>https://pics.filmaffinity.com/bobby_z-702146262-mmed.jpg<thumbnail>
-<fanart></fanart>
+<link>plugin://plugin.video.torrentin/?uri=https://www.elitetorrent.bz/wp-content/uploads/files/bobby-z-dvdrip-UJFpA.torrent</link>
+<thumbnail>https://i.imgur.com/UHYuhVf.jpg</thumbnail>
+<fanart>https://i.imgur.com/ac3Cfcu.jpg</fanart>
+<genre>Acción. Drama</genre>
+<year>2007</year>
 <info>A Tim Kearney (Paul Walker), un antiguo marine que está en la cárcel, un agente (Fishburne) de la DEA (Agencia antidroga norteamericana) le hace una oferta: podrá obtener la libertad si se hace pasar por Bobby Z, un capo de la droga que ha muerto recientemente. Sin embargo, el plan no sale tal y como estaba previsto, y Kearney se verá obligado a huir con el hijo de Bobby Z, un niño de doce años.</info> 
 </item>
 
 <item>
 <title>[COLOR lime]•[/COLOR] El orfanato </title>
-<urlsolve>https://verystream.com/stream/fPeQy8L9fzH/310rfanat0.mkv.mp4</urlsolve>
-<urlsolve>https://www.rapidvideo.com/v/G641MB0EW4</urlsolve>
-<urlsolve></urlsolve>
-<thumbnail>https://i.imgur.com/pNW5kck.jpg<thumbnail>
+<link>plugin://plugin.video.torrentin/?uri=https://www.divxtotal.eu/wp-content/uploads/files/el-orfanato-T06MzoYO5Y.torrent</link>
+<thumbnail>https://i.imgur.com/pNW5kck.jpg</thumbnail>
 <fanart>https://i.imgur.com/9w4M2Mt.jpg</fanart>
 <genre>Terror. Intriga. Fantástico</genre>
 <year>2007</year>
@@ -91,43 +84,49 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] El asesino (War) </title>
-<urlsolve>http://streamcloud.eu/lsj50vtofmun</urlsolve>
-<thumbnail>https://pics.filmaffinity.com/war-759257670-mmed.jpg<thumbnail>
-<fanart></fanart>
+<link>plugin://plugin.video.torrentin/?uri=https://www.divxtotal.eu/wp-content/uploads/files/el-asesino-war-a0870e8c22d6fc69e91137b82e816183.torrent</link>
+<thumbnail>https://i.imgur.com/hsisifv.jpg</thumbnail>
+<fanart>https://i.imgur.com/B9KJz4l.jpg</fanart>
+<genre>Acción. Thriller</genre>
+<year>2007</year>
 <info>Después de que su socio haya sido violentamente asesinado por el temido asesino profesional Rogue (Jet Li), el agente del FBI Jack Crawford (Jason Statham) jura dar caza al esquivo criminal y encargarse personalmente de la venganza de su compañero. Sin embargo, Rogue demuestra ser muy bueno en el arte de desaparecer sin rastro, y no es hasta que han transcurrido tres años que se le vuelve a ver, encendiendo la mecha de una sangrienta guerra entre el líder de las mafias chinas, Chang (John Lone), y el jefe de los yakuza, Shiro (Ryo Ishibashi). Ansioso por capturar a Rogue de una vez por todas, Crawford mete a su equipo especial en el meollo del conflicto. No obstante, la sed de sangre de Crawford nubla su juicio profesional, y según se acentúa la violencia, Crawford por fin se encuentra cara a cara con su enemigo para descubrir que nada es lo que parece en lo que respecta a Rogue o a su propio plan.</info> 
 </item>
 
 <item>
 <title>[COLOR lime]•[/COLOR] Grupo 7 </title>
-<urlsolve>http://streamcloud.eu/i00naca9egfn</urlsolve>
-<thumbnail>https://pics.filmaffinity.com/grupo_7-615893713-mmed.jpg<thumbnail>
-<fanart></fanart>
+<link>plugin://plugin.video.torrentin/?uri=https://www.divxtotal.eu/wp-content/uploads/files/grupo-7-acdeedc8ec139d4518a89c97aacc679c.torrent</link>
+<thumbnail>https://i.imgur.com/KW0C5Ph.jpg</thumbnail>
+<fanart>https://i.imgur.com/HA5dtYb.jpg</fanart>
+<genre>Thriller. Acción. Drama</genre>
+<year>2007</year>
 <info>Año 1987. La ciudad de Sevilla se prepara para acoger la Expo del 92. Ángel (Mario Casas), un joven inteligente y ambicioso, aspira a ser inspector de policía, y entró en el cuerpo intentando respetar la ley. Rafael (Antonio de la Torre), en cambio, es un policía expeditivo, contundente y arrogante. Junto con Miguel (José Manuel Poga) y Mateo (Joaquín Núñez) forman el Grupo 7, un conjunto de policías sin escrúpulos, dispuestos a todo con tal de lograr sus objetivos en el departamento de antidrogas.</info> 
 </item>
 
 <item>
 <title>[COLOR lime]•[/COLOR] Hitman </title>
-<urlsolve>http://streamcloud.eu/pmwp2wp380ws</urlsolve>
-<thumbnail>https://pics.filmaffinity.com/hitman-339032424-mmed.jpg<thumbnail>
-<fanart></fanart>
+<link>plugin://plugin.video.torrentin/?uri=https://www.elitetorrent.bz/wp-content/uploads/files/hitman-dvdrip-0PBjf.torrent</link>
+<thumbnail>https://i.imgur.com/yWnqGuT.jpg</thumbnail>
+<fanart>https://i.imgur.com/e2Vvl9K.jpg</fanart>
+<genre>Acción. Thriller</genre>
+<year>2007</year>
 <info>Basada en el famoso videojuego del mismo nombre. El agente 47 (Olyphant) es contratado por una misteriosa organización conocida como 'La Agencia' para matar por dinero. El cazador se convertirá en la presa tras un cambio de régimen político. Tanto la Interpol como el ejército ruso perseguirá al asesino por toda Europa del Este, mientras él intenta averiguar quién le tendió la trampa y por qué.</info> 
 </item>
 
 <item>
 <title>[COLOR lime]•[/COLOR] Hellion, el ángel caído </title>
-<urlsolve>http://streamcloud.eu/j7yohifa64fy</urlsolve>
-<thumbnail>https://pics.filmaffinity.com/whisper-964068193-large.jpg<thumbnail>
-<fanart></fanart>
+<link>plugin://plugin.video.torrentin/?uri=https://www.elitetorrent.bz/wp-content/uploads/files/hellion-el-angel-caido-dvdrip-UKFDn.torrent</link>
+<thumbnail>https://i.imgur.com/dg7ya3s.jpg</thumbnail>
+<fanart>https://i.imgur.com/XsaFM6n.jpg</fanart>
+<genre>Terror. Thriller</genre>
+<year>2007</year>
 <info>Max Harper es un criminal que decide secuestrar al hijo de una de las mujeres más ricas del estado. Su novia y un grupo de amigos le ayudan en el rapto y se refugian en un caserón abandonado mientras tratan de cobrar el rescate. Sin embargo, no tardarán en descubrir que el niño que han secuestrado no es del todo normal...</info> 
 </item>
 
 <item>
 <title>[COLOR lime]•[/COLOR] La niebla </title>
-<urlsolve>https://verystream.com/stream/6EJVCW9veyJ/1aN2381a.mkv.mp4</urlsolve>
-<urlsolve>https://www.rapidvideo.com/v/G5ZSSR6QAW</urlsolve>
-<urlsolve></urlsolve>
-<thumbnail>https://i.imgur.com/pYptSas.jpg<thumbnail>
-<fanart>https://i.imgur.com/AjuP40S.jpg</fanart>
+<link>plugin://plugin.video.torrentin/?uri=https://www.divxtotal.eu/wp-content/uploads/files/la-niebla-tar6BstEhM.torrent</link>
+<thumbnail>https://i.imgur.com/Mn6UGjk.jpg</thumbnail>
+<fanart>https://i.imgur.com/GulOqtL.jpg</fanart>
 <genre>Terror. Intriga</genre>
 <year>2007</year>
 <info>En un pequeño pueblo de Maine, estalla de repente una violenta tormenta que termina tan bruscamente como comenzó. Entonces surge una espesa niebla que va entrando en casas y supermercados, atrapando y matando a todos los que se ven envueltos por la oscuridad.</info> 
@@ -135,27 +134,29 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Posdata: Te quiero </title>
-<urlsolve>http://streamcloud.eu/xe4ljj0y7x1e</urlsolve>
-<thumbnail>https://pics.filmaffinity.com/p_s_i_love_you-191794084-large.jpg<thumbnail>
-<fanart></fanart>
+<link>plugin://plugin.video.torrentin/?uri=https://www.divxtotal.eu/wp-content/uploads/files/posdata-te-quiero-cd9e7b1825a3435288132cd28ccb464d.torrent</link>
+<thumbnail>https://i.imgur.com/ZIKEG7Q.jpg</thumbnail>
+<fanart>https://i.imgur.com/tPTgkMy.jpg</fanart>
+<genre>Romance. Drama. Comedia</genre>
+<year>2007</year>
 <info>Holly Kennedy (Hilary Swank) es una joven viuda que trata de encauzar nuevamente su vida tras la muerte de su querido marido Gerry (Gerard Butler), al que amaba sobre todas las cosas. Pero un día, con motivo de su 30 cumpleaños, descubre que éste le ha dejado varias cartas, todas con la misma postdata: PD: Te quiero. Obsesionada con las misivas y su contenido, la madre de Holly (Kathy Bates) y sus mejores amigas Sharon (Gina Gershon) y Denise (Lisa Kudrow) comienzan a pensar que se está aferrando demasiado a un pasado que nunca volverá.</info> 
 </item>
 
 <item>
 <title>[COLOR lime]•[/COLOR] Piratas del Caribe: En el fin del mundo </title>
-<urlsolve>http://streamcloud.eu/bo5f4cjqbgbx</urlsolve>
-<thumbnail>https://pics.filmaffinity.com/pirates_of_the_caribbean_at_world_s_end-210557633-mmed.jpg<thumbnail>
-<fanart></fanart>
+<link>plugin://plugin.video.torrentin/?uri=https://www.divxtotal.eu/wp-content/uploads/files/piratas-del-caribe-en-el-fin-del-mundo-b0AG6e3vbg.torrent</link>
+<thumbnail>https://i.imgur.com/3dPdPqg.jpg</thumbnail>
+<fanart>https://i.imgur.com/rOeE8Qk.jpg</fanart>
+<genre>Aventuras. Fantástico. Acción. Comedia</genre>
+<year>2007</year>
 <info>Siguiendo la estela de lo sucedido en “Piratas del Caribe: el cofre del hombre muerto”, nuestros héroes, Will Turner y Elizabeth Swann, se han aliado con el capitán Barbossa para buscar y liberar al capitán Jack Sparrow del poder de Davy Jones. Mientras el Holandés Errante y la Compañía de las Indias Orientales causan estragos a lo largo de los Siete Mares, Will y Elizabeth navegan hacia Singapur, donde deben enfrentarse al astuto pirata chino Sao Feng. Ahora, en los mismísimos confines de la tierra, todos ellos deben elegir un bando en la batalla final, ya que no sólo sus vidas y fortunas, sino también el futuro de la piratería clásica, pende de un hilo...</info> 
 </item>
 
 <item>
 <title>[COLOR lime]•[/COLOR] Taxi 4 </title>
-<urlsolve>https://verystream.com/stream/J1KaoBQRBWs/Tax14.avi</urlsolve>
-<urlsolve>https://www.rapidvideo.com/v/G54O4BHT0R</urlsolve>
-<urlsolve>http://streamcloud.eu/etthbqiqit2y/Tax14.avi.html</urlsolve>
-<thumbnail><thumbnail>
-<fanart></fanart>
+<link>plugin://plugin.video.torrentin/?uri=https://www.elitetorrent.bz/wp-content/uploads/files/1538761779-Taxi%204%20[720p][Castellano][wWw.EliteTorrent.BiZ].torrent</link>
+<thumbnail>https://i.imgur.com/62i4O6A.jpg</thumbnail>
+<fanart>https://i.imgur.com/TSVMoIQ.jpg</fanart>
 <genre>Acción.Comedia</genre>
 <year>2007</year>
 <info>El departamento de la policía de Marsella tienen bajo custodia a un gran criminal belga, mientras esperan su traslado a una cárcel de alta seguridad en el Congo. Desafortunadamente Émilien es engañado por el bandido y este deja al preso irse. Aquí comienza la caza de este criminal, al darse cuenta del error cometido por Émilien, con la ayuda de Daniel y su flamante taxi encuentran la guarida donde se esconde el criminal, es hora de ponerse manos a la obra con la captura de este bandido y quien mejor que el capitán Gilbert para dirigir la misión.</info> 
@@ -163,24 +164,31 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Transformers </title>
-<urlsolve>http://streamcloud.eu/k11krpv1zr51</urlsolve>
-<thumbnail>https://pics.filmaffinity.com/transformers-262115081-mmed.jpg<thumbnail>
-<fanart></fanart>
+<link>plugin://plugin.video.torrentin/?uri=https://www.divxtotal.eu/wp-content/uploads/files/transformers-a9a2f123967edb61a832dbe13c05991c.torrent</link>
+<thumbnail>https://i.imgur.com/NH2BcrP.jpg</thumbnail>
+<fanart>https://i.imgur.com/Ck1xYXc.jpg</fanart>
+<genre>Ciencia ficción. Acción</genre>
+<year>2007</year>
 <info>Dos razas de robots extraterrestres transformables (los villanos "decepticons" y los amistosos "autobots") llegan a la Tierra en busca de una misteriosa fuente de poder. En la guerra que estalla entre las dos razas, los hombres toman partido por los "autobots". Sam Witwicky (Shia LaBeouf), un avispado adolescente, que sólo desea conquistar a la bella Mikaela (Megan Fox), se convierte en la clave de una guerra que puede destruir a la humanidad. </info> 
 </item>
 
 <item>
 <title>[COLOR lime]•[/COLOR] Shrek Tercero (Shrek 3) </title>
-<urlsolve>http://streamcloud.eu/daqze00vuop5</urlsolve>
-<thumbnail>https://pics.filmaffinity.com/shrek_the_third_shrek_3-240122743-mmed.jpg<thumbnail>
-<fanart></fanart>
+<link>plugin://plugin.video.torrentin/?uri=https://www.divxtotal.eu/wp-content/uploads/files/shrek-tercero-17a8e662b6e5d6e7ddbf4fe7bec81800.torrent</link>
+<thumbnail>https://i.imgur.com/DV5iAPS.jpg</thumbnail>
+<fanart>https://i.imgur.com/LfCh6F1.jpg</fanart>
+<genre>Animación. Comedia. Fantástico. Aventuras</genre>
+<year>2007</year>
 <info>Cuando Shrek se casó con Fiona, no cayó en la cuenta de que tarde o temprano acabaría siendo rey. Así, al caer enfermo su suegro, el Rey Harold, Shrek corre el peligro de tener que abandonar su amado pantano para ocupar el trono; a menos que encuentre un heredero. Decide entonces emprender un viaje con Asno y el Gato con Botas para encontrar a Arturo, el primo de Fiona. Mientras, en Muy Muy Lejano, el Principe Encantador recluta un ejército de villanos para tomar el trono por la fuerza. Pero no cuentan con que Fiona y la Reina Lillian también han reunido su grupo de heroínas para hacerles frente...</info> 
 </item>
 
 <item>
 <title>[COLOR lime]•[/COLOR] 30 días de oscuridad </title>
-<urlsolve>http://streamcloud.eu/7xbm6r14ys77</urlsolve>
-<thumbnail>https://pics.filmaffinity.com/30_days_of_night-647855523-large.jpg<thumbnail>
-<fanart></fanart>
+<link>plugin://plugin.video.torrentin/?uri=https://www.elitetorrent.bz/wp-content/uploads/files/30-dias-de-oscuridad-dvdscreener-Q9x86.torrent</link>
+<thumbnail>https://i.imgur.com/w08ivse.jpg</thumbnail>
+<fanart>https://i.imgur.com/Nu74xjX.jpg</fanart>
+<genre>Terror. Thriller</genre>
+<year>2007</year>
 <info>En Barrow, un remoto pueblo de Alaska, durante 30 días de cada invierno el Sol no sale y la noche ocupa todo el día. Ese es el momento en el cual aparece un misterioso grupo de extraños: vampiros sedientos de sangre, listos para tomar ventaja de la ininterrumpida oscuridad y alimentarse de los pocos residentes que permanecen en el pueblo. El comisario de Barrow, Eben (Josh Hartnett), su esposa Stella (Melissa George) y un decreciente grupo de sobrevivientes deberán hacer lo que sea para resistir hasta que reaparezca la luz del día. Basada en la novela gráfica de Steve Niles y Ben Templesmith</info> 
 </item>
+
