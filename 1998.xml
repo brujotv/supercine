@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
+
 <item>
 <title>[COLOR lime]•[/COLOR] Asesinos de reemplazo </title>
-<urlsolve></urlsolve>
-<urlsolve></urlsolve>
-<urlsolve>http://streamcloud.eu/gbn0h9a5wsoe</urlsolve>
+<link>plugin://plugin.video.torrentin/?uri=</link>
 <thumbnail>https://i.imgur.com/FMZOao8.jpg<thumbnail>
 <fanart>https://i.imgur.com/DmCKkfg.jpg</fanart>
 <genre>Acción</genre>
@@ -15,9 +14,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Armageddon </title>
-<urlsolve></urlsolve>
-<urlsolve></urlsolve>
-<urlsolve>http://streamcloud.eu/rh29ryl2l10b</urlsolve>
+<link>plugin://plugin.video.torrentin/?uri=</link>
 <thumbnail>https://i.imgur.com/bthx6v3.jpg<thumbnail>
 <fanart>https://i.imgur.com/G6pqINX.jpg</fanart>
 <genre>Ciencia ficción. Fantástico. Drama. Acción. Romance</genre>
@@ -27,9 +24,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Arma letal 4 </title>
-<urlsolve></urlsolve>
-<urlsolve></urlsolve>
-<urlsolve>http://streamcloud.eu/z7yt2bh4na1c</urlsolve>
+<link>plugin://plugin.video.torrentin/?uri=</link>
 <thumbnail>https://i.imgur.com/q7sgsYT.jpg<thumbnail>
 <fanart>https://i.imgur.com/3kQGVkK.jpg</fanart>
 <genre>Acción. Comedia</genre>
@@ -39,9 +34,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] El hombre de la máscara de hierro  </title>
-<urlsolve>https://verystream.com/stream/aZSVaDZeCbw/EL_H0mb43D31aMa5caraH13rr0.mkv.mp4</urlsolve>
-<urlsolve>https://www.rapidvideo.com/v/G5PJ0GJB1I</urlsolve>
-<urlsolve></urlsolve>
+<link>plugin://plugin.video.torrentin/?uri=</link>
 <thumbnail>https://i.imgur.com/pW2uzG4.jpg<thumbnail>
 <fanart>https://i.imgur.com/6zqkaaJ.jpg</fanart>
 <genre>Aventuras.Acción.Drama</genre>
@@ -51,7 +44,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Torrente, el brazo tonto de la ley </title>
-<urlsolve>http://streamcloud.eu/4788oao1348x</urlsolve>
+<link>plugin://plugin.video.torrentin/?uri=</link>
 <thumbnail>https://i.imgur.com/WgCvOpt.jpg<thumbnail>
 <fanart>https://i.imgur.com/ozGdwlh.jpg</fanart>
 <genre>Comedia</genre>
@@ -61,9 +54,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Taxi Express </title>
-<urlsolve>https://verystream.com/stream/47aHpgRVV1W/Tax13xpr355.avi.mp4</urlsolve>
-<urlsolve>https://www.rapidvideo.com/v/G53M7FMWPI</urlsolve>
-<urlsolve>http://streamcloud.eu/5by40sdky9ef/Tax13xpr355.avi.html</urlsolve>
+<link>plugin://plugin.video.torrentin/?uri=</link>
 <thumbnail>https://i.imgur.com/OGj36z5.jpg<thumbnail>
 <fanart>https://i.imgur.com/jC9hxec.jpg</fanart>
 <genre>Acción.Comedia</genre>

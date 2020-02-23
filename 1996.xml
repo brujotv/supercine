@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+<link>plugin://plugin.video.torrentin/?uri=</link>
+<genre></genre>
+<year>1996</year>
+
 <item>
 <title>[COLOR lime]•[/COLOR] Space Jam </title>
-<urlsolve>https://verystream.com/stream/9xRsbJiCzNi/961.mkv.mp4</urlsolve>
-<urlsolve>https://www.rapidvideo.com/v/G7QVF4H2L6</urlsolve>
-<urlsolve></urlsolve>
+<link>plugin://plugin.video.torrentin/?uri=</link>
 <thumbnail>https://i.imgur.com/tkWpS7Y.jpg<thumbnail>
 <fanart>https://i.imgur.com/5DaCKaf.jpg</fanart>
 <genre>Animación. Comedia. Ciencia ficción. Fantástico. Infantil</genre>

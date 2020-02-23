@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
+
 <item>
 <title>[COLOR lime]•[/COLOR] Austin Powers en Miembro de Oro </title>
-<urlsolve></urlsolve>
-<urlsolve></urlsolve>
-<urlsolve>http://streamcloud.eu/t58oq5egytdk</urlsolve>
+<link>plugin://plugin.video.torrentin/?uri=</link>
 <thumbnail>https://i.imgur.com/deTJwll.jpg<thumbnail>
 <fanart>https://i.imgur.com/qKZu62U.jpg</fanart>
 <genre>Comedia</genre>
@@ -15,9 +14,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Astérix y Obélix: Misión Cleopatra </title>
-<urlsolve></urlsolve>
-<urlsolve></urlsolve>
-<urlsolve>http://streamcloud.eu/g2g05ylei9d4</urlsolve>
+<link>plugin://plugin.video.torrentin/?uri=</link>
 <thumbnail>https://i.imgur.com/TPfc6wD.jpg<thumbnail>
 <fanart>https://i.imgur.com/XPXBNac.jpg</fanart>
 <genre>Comedia. Aventuras. Infantil</genre>
@@ -37,9 +34,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Asesinato... 1-2-3 </title>
-<urlsolve></urlsolve>
-<urlsolve></urlsolve>
-<urlsolve>http://streamcloud.eu/ab6r05kjn35t</urlsolve>
+<link>plugin://plugin.video.torrentin/?uri=</link>
 <thumbnail>https://i.imgur.com/D4DcZL4.jpg<thumbnail>
 <fanart>https://i.imgur.com/tVkNpmW.jpg</fanart>
 <genre>Intriga. Thriller</genre>
@@ -49,9 +44,11 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Blawk hack derrivado</title>
-<urlsolve>http://streamcloud.eu/8ewkssxd9xos</urlsolve>
+<link>plugin://plugin.video.torrentin/?uri=</link>
 <thumbnail>https://i.imgur.com/GVaRYNV.jpg<thumbnail>
 <fanart></fanart>
+<genre></genre>
+<year>2002</year>
 <info>Octubre de 1993. Soldados americanos de élite son enviados a Mogadiscio, Somalia, 
   como parte de una operación de paz de las Naciones Unidas. Las intenciones son salvar vidas, 
   no segarlas. Pero la incomprensible política feudal y la hambruna hace diseñar una misión que consiste 
@@ -64,7 +61,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Deuda de sangre </title>
-<urlsolve>http://streamcloud.eu/qd5vkx9pz3va/38.mkv.html</urlsolve>
+<link>plugin://plugin.video.torrentin/?uri=</link>
 <thumbnail>https://i.imgur.com/LBR3hoS.jpg</thumbnail>
 <fanart>https://i.imgur.com/RsLj1lh.jpg</fanart>
 <genre>accion.</genre>
@@ -74,16 +71,17 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] El coche nuevo de Mike (CORTO) </title>
-<urlsolve>http://streamcloud.eu/yp3j3hz98z54</urlsolve>
+<link>plugin://plugin.video.torrentin/?uri=</link>
 <thumbnail>https://pics.filmaffinity.com/mike_s_new_car_s-446815458-mmed.jpg<thumbnail>
 <fanart></fanart>
+<genre></genre>
+<year>2002</year>
 <info>Mike Wazoski está obsesionado con su nuevo coche de seis ruedas e insiste en presumir de él ante su amigo, Sulley. Por desgracia para Mike, todo lo que le puede ir mal, le va a ir mal.</info> 
 </item>
 
 <item>
 <title>[COLOR lime]•[/COLOR] El imperio del fuego </title>
-<urlsolve>https://www.rapidvideo.com/v/G4XETRYXRQ</urlsolve>
-<urlsolve>http://streamcloud.eu/s0esdfjrhxyp/311mp3r10D31Fu3g0.mkv.html</urlsolve>
+<link>plugin://plugin.video.torrentin/?uri=</link>
 <thumbnail>https://i.imgur.com/aLmmNu5.jpg<thumbnail>
 <fanart>https://i.imgur.com/hQYBH31.jpg</fanart>
 <genre>Fantástico.Ciencia ficción.Thriller.Acción</genre>
@@ -93,7 +91,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Golpe de efecto </title>
-<urlsolve>http://streamcloud.eu/h65c9sx6f00e/30.avi.html</urlsolve>
+<link>plugin://plugin.video.torrentin/?uri=</link>
 <thumbnail>https://i.imgur.com/3e8oTfS.jpg</thumbnail>
 <fanart>https://i.imgur.com/RsLj1lh.jpg</fanart>
 <genre>accion.</genre>
@@ -103,9 +101,11 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] John Q </title>
-<urlsolve>http://streamcloud.eu/3ij12m3qvy84/John_Q__BluRay_Rip__AC3_2.0_Castellano__2002_.avi.html</urlsolve>
+<link>plugin://plugin.video.torrentin/?uri=</link>
 <thumbnail>https://image.tmdb.org/t/p/w154/iV24tt4LPIwtN5WUU7T35yRn0sj.jpg<thumbnail>
 <fanart></fanart>
+<genre></genre>
+<year>2002</year>
 <info>John Q. Archibald (Denzel Washington) es un hombre corriente que trabaja en una fábrica y se ocupa de su familia. 
 Su mujer Denise (Kimberly Elise) y su hijo Michael (Daniel E. Smith) son todo su mundo. 
 Pero, cuando su hijo cae gravemente enfermo y es preciso someterlo urgentemente
@@ -115,7 +115,7 @@ Pero, cuando su hijo cae gravemente enfermo y es preciso someterlo urgentemente
 
 <item>
 <title>[COLOR lime]•[/COLOR] Jackass, la película </title>
-<urlsolve>http://streamcloud.eu/oq8fvbhviuap</urlsolve>
+<link>plugin://plugin.video.torrentin/?uri=</link>
 <thumbnail>https://i.imgur.com/1vrnqpT.jpg<thumbnail>
 <fanart>https://i.imgur.com/cAx3C9B.jpg</fanart>
 <genre>Comedia</genre>
@@ -125,7 +125,7 @@ Pero, cuando su hijo cae gravemente enfermo y es preciso someterlo urgentemente
 
 <item>
 <title>[COLOR lime]•[/COLOR] Transporter </title>
-<urlsolve>http://streamcloud.eu/dudm1sd6jeuc</urlsolve>
+<link>plugin://plugin.video.torrentin/?uri=</link>
 <thumbnail>https://i.imgur.com/0DdLFPc.jpg<thumbnail>
 <fanart>https://i.imgur.com/8ciTW4L.jpg</fanart>
 <genre>Acción</genre>

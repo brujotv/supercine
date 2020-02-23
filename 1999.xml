@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+
+
 <item>
 <title>[COLOR lime]•[/COLOR] Asesinato en 8mm. </title>
-<urlsolve></urlsolve>
-<urlsolve></urlsolve>
-<urlsolve>http://streamcloud.eu/atwwa6wsh6ew</urlsolve>
-<thumbnail>https://i.imgur.com/nR9AQli.jpg<thumbnail>
+<link>plugin://plugin.video.torrentin/?uri=</link>
+<thumbnail>https://i.imgur.com/nR9AQli.jpg</thumbnail>
 <fanart>https://i.imgur.com/BYkxhW3.jpg</fanart>
 <genre>Intriga. Thriller. Drama</genre>
 <year>1999</year>
@@ -14,10 +14,8 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Astérix y Obélix contra César </title>
-<urlsolve></urlsolve>
-<urlsolve></urlsolve>
-<urlsolve>http://streamcloud.eu/lfdmwe5h5hug</urlsolve>
-<thumbnail>https://i.imgur.com/8Z41qSJ.jpg<thumbnail>
+<link>plugin://plugin.video.torrentin/?uri=</link>
+<thumbnail>https://i.imgur.com/8Z41qSJ.jpg</thumbnail>
 <fanart>https://i.imgur.com/XDrsuxI.jpg</fanart>
 <genre>Comedia. Aventuras. Infantil</genre>
 <year>1999</year>
@@ -26,10 +24,8 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Aprendiendo a vivir </title>
-<urlsolve></urlsolve>
-<urlsolve></urlsolve>
-<urlsolve>http://streamcloud.eu/9vnvqdfotywk</urlsolve>
-<thumbnail>https://i.imgur.com/m2tH5EW.jpg<thumbnail>
+<link>plugin://plugin.video.torrentin/?uri=</link>
+<thumbnail>https://i.imgur.com/m2tH5EW.jpg</thumbnail>
 <fanart>https://i.imgur.com/TRFTR7u.jpg</fanart>
 <genre>Drama. Romance</genre>
 <year>1999</year>
@@ -38,10 +34,8 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Audition </title>
-<urlsolve></urlsolve>
-<urlsolve></urlsolve>
-<urlsolve>http://streamcloud.eu/1lgisd02d0wh</urlsolve>
-<thumbnail>https://i.imgur.com/P1X3OI4.jpg<thumbnail>
+<link>plugin://plugin.video.torrentin/?uri=</link>
+<thumbnail>https://i.imgur.com/P1X3OI4.jpg</thumbnail>
 <fanart>https://i.imgur.com/Jne5VsK.jpg</fanart>
 <genre>Terror. Thriller. Intriga</genre>
 <year>1999</year>
@@ -50,15 +44,17 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Gigoló </title>
-<urlsolve>http://streamcloud.eu/bcauy4gwal66</urlsolve>
-<thumbnail>https://pics.filmaffinity.com/deuce_bigalow_male_gigolo-231781712-mmed.jpg<thumbnail>
+<link>plugin://plugin.video.torrentin/?uri=</link>
+<thumbnail>https://pics.filmaffinity.com/deuce_bigalow_male_gigolo-231781712-mmed.jpg</thumbnail>
 <fanart></fanart>
+<genre></genre>
+<year>1999</year>
 <info>Deuce Bigalow trabaja de limpiador en un acuario hasta que un día pierde su empleo. Más tarde consigue un empleo temporal en la casa de un gigoló, pero cuando accidentalmente la destruye se verá obligado a trabajar como chico de compañía. Tendrá una serie de variopintas clientes, enamorándose de una de ellas</info> 
 </item>
 
 <item>
 <title>[COLOR lime]•[/COLOR] Ejecución inminente  </title>
-<urlsolve>http://streamcloud.eu/e6j8atw2ec9w/39.mkv.html</urlsolve>
+<link>plugin://plugin.video.torrentin/?uri=</link>
 <thumbnail>https://i.imgur.com/4GQYN5t.jpg</thumbnail>
 <fanart>https://i.imgur.com/RsLj1lh.jpg</fanart> 
 <genre>accion.</genre> 
@@ -68,18 +64,18 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] El sexto sentido </title>
-<urlsolve>http://streamcloud.eu/2keq38ah0f2z</urlsolve>
-<thumbnail>https://pics.filmaffinity.com/the_sixth_sense-516003703-large.jpg<thumbnail>
+<link>plugin://plugin.video.torrentin/?uri=</link>
+<thumbnail>https://pics.filmaffinity.com/the_sixth_sense-516003703-large.jpg</thumbnail>
 <fanart></fanart>
+<genre></genre>
+<year>1999</year>
 <info>El doctor Malcom Crowe es un conocido psicólogo infantil de Philadelphia que vive obsesionado por el doloroso recuerdo de un joven paciente desequilibrado al que fue incapaz de ayudar. Cuando conoce a Cole Sear, un aterrorizado y confuso niño de ocho años que necesita tratamiento, ve que se le presenta la oportunidad de redimirse haciendo todo lo posible por ayudarlo. Sin embargo, el doctor Crowe no está preparado para conocer la terrible verdad acerca del don sobrenatural de su paciente: recibe visitas no deseadas de espíritus atormentados.</info> 
 </item>
 
 <item>
 <title>[COLOR lime]•[/COLOR] La trampa </title>
-<urlsolve>https://verystream.com/stream/P8VnLbA17wR/1aT6am9a.mkv.mp4</urlsolve>
-<urlsolve>https://www.rapidvideo.com/v/G66V4E1SWQ</urlsolve>
-<urlsolve></urlsolve>
-<thumbnail>https://i.imgur.com/sAPYlkU.jpg<thumbnail>
+<link>plugin://plugin.video.torrentin/?uri=</link>
+<thumbnail>https://i.imgur.com/sAPYlkU.jpg</thumbnail>
 <fanart>https://i.imgur.com/sAPYlkU.jpg</fanart>
 <genre>Acción. Intriga</genre>
 <year>1999</year>
@@ -88,8 +84,10 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] South Park: Más grande, más largo y sin cortes </title>
-<urlsolve>http://streamcloud.eu/zvfi685aexl6</urlsolve>
-<thumbnail>https://pics.filmaffinity.com/south_park_bigger_longer_uncut_south_park_the_movie-991805444-mmed.jpg<thumbnail>
+<link>plugin://plugin.video.torrentin/?uri=</link>
+<thumbnail>https://pics.filmaffinity.com/south_park_bigger_longer_uncut_south_park_the_movie-991805444-mmed.jpg</thumbnail>
 <fanart></fanart>
+<genre></genre>
+<year>1999</year>
 <info>Cuando los estudiantes de la escuela primaria de South Park, Stan, Kyle, Cartman y Kenny, deciden entrar a escondidas a ver una película canadiense no apta para menores, su vocabulario sufre un cambio brutal. La indignación de los padres, tras el devastador impacto que sufren sus inocentes y jóvenes mentes al ver la película, da lugar a una incondicional guerra entre Estados Unidos y Canadá. Inesperadamente, los chicos se ven inmersos en una crisis debiendo arriesgar sus vidas en nombre de la libertad de expresión.</info> 
 </item>

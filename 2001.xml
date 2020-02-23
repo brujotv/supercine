@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
+
+
 <item>
 <title>[COLOR lime]•[/COLOR] A todo gas </title>
-<urlsolve>https://verystream.com/stream/HfLBemzXe9i/AT0D06A5.mkv</urlsolve>
-<urlsolve>https://www.rapidvideo.com/v/G65GPOF7RS</urlsolve>
-<urlsolve></urlsolve>
-<thumbnail>https://i.imgur.com/YYYN4yx.jpg<thumbnail>
+<link>plugin://plugin.video.torrentin/?uri=</link>
+<thumbnail>https://i.imgur.com/YYYN4yx.jpg</thumbnail>
 <fanart>https://i.imgur.com/rblB4Xh.jpg</fanart>
 <genre>Acción</genre>
 <year>2001</year>
@@ -15,10 +15,8 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Atlantis: El imperio perdido </title>
-<urlsolve></urlsolve>
-<urlsolve></urlsolve>
-<urlsolve>http://streamcloud.eu/yyjbd418wwy7</urlsolve>
-<thumbnail>https://i.imgur.com/9iKpAGL.jpg<thumbnail>
+<link>plugin://plugin.video.torrentin/?uri=</link>
+<thumbnail>https://i.imgur.com/9iKpAGL.jpg</thumbnail>
 <fanart>https://i.imgur.com/3IT4LSe.jpg</fanart>
 <genre>Animación. Aventuras. Fantástico</genre>
 <year>2001</year>
@@ -27,10 +25,8 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Atando cabos </title>
-<urlsolve></urlsolve>
-<urlsolve></urlsolve>
-<urlsolve>http://streamcloud.eu/rtbzm7v8aaiv</urlsolve>
-<thumbnail>https://i.imgur.com/CT7xECQ.jpg<thumbnail>
+<link>plugin://plugin.video.torrentin/?uri=</link>
+<thumbnail>https://i.imgur.com/CT7xECQ.jpg</thumbnail>
 <fanart>https://i.imgur.com/GSIk7tp.jpg</fanart>
 <genre>Drama</genre>
 <year>2001</year>
@@ -39,10 +35,8 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Avalon </title>
-<urlsolve></urlsolve>
-<urlsolve></urlsolve>
-<urlsolve>http://streamcloud.eu/ffx54xr2p79l</urlsolve>
-<thumbnail>https://i.imgur.com/fg7o7a7.jpg<thumbnail>
+<link>plugin://plugin.video.torrentin/?uri=</link>
+<thumbnail>https://i.imgur.com/fg7o7a7.jpg</thumbnail>
 <fanart>https://i.imgur.com/R6RuaNW.jpg</fanart>
 <genre>Ciencia ficción. Fantástico. Acción</genre>
 <year>2001</year>
@@ -51,16 +45,18 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Atlantis: El imperio perdido</title>
-<urlsolve>http://streamcloud.eu/n7nisz1p2cd2</urlsolve>
-<thumbnail>https://pics.filmaffinity.com/atlantis_the_lost_empire-291599637-mmed.jpg<thumbnail>
+<link>plugin://plugin.video.torrentin/?uri=</link>
+<thumbnail>https://pics.filmaffinity.com/atlantis_the_lost_empire-291599637-mmed.jpg</thumbnail>
 <fanart></fanart>
+<genre></genre>
+<year>2001</year>
 <info>Un joven aventurero llamado Milo encuentra un antiguo diario que contiene pistas de cómo llegar a Atlantis, el mítico reino hundido. Junto a otros intrépidos personajes Milo decide embarcarse en el Ulises, un impresionante submarino, en una arriesgada expedición al fondo del mar.</info> 
 </item>
 
 <item>
 <title>[COLOR lime]•[/COLOR] American Pie 2 </title>
-<urlsolve>http://streamcloud.eu/imwbrtp99k1k</urlsolve>
-<thumbnail>https://i.imgur.com/yDlHVaj.jpg<thumbnail>
+<link>plugin://plugin.video.torrentin/?uri=</link>
+<thumbnail>https://i.imgur.com/yDlHVaj.jpg</thumbnail>
 <fanart>https://i.imgur.com/HxppZHp.jpg</fanart>
 <genre>Comedia</genre>
 <year>2001</year>
@@ -69,8 +65,8 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Amor ciego </title>
-<urlsolve>http://streamcloud.eu/7daemv8ibbd1</urlsolve>
-<thumbnail>https://i.imgur.com/qBMICcO.jpg<thumbnail>
+<link>plugin://plugin.video.torrentin/?uri=</link>
+<thumbnail>https://i.imgur.com/qBMICcO.jpg</thumbnail>
 <fanart>https://i.imgur.com/ZM8u0wO.jpg</fanart>
 <genre>Comedia. Romance</genre>
 <year>2001</year>
@@ -79,8 +75,8 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] El diario de Bridget Jones </title>
-<urlsolve>http://streamcloud.eu/iqdfjzskehah</urlsolve>
-<thumbnail>https://i.imgur.com/QInDBR1.jpg<thumbnail>
+<link>plugin://plugin.video.torrentin/?uri=</link>
+<thumbnail>https://i.imgur.com/QInDBR1.jpg</thumbnail>
 <fanart>https://i.imgur.com/yhGzfqD.jpg</fanart>
 <genre>Romance. Comedia</genre>
 <year>2001</year>
@@ -89,10 +85,8 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Cocodrilo Dundee en Los Ángeles </title>
-<urlsolve>https://verystream.com/stream/A885LCcagQS/C0c0dr110Dund33_3.mkv</urlsolve>
-<urlsolve>https://www.rapidvideo.com/v/G5PI4GCPZB</urlsolve>
-<urlsolve></urlsolve>
-<thumbnail>https://i.imgur.com/BEGPda4.jpg<thumbnail>
+<link>plugin://plugin.video.torrentin/?uri=</link>
+<thumbnail>https://i.imgur.com/BEGPda4.jpg</thumbnail>
 <fanart>https://i.imgur.com/7dRQC8D.jpg</fanart>
 <genre>Comedia</genre>
 <year>2001</year>
@@ -101,25 +95,29 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] El único (The One)</title>
-<urlsolve>http://streamcloud.eu/2ipd0rhnjlyq</urlsolve>
-<thumbnail>https://pics.filmaffinity.com/the_one-757768261-mmed.jpg<thumbnail>
+<link>plugin://plugin.video.torrentin/?uri=</link>
+<thumbnail>https://pics.filmaffinity.com/the_one-757768261-mmed.jpg</thumbnail>
 <fanart></fanart>
+<genre></genre>
+<year>2001</year>
 <info>Los agentes del Departamento Multiverse defienden la existencia de vidas alternativas en otros universos. El investigador Yulaw, que ha recorrido 123 universos persiguiendo y destruyendo esas formas de vida, al eliminarlas, ha ido absorbiendo sus habilidades sobrehumanas. Este extraordinario fenómeno puede poner en peligro el delicado equilibrio de todos los universos. Gabriel Yulaw es un agente de policía honrado, cuya vida se ve alterada cuando su "alter ego", el malvado investigador Yulaw, interfiere en su vida; en estas circunstancias, lo único que puede hacer para salvarse es matar a su otro.</info> 
 </item>
 
 <item>
 <title>[COLOR lime]•[/COLOR] El planeta de los simios </title>
-<urlsolve>http://streamcloud.eu/8l68hbp8kqcd</urlsolve>
-<thumbnail>https://pics.filmaffinity.com/planet_of_the_apes-774023631-mmed.jpg<thumbnail>
+<link>plugin://plugin.video.torrentin/?uri=</link>
+<thumbnail>https://pics.filmaffinity.com/planet_of_the_apes-774023631-mmed.jpg</thumbnail>
 <fanart></fanart>
 <info>Año 2029. En una misión rutinaria, el astronauta Leo Davidson (Mark Wahlberg) pierde el control de su nave y aterriza en un extraño planeta, que está gobernado por una raza de simios cuya inteligencia es similar a la de los seres humanos, a los que, sin embargo, tratan como si fueran animales. Con la ayuda de una chimpancé (Helena Bonham-Carter) y de un pequeño grupo de rebeldes, Leo encabeza una rebelión contra el poderoso ejército dirigido por el general Thade (Tim Roth). La clave de la victoria consiste en llegar a un templo sagrado, situado en la zona prohibida del planeta, que contiene extraordinarios secretos del pasado</info> 
 </item>
 
 <item>
 <title>[COLOR lime]•[/COLOR] El diario de Bridget Jones </title>
-<urlsolve>http://streamcloud.eu/iqdfjzskehah</urlsolve>
-<thumbnail>https://pics.filmaffinity.com/bridget_jones_s_diary-320975640-large.jpg<thumbnail>
+<link>plugin://plugin.video.torrentin/?uri=</link>
+<thumbnail>https://pics.filmaffinity.com/bridget_jones_s_diary-320975640-large.jpg</thumbnail>
 <fanart></fanart>
+<genre></genre>
+<year>2001</year>
 <info>Bridget Jones es una treintañera soltera y llena de complejos, cuya vida sentimental es un desastre. Tiene sólo dos ambiciones: adelgazar y encontrar el amor verdadero. El día de Año Nuevo toma dos decisiones: perder peso y escribir un diario. Pero muy pronto su vida amorosa se vuelve a complicar, pues se encuentra dividida entre dos hombres. Por un lado, Daniel Cleaver, su jefe, un tipo encantador y sexy, pero peligroso; por otro, Mark Darcy, un viejo amigo de la familia, que al principio le parece demasiado reservado y aburrido.</info> 
 </item>
 
@@ -127,8 +125,8 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] La sucia historia de Joe Guarro </title>
-<urlsolve>http://streamcloud.eu/73so0pvtnn2o</urlsolve>
-<thumbnail>https://i.imgur.com/UW7hovA.jpg<thumbnail>
+<link>plugin://plugin.video.torrentin/?uri=</link>
+<thumbnail>https://i.imgur.com/UW7hovA.jpg</thumbnail>
 <fanart>https://i.imgur.com/HKhLXuT.jpg</fanart>
 <genre>Comedia</genre>
 <year>2001</year>
@@ -137,8 +135,8 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Torrente 2: Misión en Marbella </title>
-<urlsolve>http://streamcloud.eu/2lhq442he1bx</urlsolve>
-<thumbnail>https://i.imgur.com/WNb3V93.jpg<thumbnail>
+<link>plugin://plugin.video.torrentin/?uri=</link>
+<thumbnail>https://i.imgur.com/WNb3V93.jpg</thumbnail>
 <fanart>https://i.imgur.com/Io4zPma.jpg</fanart>
 <genre>Comedia</genre>
 <year>2001</year>
@@ -147,24 +145,26 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Shrek </title>
-<urlsolve>http://streamcloud.eu/9zev7lwk6quq</urlsolve>
-<thumbnail>https://pics.filmaffinity.com/shrek-903764423-mmed.jpg<thumbnail>
+<link>plugin://plugin.video.torrentin/?uri=</link>
+<thumbnail>https://pics.filmaffinity.com/shrek-903764423-mmed.jpg</thumbnail>
 <fanart></fanart>
 <info>Hace mucho tiempo, en una lejanísima ciénaga, vivía un feroz ogro llamado Shrek. De repente, un día, su soledad se ve interrumpida por una invasión de sorprendentes personajes. Hay ratoncitos ciegos en su comida, un enorme y malísimo lobo en su cama, tres cerditos sin hogar y otros seres que han sido deportados de su tierra por el malvado Lord Farquaad. Para salvar su territorio, Shrek hace un pacto con Farquaad y emprende viaje para conseguir que la bella princesa Fiona acceda a ser la novia del Lord. En tan importante misión le acompaña un divertido burro, dispuesto a hacer cualquier cosa por Shrek: todo, menos guardar silencio.</info> 
 </item>
 
 <item>
 <title>[COLOR lime]•[/COLOR] Yamakasi </title>
-<urlsolve>http://streamcloud.eu/2gid7pb9mzzf</urlsolve>
-<thumbnail>https://pics.filmaffinity.com/yamakasi-273601048-mmed.jpg<thumbnail>
+<link>plugin://plugin.video.torrentin/?uri=</link>
+<thumbnail>https://pics.filmaffinity.com/yamakasi-273601048-mmed.jpg</thumbnail>
 <fanart></fanart>
+<genre></genre>
+<year>2001</year>
 <info>Los Yamakasi han inventado un nuevo deporte callejero e intentan conquistar la ciudad: sus muros, tejados y puentes. Ligeros, rápidos y ágiles, saltan de un edificio a otro y desafían todos los peligros.</info> 
 </item>
 
 <item>
 <title>[COLOR lime]•[/COLOR] Zoolander: Un descerebrado de moda </title>
-<urlsolve>http://streamcloud.eu/fegcjmb4uq77</urlsolve>
-<thumbnail>https://i.imgur.com/5IZ6Xs5.jpg<thumbnail>
+<link>plugin://plugin.video.torrentin/?uri=</link>
+<thumbnail>https://i.imgur.com/5IZ6Xs5.jpg</thumbnail>
 <fanart>https://i.imgur.com/vr34Sj7.jpg</fanart>
 <genre>Comedia</genre>
 <year>2001</year>

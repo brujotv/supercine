@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
+
+
 <item>
 <title>[COLOR lime]•[/COLOR] Airbag </title>
 <link>plugin://plugin.video.torrentin/?uri=https://www.divxtotal.eu/wp-content/uploads/files/airbag-9e46a1482218fba44ca39ffceb9c25be.torrent</link>
@@ -13,10 +15,8 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Austin Powers: Misterioso agente internacional </title>
-<urlsolve></urlsolve>
-<urlsolve></urlsolve>
-<urlsolve>http://streamcloud.eu/exqjiikxk879</urlsolve>
-<thumbnail>https://i.imgur.com/aG1aPvH.jpg<thumbnail>
+<link>plugin://plugin.video.torrentin/?uri=</link>
+<thumbnail>https://i.imgur.com/aG1aPvH.jpg</thumbnail>
 <fanart>https://i.imgur.com/3ox0XBf.jpg</fanart>
 <genre>Comedia. Acción</genre>
 <year>1997</year>
@@ -25,10 +25,8 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] El quinto elemento </title>
-<urlsolve>https://verystream.com/stream/jKvrXg5SZY6/-_M1080_T.H.3_F.1.F.T.H_3.L.3.M.3.N..mp4</urlsolve>
-<urlsolve>https://www.rapidvideo.com/v/G5UYLXCL9S</urlsolve>
-<urlsolve></urlsolve>
-<thumbnail>https://i.imgur.com/eUoDjQ0.jpg<thumbnail>
+<link>plugin://plugin.video.torrentin/?uri=</link>
+<thumbnail>https://i.imgur.com/eUoDjQ0.jpg</thumbnail>
 <fanart>https://i.imgur.com/ea1RgQ6.jpg</fanart>
 <genre>Ciencia ficción.Acción</genre>
 <year>1997</year>
@@ -37,10 +35,8 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Liberad a Willy 3. El rescate </title>
-<urlsolve>https://verystream.com/stream/3JsciLFuoSQ/L1b3W111y_3.mkv.mp4</urlsolve>
-<urlsolve>https://www.rapidvideo.com/v/G65H2C516O</urlsolve>
-<urlsolve></urlsolve>
-<thumbnail>https://i.imgur.com/aBi6IiW.jpg<thumbnail>
+<link>plugin://plugin.video.torrentin/?uri=</link>
+<thumbnail>https://i.imgur.com/aBi6IiW.jpg</thumbnail>
 <fanart>https://i.imgur.com/33qy4QT.jpg</fanart>
 <genre>Aventuras</genre>
 <year>1997</year>
@@ -49,8 +45,8 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] La salchicha peleona </title>
-<urlsolve>http://streamcloud.eu/2awfd8qsql0b</urlsolve>
-<thumbnail>https://i.imgur.com/JWeOZiW.jpg<thumbnail>
+<link>plugin://plugin.video.torrentin/?uri=</link>
+<thumbnail>https://i.imgur.com/JWeOZiW.jpg</thumbnail>
 <fanart>https://i.imgur.com/sRkRps9.jpg</fanart>
 <genre>Comedia. Acción</genre>
 <year>1997</year>
@@ -59,10 +55,8 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Medidas desesperadas </title>
-<urlsolve>https://verystream.com/stream/hpwmSkWbSjF/M3d1da5d3535p3rada5.mkv.mp4</urlsolve>
-<urlsolve>https://www.rapidvideo.com/v/G66W8BLRQU</urlsolve>
-<urlsolve></urlsolve>
-<thumbnail>https://i.imgur.com/uZwgWJw.jpg<thumbnail>
+<link>plugin://plugin.video.torrentin/?uri=</link>
+<thumbnail>https://i.imgur.com/uZwgWJw.jpg</thumbnail>
 <fanart>https://i.imgur.com/dSimPKK.jpg</fanart>
 <genre>Thriller. Intriga </genre>
 <year>1997</year>
@@ -71,9 +65,11 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Mentiroso compulsivo </title>
-<urlsolve>http://streamcloud.eu/w7i6juol9xfj/Mentiroso_Compulsivo__BluRay_Rip__AC3_2.0_Castellano__1997_.avi.html</urlsolve>
-<thumbnail>https://image.tmdb.org/t/p/w154/7KsLfMBISsfGZs9BFlXMmCh0JyY.jpg<thumbnail>
+<link>plugin://plugin.video.torrentin/?uri=</link>
+<thumbnail>https://image.tmdb.org/t/p/w154/7KsLfMBISsfGZs9BFlXMmCh0JyY.jpg</thumbnail>
 <fanart></fanart>
+<genre></genre>
+<year>1997</year>
 <info>Fletcher Reed (Jim Carrey) es un servidor de la justicia que se atiene a un sólo 
 código ético: la verdad es negociable. Sin permitir que los hechos 
 interfieran con un buen argumento, no tiene rival en cuanto a exagerar y distorsionar 
