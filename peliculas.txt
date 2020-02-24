@@ -521,6 +521,8 @@ calorina sandobal
 80.El cocinero de los últimos deseos
 81.Blood Money
 82.Manou
+83.Rock and a Hard Place
+84.Sahara
 
 2016-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -559,6 +561,12 @@ calorina sandobal
 33.Ozzy
 34.Satanic
 35.Luchando por un sueño
+36.La autopsia de Jane Doe
+37.La coppia dei campioni
+38.La doctora de Brest
+39.Hipersomnia
+40.El exterminador
+41.The Exorcism of Anna Ecklund
 
 2015-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -592,6 +600,7 @@ calorina sandobal
 28.Asteroide: Impacto final (TV)
 29.Últimos días en el desierto
 30.Hotel Transilvania 2 
+31.Terminator Génesis
 
 2014-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -780,6 +789,7 @@ calorina sandobal
 19.Astro Boy (Astroboy)
 20.Asuntos de familia (City Island)
 21.Ataque terrorista
+22.Terminator Salvation
 
 2008-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -922,6 +932,7 @@ calorina sandobal
 19.Animatrix
 20.Aquellas juergas universitarias
 21.Astronautas
+22.Terminator 3: La rebelión de las máquinas
 
 2002-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -1037,6 +1048,7 @@ calorina sandobal
 2.Sin perdón
 3.Makinavaja, el último choriso
 4.Arma letal 3
+5.Terminator 2: El juicio final
 
 1991-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -1052,6 +1064,7 @@ calorina sandobal
 4.La hoguera de las vanidades
 5.La historia interminable 2. El siguiente capítulo
 6.Autopista al infierno
+7.Revenge (Venganza)
 
 1989-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -1092,6 +1105,7 @@ calorina sandobal
 7.Granja maldita
 8.Los intocables de Eliot Ness
 9.Atracción fatal
+10.La chaqueta metálica
 
 1986-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -1130,8 +1144,7 @@ calorina sandobal
 9.Los cazafantasmas
 10.Superdetective en Hollywood
 11.Star Trek III. En busca de Spock
-
-
+12.Tras el corazón verde
 
 1983-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -1286,6 +1299,7 @@ calorina sandobal
 
 1.La conquista del Oeste
 2.El día más largo
+3.Lawrence De Arabia
 
 1960-----------------------------------------------------------------------------------------------------------------------------------
 
