@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
+
 <item>
 <title>[COLOR lime]•[/COLOR] Apariciones - The Haunted: La casa de las almas perdidas (TV) </title>
-<urlsolve></urlsolve>
-<urlsolve></urlsolve>
-<urlsolve>http://streamcloud.eu/gjaybbzm6p1l</urlsolve>
+<link>plugin://plugin.video.torrentin/?uri=</link>
 <thumbnail>https://i.imgur.com/cc0nysL.jpg<thumbnail>
 <fanart></fanart>
 <genre>Terror. Intriga</genre>
@@ -25,9 +24,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Star Trek VI. Aquel país desconocido </title>
-<urlsolve>https://verystream.com/stream/byNbz54qYi5/5tarTr3kv1.mkv.mp4</urlsolve>
-<urlsolve>https://www.rapidvideo.com/v/G5WH4OQE6G</urlsolve>
-<urlsolve></urlsolve>
+<link>plugin://plugin.video.torrentin/?uri=</link>
 <thumbnail>https://i.imgur.com/2BAF1r0.jpg<thumbnail>
 <fanart>https://i.imgur.com/WlDno04.jpg</fanart>
 <genre>Ciencia ficción</genre>

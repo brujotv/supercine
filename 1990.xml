@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-
+<link>plugin://plugin.video.torrentin/?uri=</link>
+<genre></genre>
+<year>1996</year>
 
 <item>
 <title>[COLOR lime]•[/COLOR] Autopista al infierno </title>
-<urlsolve></urlsolve>
-<urlsolve></urlsolve>
-<urlsolve>http://streamcloud.eu/vs6m2w8d1brc</urlsolve>
+<link>plugin://plugin.video.torrentin/?uri=</link>
 <thumbnail>https://i.imgur.com/mTJHty7.jpg<thumbnail>
 <fanart>https://i.imgur.com/BiaC8Ln.jpg</fanart>
 <genre>Fantástico. Comedia. Terror</genre>
@@ -16,7 +16,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Ghost. Más allá del amor  </title>
-<urlsolve>http://streamcloud.eu/oxkil9pfnhvs/7.avi.html</urlsolve>
+<link>plugin://plugin.video.torrentin/?uri=</link>
 <thumbnail>https://i.imgur.com/6582eVB.jpg<thumbnail>
 <fanart></fanart>
 <info>Una pareja de enamorados ve truncada su felicidad cuando él es asesinado por un ladrón. La necesidad de salvar la vida a la chica hace que él permanezca en la Tierra en forma de fantasma e intente advertirla del peligro que corre. Su único medio de comunicación es una alocada vidente.</info> 
@@ -24,9 +24,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] La historia interminable 2. El siguiente capítulo </title>
-<urlsolve>https://verystream.com/stream/ez1MwgGBK8P/Iinterminable_2.mkv.mp4</urlsolve>
-<urlsolve>https://www.rapidvideo.com/v/G5QN6GBHD6</urlsolve>
-<urlsolve></urlsolve>
+<link>plugin://plugin.video.torrentin/?uri=</link>
 <thumbnail>https://i.imgur.com/Hr0kmDi.jpg<thumbnail>
 <fanart>https://i.imgur.com/6Wq4CEh.jpg</fanart>
 <genre>Fantástico.Infantil.Aventuras</genre>
@@ -36,9 +34,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] La hoguera de las vanidades </title>
-<urlsolve>https://verystream.com/stream/9Z9LCALmhJw/LaH0gu3raD3La5Van2dad35.mkv.mp4</urlsolve>
-<urlsolve>https://www.rapidvideo.com/v/G5QBMB80S5</urlsolve>
-<urlsolve></urlsolve>
+<link>plugin://plugin.video.torrentin/?uri=</link>
 <thumbnail>https://i.imgur.com/wPnc8LM.jpg<thumbnail>
 <fanart>https://i.imgur.com/cOa8pZB.jpg</fanart>
 <genre>Drama</genre>
@@ -48,7 +44,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Pretty Woman </title>
-<urlsolve>http://streamcloud.eu/2z4z5mdn6gw8</urlsolve>
+<link>plugin://plugin.video.torrentin/?uri=</link>
 <thumbnail>https://i.imgur.com/gosu2vV.jpg<thumbnail>
 <fanart>https://i.imgur.com/5BWomFM.jpg</fanart>
 <genre>Romance. Comedia</genre>

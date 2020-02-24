@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
+
+
 <item>
 <title>[COLOR lime]•[/COLOR] Antes de amanecer </title>
-<urlsolve></urlsolve>
-<urlsolve></urlsolve>
-<urlsolve>http://streamcloud.eu/niln68pr0edj</urlsolve>
-<thumbnail>https://i.imgur.com/gCZo4cr.jpg<thumbnail>
+<link>plugin://plugin.video.torrentin/?uri=</link>
+<thumbnail>https://i.imgur.com/gCZo4cr.jpg</thumbnail>
 <fanart>https://i.imgur.com/cMFxdnm.jpg</fanart>
 <genre>Romance. Drama</genre>
 <year>1995</year>
@@ -15,10 +15,8 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Apolo 13 (Apolo XIII) </title>
-<urlsolve></urlsolve>
-<urlsolve></urlsolve>
-<urlsolve>http://streamcloud.eu/jkkyhrlurd4l</urlsolve>
-<thumbnail>https://i.imgur.com/wykQbnU.jpg<thumbnail>
+<link>plugin://plugin.video.torrentin/?uri=</link>
+<thumbnail>https://i.imgur.com/wykQbnU.jpg</thumbnail>
 <fanart>https://i.imgur.com/N1uZTig.jpg</fanart>
 <genre>Drama. Aventuras</genre>
 <year>1995</year>
@@ -27,8 +25,8 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Dos policías rebeldes </title>
-<urlsolve>http://streamcloud.eu/jc0zqr748inh</urlsolve>
-<thumbnail>https://i.imgur.com/Bw3fHa4.jpg<thumbnail>
+<link>plugin://plugin.video.torrentin/?uri=</link>
+<thumbnail>https://i.imgur.com/Bw3fHa4.jpg</thumbnail>
 <fanart>https://i.imgur.com/fzGMkXJ.jpg</fanart>
 <genre>Acción. Comedia</genre>
 <year>1995</year>
@@ -37,10 +35,8 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Juez Dredd </title>
-<urlsolve>https://verystream.com/stream/Up59y24z3xU/Ju3zDr3dd.mkv.mp4</urlsolve>
-<urlsolve>https://www.rapidvideo.com/v/G641OREDFO</urlsolve>
-<urlsolve></urlsolve>
-<thumbnail>https://i.imgur.com/VNH1qjc.jpg<thumbnail>
+<link>plugin://plugin.video.torrentin/?uri=</link>
+<thumbnail>https://i.imgur.com/VNH1qjc.jpg</thumbnail>
 <fanart>https://i.imgur.com/fSZPvag.jpg</fanart>
 <genre>Ciencia ficción. Acción. Fantástico</genre>
 <year>1995</year>
@@ -49,7 +45,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Los puentes de Madison </title>
-<urlsolve>http://streamcloud.eu/qc6i608cb6e7/7.avi.html</urlsolve>
+<link>plugin://plugin.video.torrentin/?uri=</link>
 <thumbnail>https://i.imgur.com/9vpGoBb.jpg</thumbnail>
 <fanart>https://i.imgur.com/RsLj1lh.jpg</fanart>
 <genre>accion.</genre>
@@ -59,10 +55,8 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Liberad a Willy 2 </title>
-<urlsolve>https://verystream.com/stream/DbAFzqqqCvj/L1b3W111y_2.mkv.mp4</urlsolve>
-<urlsolve>https://www.rapidvideo.com/v/G65GTEBNHK</urlsolve>
-<urlsolve></urlsolve>
-<thumbnail>https://i.imgur.com/6YeJcdk.jpg<thumbnail>
+<link>plugin://plugin.video.torrentin/?uri=</link>
+<thumbnail>https://i.imgur.com/6YeJcdk.jpg</thumbnail>
 <fanart>https://i.imgur.com/2zsqGra.jpg</fanart>
 <genre>Aventuras</genre>
 <year>1995</year>
@@ -71,10 +65,8 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Seven (Se7en) </title>
-<urlsolve>https://verystream.com/stream/U4MDB9hH7HU/S3v3n.avi.mp4</urlsolve>
-<urlsolve>https://www.rapidvideo.com/v/G523E00L7Q</urlsolve>
-<urlsolve>http://streamcloud.eu/lphn83jscecm/S3v3n.avi.html</urlsolve>
-<thumbnail>https://i.imgur.com/9Ti7RCB.jpg<thumbnail>
+<link>plugin://plugin.video.torrentin/?uri=</link>
+<thumbnail>https://i.imgur.com/9Ti7RCB.jpg</thumbnail>
 <fanart>https://i.imgur.com/AcvTCml.jpg</fanart>
 <genre>Thriller.Intriga</genre>
 <year>1995</year>
