@@ -1,24 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-
 <item>
-<title>[COLOR lime]•[/COLOR]  </title>
-<link>plugin://plugin.video.torrentin/?uri=</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<genre></genre>
-<year>2019</year>
-<info></info> 
-</item>
-
-<item>
-<title>[COLOR lime]•[/COLOR]  </title>
-<link>plugin://plugin.video.torrentin/?uri=</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<genre></genre>
-<year>2019</year>
-<info></info> 
+<title>[COLOR lime]•[/COLOR] El hombre invisible  </title>
+<link>plugin://plugin.video.torrentin/?uri=https://www.elitetorrent.nl/wp-content/uploads/files/1583131926-Timmy%20Failure%20[1080][Castellano][wWw.EliteTorrent.BZ].torrent</link>
+<thumbnail>https://i.imgur.com/6csGqOk.jpg</thumbnail>
+<fanart>https://i.imgur.com/38Q9t1C.jpg</fanart>
+<genre>Ciencia ficción. Intriga. Terror</genre>
+<year>2020</year>
+<info>Cecilia (Elisabeth Moss) rehace su vida tras recibir la noticia de que su exnovio, un maltratador empedernido, ha fallecido. Sin embargo, su cordura comienza a tambalearse cuando empieza tener la certeza de que en realidad sigue vivo. </info> 
 </item>
 
 <item>
