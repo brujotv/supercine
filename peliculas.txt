@@ -593,7 +593,7 @@ calorina sandobal
 1.La bruja: Una leyenda de Nueva Inglaterra
 2.El último cazador de brujas
 3.Victor Frankenstein
-4.X+Y
+4.Terminator Génesis
 5.Cincuenta Sombras de Grey (Sin Censura)
 6.Bajo el sol
 7.Dos padres por desigual
@@ -620,7 +620,6 @@ calorina sandobal
 28.Asteroide: Impacto final (TV)
 29.Últimos días en el desierto
 30.Hotel Transilvania 2 
-31.Terminator Génesis
 
 2014-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -657,6 +656,7 @@ calorina sandobal
 31.Autómata
 32.Ataque a los Titanes, la película. Parte 1. El arco y la flecha escarlatas
 33.Asylum: El experimento
+34.X+Y
 
 2013-----------------------------------------------------------------------------------------------------------------------------------
 
