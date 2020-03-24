@@ -42,7 +42,7 @@
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR] Arachnoquake (TV) </title>
+<title>[COLOR lime]•[/COLOR] Arachnoquake (TV) (no funciona)</title>
 <link>plugin://plugin.video.torrentin/?uri=</link>
 <thumbnail>https://i.imgur.com/I5vWhHn.jpg</thumbnail>
 <fanart>https://i.imgur.com/J4vMSoy.jpg</fanart>
@@ -82,7 +82,7 @@
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR] El gato con botas: Los tres diablos (CORTO) </title>
+<title>[COLOR lime]•[/COLOR] El gato con botas: Los tres diablos (CORTO) (no funciona) </title>
 <link>plugin://plugin.video.torrentin/?uri=</link>
 <thumbnail>https://pics.filmaffinity.com/puss_in_boots_the_three_diablos_s-379546995-mmed.jpg</thumbnail>
 <fanart></fanart>
@@ -93,10 +93,10 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] El hombre de los puños de hierro </title>
-<link>plugin://plugin.video.torrentin/?uri=</link>
-<thumbnail>https://pics.filmaffinity.com/the_man_with_the_iron_fists-595594633-mmed.jpg</thumbnail>
-<fanart></fanart>
-<genre></genre>
+<link>plugin://plugin.video.torrentin/?uri=https://www.elitetorrent.nl/wp-content/uploads/files/el-hombre-de-los-punos-de-hierro-ts-screener-eelux.torrent</link>
+<thumbnail>https://i.imgur.com/CletK7u.jpg</thumbnail>
+<fanart>https://i.imgur.com/kap33Sw.jpg</fanart>
+<genre>Acción. Fantástico</genre>
 <year>2012</year>
 <info>En la remota China del siglo XIX, un solitario forastero se dedica a fabricar armas para los vecinos de un pequeño pueblo. Un día se verá en la obligación de convertirse en protector del poblado que lo acogió, intentado defender a sus habitantes de una banda de asesinos.</info> 
 </item>
