@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
+<link>plugin://plugin.video.torrentin/?uri=</link>
+<genre></genre>
+<year>1982</year>
+
 <item>
 <title>[COLOR lime]•[/COLOR] Aterriza como puedas II </title>
-<urlsolve></urlsolve>
-<urlsolve></urlsolve>
-<urlsolve>http://streamcloud.eu/eq1uqyk41bme</urlsolve>
+<link>plugin://plugin.video.torrentin/?uri=</link>
 <thumbnail>https://i.imgur.com/64TYoOK.jpg<thumbnail>
 <fanart>https://i.imgur.com/IsPH5zN.jpg</fanart>
 <genre>Comedia</genre>
@@ -15,9 +17,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Ator el poderoso </title>
-<urlsolve></urlsolve>
-<urlsolve></urlsolve>
-<urlsolve>http://streamcloud.eu/i5u8kyt8i5xa</urlsolve>
+<link>plugin://plugin.video.torrentin/?uri=</link>
 <thumbnail>https://i.imgur.com/U7gs74F.jpg<thumbnail>
 <fanart>https://i.imgur.com/eKAHUXd.jpg</fanart>
 <genre>Fantástico. Aventuras. Acción</genre>
@@ -37,26 +37,32 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] E.T </title>
-<urlsolve>http://streamcloud.eu/cix9yroa0vvb/1.avi.html</urlsolve>
+<link>plugin://plugin.video.torrentin/?uri=</link>
 <thumbnail>https://i.imgur.com/jbj1UHw.jpg<thumbnail>
 <fanart></fanart>
+<genre></genre>
+<year>1982</year>
 <info>Un pequeño ser de otro planeta se queda abandonado en la Tierra cuando su nave, al emprender el regreso, se olvida de él. Está completamente solo y tiene miedo, pero se hará amigo de un niño, que lo esconde en su casa. El pequeño y sus hermanos intentan encontrar la forma de que el pequeño extraterrestre regrese a su planeta antes de que lo encuentren los científicos y la policía.</info> 
 </item>
  
 <item>
 <title>[COLOR lime]•[/COLOR] El señor de las bestias </title>
-<urlsolve>https://www.rapidvideo.com/v/G2JO2WWG8N</urlsolve>
+<link>plugin://plugin.video.torrentin/?uri=</link>
 <thumbnail>https://i.imgur.com/hDNgnkj.jpg</thumbnail>
 <fanart></fanart>
+<genre></genre>
+<year>1982</year>
 <info>Tras su nacimiento, el nuevo hijo nonato del rey, Dar, es secuestrado por un sacerdote de la orden de Jun y abandonado a su suerte. El bebé es encontrado por una familia de campesinos que lo adoptan sin saber quién es realmente. Cuando el joven Dar está cerca de llegar a su edad adulta, contempla como toda su familia es asesinada por hordas de salvajes, y descubre en ese momento que tiene la facultad de comunicarse con cualquier clase de animal. Dar inciará entonces el camino de su venganza para dar con los asesinos de su familia. 
 </info>
 </item>
 
 <item>
 <title>[COLOR lime]•[/COLOR] La cosa (El enigma de otro mundo) </title>
-<urlsolve>http://streamcloud.eu/9uaiicgzzyv8/12.avi.html</urlsolve>
+<link>plugin://plugin.video.torrentin/?uri=</link>
 <thumbnail>https://i.imgur.com/QB8znNi.jpg</thumbnail>
 <fanart></fanart>
+<genre></genre>
+<year>1982</year>
 <info>En una estación experimental de la Antártida, un equipo de investigadores descubre a un ente extraño venido del espacio, que según todos los indicios ha permanecido enterrado en la nieve durante más de 100.000 años. Al descongelarse, experimenta una metamorfosis sorprendente... 
 </info>
 </item>
