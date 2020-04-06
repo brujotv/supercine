@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+
+
+
+
 <item>
 <title>[COLOR lime]•[/COLOR] Aullidos 2: Stirba, la mujer lobo </title>
-<urlsolve></urlsolve>
-<urlsolve></urlsolve>
-<urlsolve>http://streamcloud.eu/3zxz7qtpxsvu</urlsolve>
+<link>plugin://plugin.video.torrentin/?uri=</link>
 <thumbnail>https://i.imgur.com/3sE52iz.jpg<thumbnail>
 <fanart>https://i.imgur.com/HW0LblF.jpg</fanart>
 <genre>Terror</genre>
@@ -13,11 +15,12 @@
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR] Commando</title>
-<urlsolve>http://streamcloud.eu/3eiwwtuvzfnc</urlsolve>
-<urlsolve>https://www.rapidvideo.com/v/G2IQQU54V0</urlsolve>
+<title>[COLOR lime]•[/COLOR] Commando </title>
+<link>plugin://plugin.video.torrentin/?uri=</link>
 <thumbnail>https://i.imgur.com/k8gUOSX.jpg<thumbnail>
 <fanart>https://i.imgur.com/J6MNiur.jpg</fanart>
+<genre></genre>
+<year>1985</year>
 <info>El coronel John Matrix (Arnold Schwarzenegger), experto en artes marciales, 
   es un comando sin igual; sin embargo, debido al número de operaciones especiales en las que ha intervenido, 
   ha sido 'jubilado' para protegerlo de quienes desearían vengarse de él. 
@@ -28,16 +31,18 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Cocoon </title>
-<urlsolve>http://streamcloud.eu/crwipl0l52lm/A80S_11.avi.html</urlsolve>
+<link>plugin://plugin.video.torrentin/?uri=</link>
 <thumbnail>https://i.imgur.com/oNJC9vc.jpg</thumbnail>
 <fanart></fanart>
+<genre></genre>
+<year>1985</year>
 <info>Un grupo de ancianos que viven en una residencia descubren la fuente de la eterna juventud. El único problema es que el lugar mágico pertenece a un grupo de extraterrestres, y desconocen si sus intenciones son amigables. Un espléndido reparto y acertadas dosis de sentimentalismo hicieron de este drama fantástico un gran éxito de taquilla.
 </info>
 </item>
 
 <item>
 <title>[COLOR lime]•[/COLOR] El jinete pálido </title>
-<urlsolve>http://streamcloud.eu/4h5ewqwgaqnw/11.avi.html</urlsolve>
+<link>plugin://plugin.video.torrentin/?uri=</link>
 <thumbnail>https://i.imgur.com/DeE7QPB.jpg</thumbnail>
 <fanart>https://i.imgur.com/RsLj1lh.jpg</fanart>
 <genre>accion.</genre>
@@ -47,18 +52,22 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] El secreto de la pirámide </title>
-<urlsolve>https://www.rapidvideo.com/v/G2IPWY6P2L</urlsolve>
+<link>plugin://plugin.video.torrentin/?uri=</link>
 <thumbnail>https://i.imgur.com/EMZnB9d.jpg</thumbnail>
 <fanart></fanart>
+<genre></genre>
+<year>1985</year>
 <info>Cuando una oleada de extraños y horribles asesinatos mantienen en suspenso a Londres, el joven Sherlock Holmes y su nuevo amigo Watson se ven involucrados, casi sin advertirlo, en una oscura trama. Y el detective en ciernes se lanza a investigar y resolver el caso más sorprendente de su extraordinaria carrera.  
 </info>
 </item>
 
 <item>
 <title>[COLOR lime]•[/COLOR] Noche de miedo </title>
-<urlsolve> https://www.rapidvideo.com/v/G2GBXDNHJN</urlsolve>
+<link>plugin://plugin.video.torrentin/?uri=</link>
 <thumbnail>https://i.imgur.com/t6wRvNh.jpg</thumbnail>
 <fanart></fanart>
+<genre></genre>
+<year>1985</year>
 <info>Charley Brewster es el típico adolescente americano. Su madre cree que ve demasiadas películas de terror. La vida de Charley es muy tranquila, hasta que se convence que su nuevo vecino, Jerry Dandridge, es un vampiro. Nadie, y menos aún la policía, está dispuesto a creer que Dandridge es responsable de un montón de extraños asesinatos. Charley encuentra un aliado en Peter Vincent, un antiguo actor de películas y presentador de programas de terror en la televisión. Peter intentará salvar a Charley y a su amada de los mortales colmillos de Jerry.  
 </info>
 </item>
@@ -89,9 +98,11 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Re-Animator </title>
-<urlsolve>https://www.rapidvideo.com/v/G2IPTODJMT</urlsolve>
+<link>plugin://plugin.video.torrentin/?uri=</link>
 <thumbnail>https://i.imgur.com/87ElRfD.jpg</thumbnail>
 <fanart></fanart>
+<genre></genre>
+<year>1985</year>
 <info>Herbert West estudia en Europa métodos regenerativos junto a un conocido científico, que muere en extrañas circunstancias. Herbert viaja a EEUU, donde se matricula en la Miskatonic University. Allí continúa con sus experimentos, que tienen la intención de alcanzar la fórmula que permita reanimar los muertos. Su compañero de piso Dan y la novia de éste, Megan, se verán envueltos en el macabro proyecto 
 </info>
 </item>
