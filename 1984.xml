@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+
+
+
+
 <item>
 <title>[COLOR lime]•[/COLOR] En la cuerda floja </title>
-<urlsolve>http://streamcloud.eu/s6h3tegujxhd/6.avi.html</urlsolve>
+<link>plugin://plugin.video.torrentin/?uri=</link>
 <thumbnail>https://i.imgur.com/yK0sacn.jpg</thumbnail>
 <fanart>https://i.imgur.com/RsLj1lh.jpg</fanart>
 <genre>accion.</genre>
@@ -12,7 +16,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Gremlins </title>
-<urlsolve>http://streamcloud.eu/62d031cxrbgp/9.avi.html</urlsolve>
+<link>plugin://plugin.video.torrentin/?uri=</link>
 <thumbnail>https://i.imgur.com/zJUFqD9.jpg</thumbnail>
 <fanart></fanart>
 <genre>Fantástico. Comedia. Terror</genre>
@@ -23,8 +27,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Karate kid, el momento de la verdad </title>
-<urlsolve>http://streamcloud.eu/otxoiwhdh2ex</urlsolve>
-<urlsolve>http://streamcloud.eu/8ptpje3yofp8/10.avi.html</urlsolve>
+<link>plugin://plugin.video.torrentin/?uri=</link>
 <thumbnail>https://i.imgur.com/kmMcY6I.jpg<thumbnail>
 <fanart></fanart>
 <genre>Drama</genre>
@@ -44,26 +47,28 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] La aventura de los Ewoks (TV) </title>
-<urlsolve>https://www.rapidvideo.com/v/G2IQ7GZCLT</urlsolve>
+<link>plugin://plugin.video.torrentin/?uri=</link>
 <thumbnail></thumbnail>
 <fanart>https://i.imgur.com/s4Yp2Fr.jpg</fanart>
+<genre></genre>
+<year>1984</year>
 <info>Los miembros de la familia Towani se ven separados cuando su nave choca en la superficie de la luna de Endor. Los padres no tardan en ser capturados por el gigante Gorax, mientras que su hijo Mace y su hija Cincel están desaparecidos. Los Ewoks encuentran a los niños en los restos de la nave, y éstos deberán ganarse la confianza de los pequeños habitantes de Endor para iniciar la aventura de rescatar a sus padres.  </info>
 </item>
 
 <item>
 <title>[COLOR lime]•[/COLOR] Loca academia de policía </title>
-<urlsolve>https://www.rapidvideo.com/v/G2G5XAABL7</urlsolve>
+<link>plugin://plugin.video.torrentin/?uri=</link>
 <thumbnail>https://i.imgur.com/7gi4ZJ7.jpg</thumbnail>
-<fanart></fanart> 
+<fanart></fanart>
+<genre></genre>
+<year>1984</year>
 <info>Las nuevas normas dictadas por la alcaldesa significan que el sexo, el peso, la altura y la inteligencia ya no serán factores decisivos para alistarse en las fuerzas del orden. Esto abre las puertas de toda clase de chusma, para disgusto de los instructores, si bien es cierto que no todo el mundo estará ahí por elección, como es el caso de Mahoney cuya alternativa era la prisión, y que intentará por todos los medios que le expulsen hasta que se da cuenta de que le gusta ser cadete de la academia. 
 </info>
 </item>
 
 <item>
 <title>[COLOR lime]•[/COLOR] La historia interminable </title>
-<urlsolve>https://verystream.com/stream/WzoqWijiU8g/Iinterminable_1.mkv.mp4</urlsolve>
-<urlsolve>https://www.rapidvideo.com/v/G5QN5FU5GE</urlsolve>
-<urlsolve>http://streamcloud.eu/byhmbyfhyb4t/24.avi.html</urlsolve>
+<link>plugin://plugin.video.torrentin/?uri=</link>
 <thumbnail>https://i.imgur.com/UapvGPv.jpg<thumbnail>
 <fanart>https://i.imgur.com/DP4LsUI.jpg</fanart>
 <genre>Fantástico.Infantil.Aventuras</genre>
@@ -73,17 +78,17 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Pesadilla en Elm Street </title>
-<urlsolve>http://streamcloud.eu/jnb8lmx5694l/6.avi.html</urlsolve>
+<link>plugin://plugin.video.torrentin/?uri=</link>
 <thumbnail>https://i.imgur.com/9xHPAfT.jpg<thumbnail>
 <fanart></fanart>
+<genre></genre>
+<year>1984</year>
 <info>Varios jóvenes de una pequeña localidad tienen habitualmente pesadillas en las que son perseguidos por un hombre deformado por el fuego y que usa un guante terminado en afiladas cuchillas. Algunos de ellos comienzan a ser asesinados mientras duermen por este ser que resulta ser Freddy Krugger, un hombre con un pasado abominable.</info> 
 </item>
 
 <item>
 <title>[COLOR lime]•[/COLOR] Star Trek III. En busca de Spock </title>
-<urlsolve>https://verystream.com/stream/cEJfAqKDhGC/5tarTr3k_3BuscaDeS.mkv.mp4</urlsolve>
-<urlsolve>https://www.rapidvideo.com/v/G5XLYJ5Y0H</urlsolve>
-<urlsolve></urlsolve>
+<link>plugin://plugin.video.torrentin/?uri=</link>
 <thumbnail>https://i.imgur.com/LUSFHy5.jpg<thumbnail>
 <fanart>https://i.imgur.com/kahSYtn.jpg</fanart>
 <genre>Ciencia ficción</genre>
