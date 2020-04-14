@@ -32,6 +32,9 @@ calorina sandobal
 4.Aves de presa (y la fantabulosa emancipación de Harley Quinn)
 5.Spenser: Confidencial
 6.Bad Boys for Life
+7.El sumiller
+8.bloodshot
+9.El banquero
 
 2019-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -251,6 +254,30 @@ calorina sandobal
 214.Danger Close: La batalla de Long Tan
 215.Frozen II
 216.Ventajas de viajar en tren
+217.The Huntress: Rune of the Dead
+218.The Wonderland
+219.The Mustang
+220.Cuestión de justicia
+221.Bliss
+222.Hala
+223.One Piece: Estampida
+224.Legado en los huesos
+225.La hija de un ladrón
+226.Navidad sangrienta
+227.El último héroe
+228.Midway
+229.Puñales por la espalda
+230.Guns Akimbo
+231.Cómo ser un french lover
+232.Frankie
+233.Plan de escape 3
+234.Los miserables
+235.Derribad al hombre
+236.La gran mentira
+237.Adults in the Room (Comportarse como adultos)
+238.Altered Carbon: Reefundados
+239.Pequeñas mentiras para estar juntos
+240.El hoyo
 
 2018-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -457,6 +484,7 @@ calorina sandobal
 208.Funan
 209.Brillantissime
 210.La ceniza es el blanco más puro
+211.Vita & Virginia
 
 2017-----------------------------------------------------------------------------------------------------------------------------------
 
