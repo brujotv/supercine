@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[COLOR lime]•[/COLOR] 24 </title>
-<link>plugin://plugin.video.elementum/?uri=magnet:?xt=urn:btih:76993F2405502E374D092406346D9E86B8A1E60E&dn=Dangerous.Lies.[720p][Castellano][wWw.EliteTorrent.NL]&udp://p4p.arenabg.com:1337/announce&tr=udp</link>
+<title>[COLOR lime]•[/COLOR] 24 play </title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:76993F2405502E374D092406346D9E86B8A1E60E&dn=Dangerous.Lies.[720p][Castellano][wWw.EliteTorrent.NL]&udp://p4p.arenabg.com:1337/announce&tr=udp</link>
 <thumbnail>https://i.imgur.com/8HdKTcn.jpg<thumbnail>
 <fanart>https://i.imgur.com/Igmrej3.jpg</fanart>
 <genre>Thriller</genre>
