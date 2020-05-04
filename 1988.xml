@@ -3,7 +3,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Atracción diabólica </title>
-<link>plugin://plugin.video.torrentin/?uri=</link>
+<link>plugin://plugin.video.elementum/play?uri=</link>
 <thumbnail>https://i.imgur.com/depAqJ4.jpg<thumbnail>
 <fanart>https://i.imgur.com/P8hytiW.jpg</fanart>
 <genre>Terror. Ciencia ficción</genre>
@@ -13,7 +13,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Arde Mississippi </title>
-<link>plugin://plugin.video.torrentin/?uri=</link>
+<link>plugin://plugin.video.elementum/play?uri=</link>
 <thumbnail>https://i.imgur.com/lYKZKfs.jpg<thumbnail>
 <fanart>https://i.imgur.com/dlXufGp.jpg</fanart>
 <genre>Drama.Intriga</genre>
@@ -23,7 +23,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Arma joven </title>
-<link>plugin://plugin.video.torrentin/?uri=</link>
+<link>plugin://plugin.video.elementum/play?uri=https://github.com/brujotv/repo-naranjitos/raw/master/torrentsdepaginas/Arma-Joven.torrent</link>
 <thumbnail>https://i.imgur.com/RIpJQ33.jpg<thumbnail>
 <fanart>https://i.imgur.com/bjtlEzL.jpg</fanart>
 <genre>Western. Acción</genre>
@@ -33,7 +33,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Bitelchús </title>
-<link>plugin://plugin.video.torrentin/?uri=</link>
+<link>plugin://plugin.video.elementum/play?uri=https://github.com/brujotv/repo-naranjitos/raw/master/torrentsdepaginas/Beetlejuice.torrent</link>
 <thumbnail>https://i.imgur.com/1SmILkL.jpg</thumbnail>
 <fanart></fanart>
 <genre></genre>
@@ -44,7 +44,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Cocodrilo Dundee II </title>
-<link>plugin://plugin.video.torrentin/?uri=</link>
+<link>plugin://plugin.video.elementum/play?uri=https://github.com/brujotv/repo-naranjitos/raw/master/torrentsdepaginas/Cocodrilo-Dundee-II.torrent</link>
 <thumbnail>https://i.imgur.com/fy9AzOe.jpg<thumbnail>
 <fanart>https://i.imgur.com/uR0Gnz2.jpg</fanart>
 <genre>Comedia.Acción</genre>
@@ -54,7 +54,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Contacto sangriento </title>
-<link>plugin://plugin.video.torrentin/?uri=</link>
+<link>plugin://plugin.video.elementum/play?uri=https://github.com/brujotv/repo-naranjitos/raw/master/torrentsdepaginas/contacto-sangriento.torrent</link>
 <thumbnail>https://pics.filmaffinity.com/bloodsport-871331799-mmed.jpg<thumbnail>
 <fanart></fanart>
 <genre></genre>
@@ -64,7 +64,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Están vivos  </title>
-<link>plugin://plugin.video.torrentin/?uri=</link>
+<link>plugin://plugin.video.elementum/play?uri=https://github.com/brujotv/repo-naranjitos/raw/master/torrentsdepaginas/estan-vivos.torrent</link>
 <thumbnail>https://i.imgur.com/SDuDN3S.jpg</thumbnail>
 <fanart></fanart>
 <genre></genre>
@@ -75,7 +75,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] La lista negra </title>
-<link>plugin://plugin.video.torrentin/?uri=</link>
+<link>plugin://plugin.video.elementum/play?uri=https://github.com/brujotv/repo-naranjitos/raw/master/torrentsdepaginas/La_Lista_Negra.torrent</link>
 <thumbnail>https://i.imgur.com/su9RujM.jpg</thumbnail>
 <fanart>https://i.imgur.com/RsLj1lh.jpg</fanart>
 <genre>accion.</genre>
@@ -85,7 +85,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] La jungla de cristal </title>
-<link>plugin://plugin.video.torrentin/?uri=</link>
+<link>plugin://plugin.video.elementum/play?uri=https://github.com/brujotv/repo-naranjitos/raw/master/torrentsdepaginas/la-jungla-i.torrent</link>
 <thumbnail>https://i.imgur.com/Le3ljqN.jpg</thumbnail>
 <fanart></fanart>
 <genre></genre>
@@ -96,7 +96,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Muñeco diabólico</title>
-<link>plugin://plugin.video.torrentin/?uri=</link>
+<link>plugin://plugin.video.elementum/play?uri=https://github.com/brujotv/repo-naranjitos/raw/master/torrentsdepaginas/Muneco-Diabolico.torrent</link>
 <thumbnail>https://i.imgur.com/tKb0FmB.jpg</thumbnail>
 <fanart></fanart>
 <genre></genre>
@@ -107,7 +107,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Rambo III </title>
-<link>plugin://plugin.video.torrentin/?uri=https://www.divxtotal.eu/wp-content/uploads/files/rambo-3-UD0nZv80wp.torrent</link>
+<link>plugin://plugin.video.elementum/play?uri=https://github.com/brujotv/repo-naranjitos/raw/master/torrentsdepaginas/rambo_iii.torrent</link>
 <thumbnail>https://i.imgur.com/TUfdfuI.jpg<thumbnail>
 <fanart>https://i.imgur.com/4eJ37Oa.jpg</fanart>
 <genre>Acción. Bélico</genre>
