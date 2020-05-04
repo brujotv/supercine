@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-
 <item>
-<title>[COLOR lime]•[/COLOR] prueba anonima 4-4-20</title>
-<link>plugin://plugin.video.elementum/playtorrent/?uri=https://anonfile.com/ZeMcQev6oa/1588293747-Dangerous_Lies_720p_Castellano_wWw.EliteTorrent.NL_torrent</link>
-<thumbnail><thumbnail>
-<fanart></fanart>
-<genre></genre>
+<title>[COLOR lime]•[/COLOR] 24 </title>
+<link>plugin://plugin.video.elementum/?uri=magnet:?xt=urn:btih:76993F2405502E374D092406346D9E86B8A1E60E&dn=Dangerous.Lies.[720p][Castellano][wWw.EliteTorrent.NL]&udp://p4p.arenabg.com:1337/announce&tr=udp</link>
+<thumbnail>https://i.imgur.com/8HdKTcn.jpg<thumbnail>
+<fanart>https://i.imgur.com/Igmrej3.jpg</fanart>
+<genre>Thriller</genre>
 <year>2020</year>
-<info></info> 
+<info>Después de la infidelidad de su exmarido, Grace Waters (Crystal Fox) recupera la ilusión con un nuevo amor. Hasta que salen a la luz los secretos que sacan su cara más violenta.</info> 
 </item>
-
+ 
+ magnet:?xt=urn:btih:76993F2405502E374D092406346D9E86B8A1E60E&dn=Dangerous.Lies.[720p][Castellano][wWw.EliteTorrent.NL]&udp://p4p.arenabg.com:1337/announce&tr=udp://explodie.org:6969/announce&tr=udp://tracker.torrent.eu.org:451/announce&tr=udp://tracker.iamhansen.xyz:2000/announce&tr=udp://tracker.birkenwald.de:6969/announce&tr=http://tracker.gbitt.info:80/announce&tr=https://tracker.nanoha.org:443/announce&tr=udp://opentor.org:2710/announce&tr=udp://tracker.beeimg.com:6969/announce&tr=http://h4.trakx.nibba.trade:80/announce&tr=https://tracker.sloppyta.co:443/announce&tr=udp://tracker.zerobytes.xyz:1337/announce&tr=https://tracker.nitrix.me:443/announce&tr=udp://chihaya.de:6969/announce&tr=https://t1.leech.ie:443/announce&tr=udp://aaa.army:8866/announce&tr=https://w.wwwww.wtf:443/announce&tr=udp://u.wwwww.wtf:1/announce&tr=https://tracker.vectahosting.eu:8443/announce&tr=udp://tracker2.dler.org:80/announce&tr=udp://open.stealth.si:80/announce&tr=udp://tracker.uw0.xyz:6969/announce&tr=udp://tracker.cyberia.is:6969/announce&tr=udp://tracker.0o.is:6969/announce&tr=udp://exodus.desync.com:6969/announce&tr=udp://ipv6.tracker.harry.lu:80/announce&tr=http://tracker.files.fm:6969/announce&tr=udp://valakas.rollo.dnsabr.com:2710/announce&tr=udp://xxxtor.com:2710/announce
+ 
 <item>
 <title>[COLOR lime]•[/COLOR] A traición </title>
 <link>plugin://plugin.video.torrentin/?uri=https://www.elitetorrent.li/wp-content/uploads/files/1579581700-A%20Traicion%20[1080p][Castellano][wWw.EliteTorrent.LI].torrent</link>
