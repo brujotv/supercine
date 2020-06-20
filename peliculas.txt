@@ -1,10 +1,10 @@
-peliculas n∫1039
+peliculas n¬∫1039
 calorina sandobal
 <link>plugin://plugin.video.torrentin/?uri=</link>
 
 
 <item>
-<title>[COLOR lime]ï[/COLOR]  [COLOR red](torrent)[/COLOR]</title>
+<title>[COLOR lime]‚Ä¢[/COLOR]  [COLOR red](torrent)[/COLOR]</title>
 <link>plugin://plugin.video.torrentin/?uri=</link>
 <thumbnail><thumbnail>
 <fanart></fanart>
@@ -14,7 +14,7 @@ calorina sandobal
 </item>
 
 <item>
-<title>[COLOR lime]ï[/COLOR]  [COLOR yellow](Streaming)[/COLOR]</title>
+<title>[COLOR lime]‚Ä¢[/COLOR]  [COLOR yellow](Streaming)[/COLOR]</title>
 <urlsolve></urlsolve>
 <thumbnail><thumbnail>
 <fanart></fanart>
@@ -26,19 +26,20 @@ calorina sandobal
 
 2020-----------------------------------------------------------------------------------------------------------------------------------
 
-1.A traiciÛn
-2.Modo aviÛn
-3.Desastre y total: Agencia de detectives n∫1
-4.Aves de presa (y la fantabulosa emancipaciÛn de Harley Quinn)
+1.A traici√≥n
+2.Modo avi√≥n
+3.Desastre y total: Agencia de detectives n¬∫1
+4.Aves de presa (y la fantabulosa emancipaci√≥n de Harley Quinn)
 5.Spenser: Confidencial
 6.Bad Boys for Life
 7.El sumiller
 8.bloodshot
 9.El banquero
+10.Las aventuras del doctor dolittle
 
 2019-----------------------------------------------------------------------------------------------------------------------------------
 
-1.CÛmo entrenar a tu dragÛn 3
+1.C√≥mo entrenar a tu drag√≥n 3
 2.Money Trap
 3.Miss Bala
 4.Hijo nativo
@@ -47,35 +48,35 @@ calorina sandobal
 7.Todo por mi hijo (TV)
 8.Glass
 9.A pesar de todo
-10.Nuestro ˙ltimo verano
+10.Nuestro √∫ltimo verano
 11.Escape Room: Sin salida
 12.Beats
 13.Feedback
 14.El Canto del Lobo
 15.Criminales en el mar
 16.Capitana Marvel
-17.Alita: ¡ngel de combate
+17.Alita: √Ångel de combate
 18.The Prodigy
 19.Shaft
 20.Perdiendo el este
-21.Feliz dÌa de tu muerte 2
-22.øen quÈ piensan los hombres?
+21.Feliz d√≠a de tu muerte 2
+22.¬øen qu√© piensan los hombres?
 23.Cementerio de animales
 24.Crypto
 25.Emboscada final
 26.Extremadamente cruel, malvado y perverso
-27.Uno m·s de la familia
+27.Uno m√°s de la familia
 28.I Am Mother
 29.Nosotros
-30.Deadwood: La pelÌcula
+30.Deadwood: La pel√≠cula
 31.Corgi: Las mascotas de la reina
 32.Dumbo
 33.El caballero de las sombras
-34.°Shazam!
+34.¬°Shazam!
 35.Dolor y gloria
 36.Nancy Drew y la escalera escondida
-37.El niÒo que pudo ser rey
-38.Point Blank: Cuenta atr·s
+37.El ni√±o que pudo ser rey
+38.Point Blank: Cuenta atr√°s
 39.El secuestro de Stella
 40.IO
 41.Bosque maldito
@@ -83,40 +84,40 @@ calorina sandobal
 43.The Intruder
 44.La hija del lobo
 45.Taxi a Gibraltar
-46.PequeÒo gran problema
-47.M·s all· de la esperanza
+46.Peque√±o gran problema
+47.M√°s all√° de la esperanza
 48.Robert Reborn
 49.Boi
-50.Critters °Al ataque! (TV)
+50.Critters ¬°Al ataque! (TV)
 51.Rescate en el Mar Rojo
 52.Kim Possible (TV)
-53.Campamento alienÌgena
+53.Campamento alien√≠gena
 54.Peleando en familia
-55.El dÌa que vendr·
-56.M·s que madres
-57.øNo es rom·ntico?
+55.El d√≠a que vendr√°
+56.M√°s que madres
+57.¬øNo es rom√°ntico?
 58.La Llorona
 59.Venganza bajo cero
-60.After. AquÌ empieza todo
-61.øQuÈ te juegas?
+60.After. Aqu√≠ empieza todo
+61.¬øQu√© te juegas?
 62.Share
-63.El parque m·gico
+63.El parque m√°gico
 64.El hijo
 65.Capsized: Blood in the water (TV)
-66.John Wick: CapÌtulo 3 - Parabellum
+66.John Wick: Cap√≠tulo 3 - Parabellum
 67.Sin piedad
-68.La pequeÒa Suiza
+68.La peque√±a Suiza
 69.Sextillizos
 70.Vengadores: Endgame
-71.PokÈmon: Detective Pikachu
+71.Pok√©mon: Detective Pikachu
 72.Rocketman
 73.Bellezonismo
 74.Amor en obras
-75.La intervenciÛn
-76.°Vaya clase!
+75.La intervenci√≥n
+76.¬°Vaya clase!
 77.El caballero de las sombras
 78.Lo dejo cuando quiera
-79.X-Men: FÈnix oscura
+79.X-Men: F√©nix oscura
 80.El juego del asesino
 81.Tall Girl
 82.Hellboy
@@ -128,11 +129,11 @@ calorina sandobal
 88.Infiltrado en Miami
 89.Los muertos no mueren
 90.El lado siniestro de la luna
-91.S˙per empollonas
-92.Entre dos helechos: La pelÌcula
+91.S√∫per empollonas
+92.Entre dos helechos: La pel√≠cula
 93.Terra Willy: planeta desconocido
 94.Stuber Express
-95.CorrupciÛn
+95.Corrupci√≥n
 96.Tolkien
 97.Antes de la quema
 98.Toy Story 4
@@ -141,9 +142,9 @@ calorina sandobal
 101.La influencia
 102.La biblioteca de los libros rechazados
 103.Fractura
-104.10 dÌas sin mam·
+104.10 d√≠as sin mam√°
 105.Suburbanos
-106.El sol tambiÈn es una estrella
+106.El sol tambi√©n es una estrella
 107.The Laundromat: Dinero sucio
 108.Wounds
 109.Mr. Link. El origen perdido
@@ -154,18 +155,18 @@ calorina sandobal
 114.Serenity
 115.Safari por Navidad
 116.Paradise Beach
-117.MuÒeco diabÛlico
+117.Mu√±eco diab√≥lico
 118.Midsommar
-119.Los JapÛn
-120.La trampa de la araÒa
-121.La m˙sica del terremoto
+119.Los Jap√≥n
+120.La trampa de la ara√±a
+121.La m√∫sica del terremoto
 122.Fast & Furious: Hobbs & Shaw
-123.Padre no hay m·s que uno
-124.…rase una vez en... Hollywood
-125.Angry Birds 2: La pelÌcula
+123.Padre no hay m√°s que uno
+124.√ârase una vez en... Hollywood
+125.Angry Birds 2: La pel√≠cula
 126.30 Miles from Nowhere
 127.Al agua gambas
-128.El rey leÛn
+128.El rey le√≥n
 129.Brittany Runs a Marathon
 130.Mascotas 2
 131.La luz de mi vida
@@ -177,11 +178,11 @@ calorina sandobal
 137.Dora y la ciudad perdida
 138.El arte de vivir bajo la lluvia
 139.El caso Willingham
-140.El irlandÈs
+140.El irland√©s
 141.Extra ordinario
 142.Historia de un matrimonio
 143.Historias de miedo para contar en la oscuridad
-144.It. CapÌtulo 2
+144.It. Cap√≠tulo 2
 145.Let's Dance
 146.Un verano en Ibiza
 147.Atlantique
@@ -211,29 +212,29 @@ calorina sandobal
 171.H0us3
 172.The Murder of Nicole Brown Simpson
 173.Troupe Zero
-174.Tu fotografÌa
+174.Tu fotograf√≠a
 175.Rambo: Last Blood
 176.El jilguero
 177.@buelos
 178.Bienvenidos al barrio
 179.Diamantes en bruto
 180.En acto de servicio
-181.GÈminis
+181.G√©minis
 182.Jugando con fuego
 183.La banda
 184.La conquista de Siberia
 185.La directora de orquesta
 186.Mientras dure la guerra
-187.El juego m·s frÌo
-188.MalÈfica: Maestra del mal
+187.El juego m√°s fr√≠o
+188.Mal√©fica: Maestra del mal
 189.Terminator: Destino oscuro
 190.522. Un gato, un chino y mi padre
-191.DÌa de lluvia en Nueva York
+191.D√≠a de lluvia en Nueva York
 192.El asesino de los caprichos
 193.Dragon Quest: Your Story
 194.Last Christmas
 195.El silencio de la ciudad blanca
-196.Doctor SueÒo
+196.Doctor Sue√±o
 197.Le Mans '66
 198.La familia Addams
 199.La cocina del infierno
@@ -242,33 +243,33 @@ calorina sandobal
 202.Darlin'
 203.Snatchers
 204.Testigo protegido
-205.øPor amor o por dinero? 
+205.¬øPor amor o por dinero? 
 206.El papel de sus vidas
-207.PokÈmon. Mewtwo contraataca: EvoluciÛn
+207.Pok√©mon. Mewtwo contraataca: Evoluci√≥n
 208.Estafadoras de Wall Street
 209.Jaque al asesino
 210.La trinchera infinita
-211.Los RodrÌguez y el m·s all·
+211.Los Rodr√≠guez y el m√°s all√°
 212.Jay y Bob el silencioso: el reboot
-213.El campeÛn
+213.El campe√≥n
 214.Danger Close: La batalla de Long Tan
 215.Frozen II
 216.Ventajas de viajar en tren
 217.The Huntress: Rune of the Dead
 218.The Wonderland
 219.The Mustang
-220.CuestiÛn de justicia
+220.Cuesti√≥n de justicia
 221.Bliss
 222.Hala
 223.One Piece: Estampida
 224.Legado en los huesos
-225.La hija de un ladrÛn
+225.La hija de un ladr√≥n
 226.Navidad sangrienta
-227.El ˙ltimo hÈroe
+227.El √∫ltimo h√©roe
 228.Midway
-229.PuÒales por la espalda
+229.Pu√±ales por la espalda
 230.Guns Akimbo
-231.CÛmo ser un french lover
+231.C√≥mo ser un french lover
 232.Frankie
 233.Plan de escape 3
 234.Los miserables
@@ -276,13 +277,13 @@ calorina sandobal
 236.La gran mentira
 237.Adults in the Room (Comportarse como adultos)
 238.Altered Carbon: Reefundados
-239.PequeÒas mentiras para estar juntos
+239.Peque√±as mentiras para estar juntos
 240.El hoyo
 
 2018-----------------------------------------------------------------------------------------------------------------------------------
 
 1.Ralph rompe Internet
-2.Armado. La gran conspiraciÛn americana
+2.Armado. La gran conspiraci√≥n americana
 3.Bendita locura
 4.La gaviota
 5.Lo que esconde Silver Lake
@@ -295,20 +296,20 @@ calorina sandobal
 12.Ant-Man Y La Avispa
 13.El cuaderno de sara
 14.Black panther
-15.GorriÛn rojo
+15.Gorri√≥n rojo
 16.The Cloverfield Paradox
 17.Scoobydoo y el intrepido Batman
 18.La Primera Vez Que Nos Vimos
 19.Familia al instante
 20.Dumplin
-21.Tiempo despuÈs
-22.La gracia de LucÌa
+21.Tiempo despu√©s
+22.La gracia de Luc√≠a
 23.55 Pasos
 24.Sorry to Bother You
 25.A Rienda Suelta: Doce Relinchos De Navidad 
 26.El vicio del poder
 27.Los hermanos Sisters
-28.El EscuadrÛn del Diablo
+28.El Escuadr√≥n del Diablo
 29.Sobibor
 30.Verano del 84
 31.Pedro el afortunado
@@ -320,40 +321,40 @@ calorina sandobal
 37.Aquaman
 39.Suspiria
 40.Muerto en una semana (o le devolvemos su dinero)
-41.Un pequeÒo favor
+41.Un peque√±o favor
 42.Hot Dog
 43.Perturbada
 44.Juego de ladrones. El atraco perfecto
 45.Siberia
 46.Beyond White Space
 47.Creed II
-48.Ola de crÌmenes
-49.SuperlÛpez
+48.Ola de cr√≠menes
+49.Superl√≥pez
 50.Venom
 51.La Mula (The Mule)
-52.Capharna¸m
+52.Capharna√ºm
 53.Bienvenidos a Marwen
 54.High Life
 55.The Dark
-56.øPodr·s perdonarme alg˙n dÌa?
+56.¬øPodr√°s perdonarme alg√∫n d√≠a?
 57.Dragon Ball Super: Broly
-58.AstÈrix: El secreto de la pociÛn m·gica
+58.Ast√©rix: El secreto de la poci√≥n m√°gica
 59.Above Suspicion
 60.Unbroken: Path to Redemption
-67.Ploey. Nunca volar·s solo
+67.Ploey. Nunca volar√°s solo
 68.Jefa por accidente
-69.La perfecciÛn
+69.La perfecci√≥n
 70.Prospect
 71.La monja
-72.Pacific Rim: InsurrecciÛn 
+72.Pacific Rim: Insurrecci√≥n 
 73.Predator 
-74.MegalodÛn
+74.Megalod√≥n
 75.Kursk
 76.Taxi 5
 77.Supermaderos 2
-78.El hombre que matÛ a Hitler y despuÈs a Bigfoot
-79.¡rtico
-80.Una cuestiÛn de gÈnero
+78.El hombre que mat√≥ a Hitler y despu√©s a Bigfoot
+79.√Årtico
+80.Una cuesti√≥n de g√©nero
 81.The Axiom
 82.The Titan
 83.De tonta, nada
@@ -362,9 +363,9 @@ calorina sandobal
 86.Black 47
 87.Blue Iguana
 88.Smallfoot
-89.Stubby, un hÈroe muy especial
+89.Stubby, un h√©roe muy especial
 90.4 latas
-91.H·blame de ti
+91.H√°blame de ti
 92.70 binladens
 93.El Gordo y el Flaco (Stan & Ollie)
 94.Todos a una
@@ -374,7 +375,7 @@ calorina sandobal
 98.Cuenta pendiente
 99.El Reino
 100.Hotel Transilvania 3: Unas vacaciones monstruosas
-101.La apariciÛn
+101.La aparici√≥n
 102.Los Increibles 2
 103.Paciente cero
 104.Donnybrook
@@ -382,7 +383,7 @@ calorina sandobal
 106.Upgrade (Ilimitado)
 107.Anon
 108.London Fields
-109.Quiero comerme tu p·ncreas
+109.Quiero comerme tu p√°ncreas
 110.La sombra del pasado
 111.Conociendo a Astrid
 112.Chicas con pelotas
@@ -393,35 +394,35 @@ calorina sandobal
 117.Damsel
 118.La profesora de parvulario
 119.Territorio Escualo (TV)
-120.El gran baÒo
+120.El gran ba√±o
 121.La casa de Jack
 122.Green Book
-123.Mia y el leÛn blanco
+123.Mia y el le√≥n blanco
 124.Dominios oscuros
 125.Llenos de vida
 126.Lifechanger
-127.La alfombra m·gica
+127.La alfombra m√°gica
 128.The Bromley Boys
 129.Bikes
 130.Un pueblo y su rey
 131.Terminal
-132.La espÌa roja
+132.La esp√≠a roja
 133.Ligar en la era digital
 134.Gracias a Dios
 135.Plan de escape 2: Hades
 136.12 valientes
 137.Mirai
 138.Okko, el hostal y sus fantasmas
-139.Dios no est· muerto: Una luz en la oscuridad
+139.Dios no est√° muerto: Una luz en la oscuridad
 140.Speed Kills
 141.Killer Weekend
 142.Donbass
-143.15:17 Tren a ParÌs
+143.15:17 Tren a Par√≠s
 144.Las invisibles
 145.No hay salida
 146.Keepers, el misterio del faro
-147.El bailarÌn
-148.De la India a ParÌs en un armario de Ikea
+147.El bailar√≠n
+148.De la India a Par√≠s en un armario de Ikea
 149.Gloria Bell
 150.Welcome Home
 151.Dragged Across Concrete
@@ -429,9 +430,9 @@ calorina sandobal
 153.Mug
 154.Un hombre fiel
 155.Todo por Grace
-156.El aÒo de la plaga
+156.El a√±o de la plaga
 157.La viuda 
-158.La ˙ltima lecciÛn
+158.La √∫ltima lecci√≥n
 159.La corresponsal
 160.Sombra
 161.La importancia de llamarse Oscar Wilde
@@ -439,7 +440,7 @@ calorina sandobal
 163.Dobles vidas
 164.Family Vanished
 165.La tercera esposa
-166.La pequeÒa traviesa
+166.La peque√±a traviesa
 167.Project Gutenberg
 168.Inuyashiki
 169.Vuela como una mariposa
@@ -448,8 +449,8 @@ calorina sandobal
 172.Necesitamos tu voto
 173.Vitoria, 3 de marzo
 174.Hurricane
-175.Enemigos Ìntimos
-176.La canciÛn de mi padre
+175.Enemigos √≠ntimos
+176.La canci√≥n de mi padre
 177.Driven: el origen de la leyenda
 178.El vendedor de tabaco
 179.123.El permiso
@@ -457,10 +458,10 @@ calorina sandobal
 181.Killer Kate!
 182.La tribu
 183.303
-184.Alcanzando tu sueÒo (Teen Spirit)
+184.Alcanzando tu sue√±o (Teen Spirit)
 185.Blaze
 186.Como la vida misma
-187.Una Ìntima convicciÛn
+187.Una √≠ntima convicci√≥n
 188.Freaks
 189.La fiesta acaba de empezar
 190.The Domestics
@@ -483,7 +484,7 @@ calorina sandobal
 207.Un amor imposible
 208.Funan
 209.Brillantissime
-210.La ceniza es el blanco m·s puro
+210.La ceniza es el blanco m√°s puro
 211.Vita & Virginia
 
 2017-----------------------------------------------------------------------------------------------------------------------------------
@@ -496,22 +497,22 @@ calorina sandobal
 6.Abracadabra
 7.Una noche fuera de control
 8.Baby Driver
-9.Salyut-7: HÈroes en el espacio
+9.Salyut-7: H√©roes en el espacio
 10.Liga de la Justicia
-11.OlÈ, el viaje de Ferdinand
+11.Ol√©, el viaje de Ferdinand
 12.Tom of Finland
 13.La tormenta (Locked in)
 14.Gremlin
-15.SeÒor dame paciencia
+15.Se√±or dame paciencia
 16.La guerra del planeta de los simios
-17.La cabaÒa
-18.La piel frÌa
+17.La caba√±a
+18.La piel fr√≠a
 19.Morir
 20.El Pajaro Loco La Pelicula
 21.Coco
 22.El Ritual
 23.Cincuenta sombras mas oscuras
-24.OperaciÛn cacahuete 2
+24.Operaci√≥n cacahuete 2
 25.Juerga de Mamis
 26.Inside
 27.Bushwick
@@ -523,7 +524,7 @@ calorina sandobal
 33.Blade runner 2049
 34.Piratas del Caribe La venganza de Salazar
 35.The Mummy
-36.Capit·n Calzoncillos
+36.Capit√°n Calzoncillos
 37.Wonder Woman 2017
 38.Gru 3 Mi Villano Favorito
 39.Thor 3 Ragnarok
@@ -533,11 +534,11 @@ calorina sandobal
 43.La bella y la bestia
 44.La Torre Oscura
 45.Kong: La isla calavera
-46.El bebÈ jefazo
+46.El beb√© jefazo
 47.Noche de venganza
 48.Ciudad Virtual / Fabricated City
 49.Spider-Man: Homecoming
-50.CuestiÛn de karma
+50.Cuesti√≥n de karma
 51.Cambio de reinas
 52.Bomb City
 53.Amigos por siempre
@@ -545,29 +546,29 @@ calorina sandobal
 55.El extranjero
 56.John Wick: Pacto de sangre
 57.Bleeding Steel
-58.øDÛnde est·s mam·?
+58.¬øD√≥nde est√°s mam√°?
 59.Una familia embarazosa
 60.Lejos de Praga
-61.6 dÌas
+61.6 d√≠as
 62.Colonia V
 63.Mujer y marido
 64.Ciudad sin ley
 65.Monsters at Large
 66.Framed
 67.Ana y el apocalipsis
-68.El precio del perdÛn
+68.El precio del perd√≥n
 69.Un golpe con estilo
-70.Un corazÛn extraordinario
+70.Un coraz√≥n extraordinario
 71.Familiye
 72.Buenos vecinos
 73.Voces ocultas
 74.Como pez fuera del agua
 75.Estasis
-76.Un extraÒo presentimiento
+76.Un extra√±o presentimiento
 77.Garabandal, solo Dios lo sabe
 78.The Whiskey Bandit
 79.Ayla: La hija de la guerra
-80.El cocinero de los ˙ltimos deseos
+80.El cocinero de los √∫ltimos deseos
 81.Blood Money
 82.Manou
 83.Rock and a Hard Place
@@ -580,7 +581,7 @@ calorina sandobal
 3.El rey de los belgas
 4.The Belko Experiment
 5.Kills on Wheels
-6.Animales fant·sticos y dÛnde encontrarlos
+6.Animales fant√°sticos y d√≥nde encontrarlos
 7.Bus Driver
 8.Cuerpo de Elite
 9.A la caza de los Humanos
@@ -592,24 +593,24 @@ calorina sandobal
 15.Brave (Indomable)
 16.Zoolander No. 2
 17.Bridget Jones' Baby
-18.Capit·n AmÈrica: Civil War
+18.Capit√°n Am√©rica: Civil War
 19.Presa
-20.CrÌmenes Oscuros
+20.Cr√≠menes Oscuros
 21.Underworld: Guerras de sangre
 22.Fight to the Finish
 23.Rendel
 24.Deadpool
 25.Parada en el Infierno
 26.Eliminators
-27.Dr. Strange (Doctor ExtraÒo)
+27.Dr. Strange (Doctor Extra√±o)
 28.Vaiana
-29.°Vaya cambiazo!
+29.¬°Vaya cambiazo!
 30.13 Horas: Los soldados secretos de Bengasi
 31.Sully
-32.Assassination Classroom: La graduaciÛn
+32.Assassination Classroom: La graduaci√≥n
 33.Ozzy
 34.Satanic
-35.Luchando por un sueÒo
+35.Luchando por un sue√±o
 36.La autopsia de Jane Doe
 37.La coppia dei campioni
 38.La doctora de Brest
@@ -620,9 +621,9 @@ calorina sandobal
 2015-----------------------------------------------------------------------------------------------------------------------------------
 
 1.La bruja: Una leyenda de Nueva Inglaterra
-2.El ˙ltimo cazador de brujas
+2.El √∫ltimo cazador de brujas
 3.Victor Frankenstein
-4.Terminator GÈnesis
+4.Terminator G√©nesis
 5.Cincuenta Sombras de Grey (Sin Censura)
 6.Bajo el sol
 7.Dos padres por desigual
@@ -630,24 +631,24 @@ calorina sandobal
 9.Mad Max: Furia en la carretera
 10.Star Wars: El despertar de la Fuerza
 11.Ant-Man
-12.Capit·n AmÈrica: El soldado de invierno
-13.El hombre de los puÒos de hierro 2
+12.Capit√°n Am√©rica: El soldado de invierno
+13.El hombre de los pu√±os de hierro 2
 14.Atrapa la bandera
 15.Focus
 16.Transporter Legacy
 17.El becario
 18.Fuga de cerebros 2
 19.Superpoli en Las Vegas
-20.Insidious: CapÌtulo 3
+20.Insidious: Cap√≠tulo 3
 21.Sinister 2
-22.La mujer de negro: El ·ngel de la muerte
+22.La mujer de negro: El √°ngel de la muerte
 23.Straight Outta Compton
-24.Avengers: Age of Ultron (Vengadores: La era de UltrÛn)
+24.Avengers: Age of Ultron (Vengadores: La era de Ultr√≥n)
 25.American Justice
 26.Fast & Furious 7 (A todo gas 7)
 27.Cenicienta
 28.Asteroide: Impacto final (TV)
-29.⁄ltimos dÌas en el desierto
+29.√öltimos d√≠as en el desierto
 30.Hotel Transilvania 2 
 
 2014-----------------------------------------------------------------------------------------------------------------------------------
@@ -656,24 +657,24 @@ calorina sandobal
 2.El amanecer del planeta de los simios
 3.Julia
 4.Dracula la leyenda jamas contada
-5.NoÈ
+5.No√©
 6.El corredor del laberinto
 7.La serie divergente: Divergente
-8.Transformers: La era de la extinciÛn
-9.X-Men: DÌas del futuro pasado
+8.Transformers: La era de la extinci√≥n
+9.X-Men: D√≠as del futuro pasado
 10.Pompeya
 11.Big Hero
-12.Los ping¸inos de Madagascar
+12.Los ping√ºinos de Madagascar
 13.Brick Mansions (La fortaleza)
-14.John Wick (Otro dÌa para matar)
+14.John Wick (Otro d√≠a para matar)
 15.Los mercenarios 3
-16.CÛmo acabar sin tu jefe 2
-17.Carmina y amÈn.
+16.C√≥mo acabar sin tu jefe 2
+17.Carmina y am√©n.
 18.Malditos vecinos
-19.Dos tontos todavÌa m·s tontos
+19.Dos tontos todav√≠a m√°s tontos
 20.The Interview
 21.Ocho apellidos vascos
-22.La teorÌa del todo
+22.La teor√≠a del todo
 23.El juez
 24.El Francotirador
 25.Jersey Boys
@@ -681,9 +682,9 @@ calorina sandobal
 27.Antes de que te vayas
 28.Sin City: Una dama por la que matar
 29.April Rain
-30.‰rtico
-31.AutÛmata
-32.Ataque a los Titanes, la pelÌcula. Parte 1. El arco y la flecha escarlatas
+30.√§rtico
+31.Aut√≥mata
+32.Ataque a los Titanes, la pel√≠cula. Parte 1. El arco y la flecha escarlatas
 33.Asylum: El experimento
 34.X+Y
 
@@ -698,14 +699,14 @@ calorina sandobal
 7.Lobezno inmortal (VE)
 8.Thor: El mundo oscuro
 9.Thai Dragon 2: El protector
-10.Asesinos de Èlite
+10.Asesinos de √©lite
 11.Los pitufos 2
-12.Los Croods. Una aventura prehistÛrica
-13.NiÒos grandes 2
+12.Los Croods. Una aventura prehist√≥rica
+13.Ni√±os grandes 2
 14.Jackass presenta: Bad Grandpa
 15.Paranormal Movie
-16.Insidious: CapÌtulo 2
-17.El ˙ltimo exorcismo 2
+16.Insidious: Cap√≠tulo 2
+17.El √∫ltimo exorcismo 2
 18.Expediente Warren: The Conjuring
 19.Pacific Rim
 20.Iron Man 3 
@@ -716,11 +717,11 @@ calorina sandobal
 25.12 trampas 2
 26.Antes del anochecer
 27.April Apocalypse
-28.As I Lay Dying (El ˙ltimo deseo)
-29.Asalto al furgÛn blindado
+28.As I Lay Dying (El √∫ltimo deseo)
+29.Asalto al furg√≥n blindado
 30.Asesino en el tiempo
 31.Atrapada en la oscuridad
-32.ParÌs: infierno helado
+32.Par√≠s: infierno helado
 
 2012-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -728,10 +729,10 @@ calorina sandobal
 2.Underworld: El despertar
 3.2012
 4.Resident Evil: Venganza
-5.Ghost Rider: EspÌritu de venganza
+5.Ghost Rider: Esp√≠ritu de venganza
 6.La vida de Pi
-7.°Rompe Ralph!
-8.El hombre de los puÒos de hierro
+7.¬°Rompe Ralph!
+8.El hombre de los pu√±os de hierro
 9.Madagascar 3: Europe's Most Wanted
 10.Las aventuras de Tadeo Jones
 11.Hotel Transilvania
@@ -740,7 +741,7 @@ calorina sandobal
 14.007: Skyfall
 15.American Pie: El reencuentro
 16.Ted
-17.Venganza: ConexiÛn Estambul (VE)
+17.Venganza: Conexi√≥n Estambul (VE)
 18.Carmina o revienta.
 19.Tengo ganas de ti
 20.The Possession (El origen del mal)
@@ -755,37 +756,37 @@ calorina sandobal
 29.Apartamento 1303 La maldicion
 30.Arachnoquake (TV)
 31.Asesinato en el piso 13
-32.AsÌ somos (People Like Us)
-33.AstÈrix y ObÈlix: Al servicio de Su Majestad
+32.As√≠ somos (People Like Us)
+33.Ast√©rix y Ob√©lix: Al servicio de Su Majestad
 
 2011-----------------------------------------------------------------------------------------------------------------------------------
 
 1.El origen del planeta de los simios
 2.Acero puro
 3.Transformers: El lado oscuro de la Luna
-4.Capit·n AmÈrica: El primer vengador
+4.Capit√°n Am√©rica: El primer vengador
 5.Rompiendo las reglas 2
 6.Sherlock Holmes: Juego de Sombras
 7.Piratas del Caribe: En mareas misteriosas
 8.Cars 2
-9.Ice Age: Una navidad tamaÒo mamut (CORTO)
+9.Ice Age: Una navidad tama√±o mamut (CORTO)
 10.El gato con botas
 11.Crazy, Stupid, Love
 12.El rito
 13.The Mechanic
-14.CÛmo acabar con tu jefe
+14.C√≥mo acabar con tu jefe
 15.Torrente 4: Lethal Crisis (Crisis Letal)
-16.No lo llames amor... ll·malo X
+16.No lo llames amor... ll√°malo X
 17.Linterna Verde
 18.La cosa (The Thing)
-19.Los ping¸inos del Sr. Poper
+19.Los ping√ºinos del Sr. Poper
 20.J. Edgar
-21.AÒo de Gracia
+21.A√±o de Gracia
 22.Apollo 18
 23.Arrugas
-24.Arthur Christmas: OperaciÛn Regalo
+24.Arthur Christmas: Operaci√≥n Regalo
 25.Arthur, el soltero de oro
-26.Asesinos de Èlite
+26.Asesinos de √©lite
 27. Atraco en Belfast
 28.Atraco por duplicado
 29.Attack The Block
@@ -801,41 +802,41 @@ calorina sandobal
 6.Insidious 
 7.Pesadilla en Elm Street (El origen)
 8.Ahora los padres son ellos
-9.30 dÌas de oscuridad 2: Tinieblas
+9.30 d√≠as de oscuridad 2: Tinieblas
 10.Los mercenarios
-11.NiÒos grandes
+11.Ni√±os grandes
 12.Jackass 3D
 13.Iron Man 2 
 14.The Rig
 15.La herencia Valdemar II: La sombra prohibida
-16.Percy Jackson y el ladrÛn del rayo
-17.Liberad a Willy 4: Aventura en Sud·frica
+16.Percy Jackson y el ladr√≥n del rayo
+17.Liberad a Willy 4: Aventura en Sud√°frica
 18.Tres metros sobre el cielo
-19.M·s all· de la vida
+19.M√°s all√° de la vida
 20.Red
-21.El desafÌo de las ·guilas
+21.El desaf√≠o de las √°guilas
 22.Arrietty y el mundo de los diminutos
 
 2009-----------------------------------------------------------------------------------------------------------------------------------
 
-1.Transformers: La venganza de los caÌdos
+1.Transformers: La venganza de los ca√≠dos
 2.Los sustitutos
 3.Solomon Kane
 4.Sherlock Holmes
 5.La semilla del mal
-6.La huÈrfana
+6.La hu√©rfana
 7.Fuga de cerebros
 8.Crank: Alto voltaje
 9.Malditos bastardos
-10.Underworld: La rebeliÛn de los lic·ntropos
+10.Underworld: La rebeli√≥n de los lic√°ntropos
 11.La cruda realidad
 12.La herencia Valdemar
 13.Star Trek (Star Trek XI)
 14.Push
 15.Invictus
 16.Anticristo
-17.AÒo uno
-18.Arr·strame al infierno
+17.A√±o uno
+18.Arr√°strame al infierno
 19.Astro Boy (Astroboy)
 20.Asuntos de familia (City Island)
 21.Ataque terrorista
@@ -849,24 +850,24 @@ calorina sandobal
 4.Madagascar: Escape 2 Africa (Madagascar 2)
 5.Kung Fu Panda
 6.Max Payne
-7.Retratos del M·s All· (Shutter)
+7.Retratos del M√°s All√° (Shutter)
 8.Siete almas (Seven Pounds)
 9.Death Race: La carrera de la muerte
 10.007: Quantum of Solace
 11.John Rambo (Rambo IV)
-12.El increÌble Hulk
+12.El incre√≠ble Hulk
 13.Algo pasa en Las Vegas
-14.Mortadelo y FilemÛn. MisiÛn: salvar la Tierra
+14.Mortadelo y Filem√≥n. Misi√≥n: salvar la Tierra
 15.Iron Man 
 16.Hancock
-17.Hellboy 2: El ejÈrcito dorado
+17.Hellboy 2: El ej√©rcito dorado
 18.Zohan: Licencia para peinar
 19.Gran Torino
 20.Appaloosa
 21.Area de descanso 2 No mires atras 
 22.Asesinato justo
-23.Ashley Tisdale: ImagÌnatelo
-24.AstÈrix en los Juegos OlÌmpicos
+23.Ashley Tisdale: Imag√≠natelo
+24.Ast√©rix en los Juegos Ol√≠mpicos
 25.Australia
 
 2007-----------------------------------------------------------------------------------------------------------------------------------
@@ -880,8 +881,8 @@ calorina sandobal
 7.El asesino (War)
 8.American Pie 6: Fraternidad Beta
 9.Posdata: Te quiero
-10.Hellion, el ·ngel caÌdo
-11.30 dÌas de oscuridad
+10.Hellion, el √°ngel ca√≠do
+11.30 d√≠as de oscuridad
 12.Taxi 4
 13.La niebla
 14.El orfanato
@@ -893,11 +894,11 @@ calorina sandobal
 
 2006-----------------------------------------------------------------------------------------------------------------------------------
 
-1.Instinto b·sico 2
+1.Instinto b√°sico 2
 2.La alianza del mal (The Covenant)
 3.Underworld: Evolution
 4.Superman Returns: El regreso
-5.X-Men: La decisiÛn final
+5.X-Men: La decisi√≥n final
 6.300
 7.Piratas del Caribe: El cofre del hombre muerto
 8.Sin miedo
@@ -905,14 +906,14 @@ calorina sandobal
 10.Los ojos del mal (See No Evil)
 11.Rocky Balboa (Rocky VI)
 12.El truco final (El prestigio)
-13.DÈj‡ Vu
+13.D√©j√† Vu
 14.007: Casino Royale
 15.American Pie 5: Una fiesta de pelotas
 16.Jackass: Number Two
 17.A todo gas: Tokyo Race (A todo gas 3)
 18.Apocalypto
 19.Aquamarine
-20.Aquellos dÌas felices
+20.Aquellos d√≠as felices
 21.Aullidos (The Breed)
 
 2005-----------------------------------------------------------------------------------------------------------------------------------
@@ -921,24 +922,24 @@ calorina sandobal
 2.Thai Dragon
 3.Danny the Dog
 4.Madagascar
-5.GigolÛ europeo
-6.El penalti m·s largo del mundo
+5.Gigol√≥ europeo
+6.El penalti m√°s largo del mundo
 7.Transporter 2
 8.Dos chalados y muchas curvas
-9.øCu·ndo llegamos?
+9.¬øCu√°ndo llegamos?
 10.American Pie: Band Camp 
 11.Torrente 3: El protector
 12.Hostage
 13.Hooligans
 14.Get Rich Or Die Tryin'
 15.Semen, una historia de amor
-16.7 vÌrgenes
-17.Apostando al lÌmite
+16.7 v√≠rgenes
+17.Apostando al l√≠mite
 18.Asalto al distrito 13
 
 2004-----------------------------------------------------------------------------------------------------------------------------------
 
-1.Sky Captain y el mundo del maÒana
+1.Sky Captain y el mundo del ma√±ana
 2.El castigador (The Punisher)
 3.Blade Trinity (Blade 3)
 4.Troya (VE)
@@ -947,12 +948,12 @@ calorina sandobal
 7.Spider-Man 2 (Spiderman 2)
 8.Dos rubias de pelo en pecho
 9.FBI: Frikis Buscan Incordiar
-10.El diario de Bridget Jones: SobrevivirÈ
-11.Los padres de Èl
-12.La pasiÛn de Cristo
-13.Las crÛnicas de Riddick
-14.Torque: Rodando al lÌmite
-15.Y entonces llegÛ ella
+10.El diario de Bridget Jones: Sobrevivir√©
+11.Los padres de √©l
+12.La pasi√≥n de Cristo
+13.Las cr√≥nicas de Riddick
+14.Torque: Rodando al l√≠mite
+15.Y entonces lleg√≥ ella
 16.Million Dollar Baby
 17.Antes del atardecer
 18.Appleseed: The Beginning
@@ -965,16 +966,16 @@ calorina sandobal
 2.Daredevil
 3.X-Men 2
 4.Ong Bak: El guerrero Muay Thai
-5.101 D·lmatas 2
+5.101 D√°lmatas 2
 6.Nacer para morir
 7.Atlantis: El regreso de Milo
 8.El libro de la selva 2
-9.Dos tontos muy tontos: Cuando Harry encontrÛ a Lloyd
+9.Dos tontos muy tontos: Cuando Harry encontr√≥ a Lloyd
 10.S.W.A.T. Los hombres de Harrelson
 11.Hulk
-12.American Pie 3: °Menuda boda!
-13.Planta 4™
-14.La gran aventura de Mortadelo y FilemÛn
+12.American Pie 3: ¬°Menuda boda!
+13.Planta 4¬™
+14.La gran aventura de Mortadelo y Filem√≥n
 15.Underworld
 16.A todo gas 2
 17.Taxi 3
@@ -982,7 +983,7 @@ calorina sandobal
 19.Animatrix
 20.Aquellas juergas universitarias
 21.Astronautas
-22.Terminator 3: La rebeliÛn de las m·quinas
+22.Terminator 3: La rebeli√≥n de las m√°quinas
 
 2002-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -990,12 +991,12 @@ calorina sandobal
 2.John Q
 3.El coche nuevo de Mike (CORTO)
 4.Transporter
-5.Jackass, la pelÌcula
+5.Jackass, la pel√≠cula
 6.El imperio del fuego
 7.Golpe de efecto
 8.Deuda de sangre
 9.Asesinato... 1-2-3
-10.AstÈrix y ObÈlix: MisiÛn Cleopatra
+10.Ast√©rix y Ob√©lix: Misi√≥n Cleopatra
 11.Austin Powers en Miembro de Oro
 12.Ali G anda suelto
 
@@ -1003,16 +1004,16 @@ calorina sandobal
 
 1.El planeta de los simios
 2.Atlantis: El imperio perdido
-3.El ˙nico (The One)
+3.El √∫nico (The One)
 4.Shrek
 5.Yamakasi
 6.American Pie 2
 7.Amor ciego
-8.Torrente 2: MisiÛn en Marbella
+8.Torrente 2: Misi√≥n en Marbella
 9.La sucia historia de Joe Guarro
 10.Zoolander: Un descerebrado de moda
 11.El diario de Bridget Jones
-12.Cocodrilo Dundee en Los ¡ngeles
+12.Cocodrilo Dundee en Los √Ångeles
 13.A todo gas
 14.Atando cabos
 15.Avalon
@@ -1023,7 +1024,7 @@ calorina sandobal
 1.La playa
 2.Romeo debe morir
 3.El emperador y sus locuras
-4.Chicken Run: EvasiÛn en la granja
+4.Chicken Run: Evasi√≥n en la granja
 5.Los padres de ella
 6.Pitch Black
 7.Taxi 2
@@ -1031,20 +1032,20 @@ calorina sandobal
 
 1999-----------------------------------------------------------------------------------------------------------------------------------
 
-1.South Park: M·s grande, m·s largo y sin cortes
+1.South Park: M√°s grande, m√°s largo y sin cortes
 2.El sexto sentido
-3.GigolÛ
+3.Gigol√≥
 4.La trampa
-5.EjecuciÛn inminente
+5.Ejecuci√≥n inminente
 6.Aprendiendo a vivir
 7.Asesinato en 8mm.
 8.Audition
-9.AstÈrix y ObÈlix contra CÈsar
+9.Ast√©rix y Ob√©lix contra C√©sar
 
 1998-----------------------------------------------------------------------------------------------------------------------------------
 
 1.Taxi Express
-2.El hombre de la m·scara de hierro
+2.El hombre de la m√°scara de hierro
 3.Torrente, el brazo tonto de la ley
 4.Arma letal 4
 5.Armageddon
@@ -1070,13 +1071,13 @@ calorina sandobal
 2.Juez Dredd
 3.Liberad a Willy 2
 4.Los puentes de Madison
-5.Dos policÌas rebeldes
+5.Dos polic√≠as rebeldes
 6.Antes de amanecer
 7.Apolo 13 (Apolo XIII)
 
 1994-----------------------------------------------------------------------------------------------------------------------------------
 
-1.La m·scara
+1.La m√°scara
 2.Entrevista con el vampiro
 3.Superdetective en Hollywood III
 4.Las aventuras de Bastian (La historia interminable 3)
@@ -1087,84 +1088,84 @@ calorina sandobal
 1993-----------------------------------------------------------------------------------------------------------------------------------
 
 1.Los tres mosqueteros
-2.°Liberad a Willy!
+2.¬°Liberad a Willy!
 3.Un mundo perfecto
-4.En la lÌnea de fuego
-5.°Semos peligrosos! (usÈase Makinavaja 2)
+4.En la l√≠nea de fuego
+5.¬°Semos peligrosos! (us√©ase Makinavaja 2)
 
 1992-----------------------------------------------------------------------------------------------------------------------------------
 
-1.Instinto b·sico
-2.Sin perdÛn
-3.Makinavaja, el ˙ltimo choriso
+1.Instinto b√°sico
+2.Sin perd√≥n
+3.Makinavaja, el √∫ltimo choriso
 4.Arma letal 3
 5.Terminator 2: El juicio final
 
 1991-----------------------------------------------------------------------------------------------------------------------------------
 
-1.Star Trek VI. Aquel paÌs desconocido
+1.Star Trek VI. Aquel pa√≠s desconocido
 2.Apariciones - The Haunted: La casa de las almas perdidas (TV)
 3.La familia Addams
 
 1990-----------------------------------------------------------------------------------------------------------------------------------
 
 1.Regreso al futuro III
-2.Ghost. M·s all· del amor
+2.Ghost. M√°s all√° del amor
 3.Pretty Woman
 4.La hoguera de las vanidades
-5.La historia interminable 2. El siguiente capÌtulo
+5.La historia interminable 2. El siguiente cap√≠tulo
 6.Autopista al infierno
 7.Revenge (Venganza)
 
 1989-----------------------------------------------------------------------------------------------------------------------------------
 
 1.Regreso al futuro II
-2.Indiana Jones y la ˙ltima cruzada
+2.Indiana Jones y la √∫ltima cruzada
 3.Tango y Cash
-4.Karate Kid III: El desafÌo final
+4.Karate Kid III: El desaf√≠o final
 5.Batman
-6.Star Trek V. La ˙ltima frontera
+6.Star Trek V. La √∫ltima frontera
 7.Cazafantasmas 2
 8.Profundidad seis
 9.El cadillac rosa
 10.Arma letal 2
-11.AstÈrix y el golpe del menhir
+11.Ast√©rix y el golpe del menhir
 
 1988-----------------------------------------------------------------------------------------------------------------------------------
 
-1.MuÒeco diabÛlico
-2.Bitelch˙s
+1.Mu√±eco diab√≥lico
+2.Bitelch√∫s
 3.La jungla de cristal
-4.Est·n vivos
+4.Est√°n vivos
 5.Contacto sangriento
 6.Rambo III
 7.Arde Mississippi
 8.Cocodrilo Dundee II
 9.La lista negra
 10.Arma joven
-11.AtracciÛn diabÛlica
+11.Atracci√≥n diab√≥lica
 
 1987-----------------------------------------------------------------------------------------------------------------------------------
 
 1.Arma letal
-2.JÛvenes ocultos
+2.J√≥venes ocultos
 3.Depredador
 4.El chip prodigioso
 5.Superdetective en Hollywood II
 6.Bala blindada
 7.Granja maldita
 8.Los intocables de Eliot Ness
-9.AtracciÛn fatal
-10.La chaqueta met·lica
+9.Atracci√≥n fatal
+10.La chaqueta met√°lica
 
 1986-----------------------------------------------------------------------------------------------------------------------------------
 
 1.Platoon
-2.Top Gun (Õdolos del aire)
+2.Top Gun (√çdolos del aire)
 3.El chico de oro
-4.Golpe en la pequeÒa China 
+4.Golpe en la peque√±a China 
 5.Dentro del laberinto
-6.Karate Kid II: la historia contin˙a
+6.Karate Kid II: la historia contin√∫a
 7.Crocodile Dundee
 8.9 semanas y media
 9.El sargento de hierro
@@ -1175,10 +1176,10 @@ calorina sandobal
 2.Commando
 3.Noche de miedo
 4.Cocoon
-5.El secreto de la pir·mide
+5.El secreto de la pir√°mide
 6.Re-Animator
 7.Rambo: Acorralado Parte II (Rambo 2)
-8.El jinete p·lido
+8.El jinete p√°lido
 9.Aullidos 2: Stirba, la mujer lobo
 
 1984-----------------------------------------------------------------------------------------------------------------------------------
@@ -1188,13 +1189,13 @@ calorina sandobal
 3.En la cuerda floja
 4.Terminator
 5.La historia interminable
-6.Loca academia de policÌa
+6.Loca academia de polic√≠a
 7.La aventura de los Ewoks (TV)
 8.Pesadilla en Elm Street
 9.Los cazafantasmas
 10.Superdetective en Hollywood
 11.Star Trek III. En busca de Spock
-12.Tras el corazÛn verde
+12.Tras el coraz√≥n verde
 
 1983-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -1203,12 +1204,12 @@ calorina sandobal
 3.Juegos de guerra
 4.Los bicivoladores
 5.El sentido de la vida
-6.Impacto s˙bito
+6.Impacto s√∫bito
 
 1982-----------------------------------------------------------------------------------------------------------------------------------
 
 1.La cosa (El enigma de otro mundo)
-2.El seÒor de las bestias
+2.El se√±or de las bestias
 3.E.T
 4.Acorralado (Rambo)
 5.Aterriza como puedas II
@@ -1218,11 +1219,11 @@ calorina sandobal
 
 1.Indiana Jones En busca del arca perdida
 2.1997: Rescate en Nueva York
-3.AtmÛsfera cero
+3.Atm√≥sfera cero
 4.Ausencia de malicia 
 5.Scanners
 6.Halcones de la noche
-7.PosesiÛn infernal
+7.Posesi√≥n infernal
 8.En el estanque dorado
 9.Aquella casa al lado del cementerio
 10.Ausencia de malicia
@@ -1246,7 +1247,7 @@ calorina sandobal
 
 1.Mad Max. Salvajes de autopista
 2.Alien, el octavo pasajero
-3.Star Trek, la pelÌcula
+3.Star Trek, la pel√≠cula
 4.La vida de Brian
 5.Fuga de Alcatraz
 
@@ -1254,13 +1255,13 @@ calorina sandobal
 
 1.Juego con la muerte (Game of Death)
 2.Grease
-3.El trigo est· verde
+3.El trigo est√° verde
 4.El principiante
 
 1977-----------------------------------------------------------------------------------------------------------------------------------
 
 1.Ruta suicida
-2.Medianoche en el jardÌn del bien y del mal
+2.Medianoche en el jard√≠n del bien y del mal
 3.El bueno, el feo y el malo
 
 1976-----------------------------------------------------------------------------------------------------------------------------------
@@ -1274,11 +1275,11 @@ calorina sandobal
 
 1974-----------------------------------------------------------------------------------------------------------------------------------
 
-1.Un botÌn de 500.000 dÛlares
+1.Un bot√≠n de 500.000 d√≥lares
 
 1973-----------------------------------------------------------------------------------------------------------------------------------
 
-1.OperaciÛn DragÛn
+1.Operaci√≥n Drag√≥n
 2.La soga de la horca
 3.Ladrones de trenes
 4.harry el fuerte
@@ -1288,24 +1289,24 @@ calorina sandobal
 1972-----------------------------------------------------------------------------------------------------------------------------------
 
 1.Furia Oriental (Fist of Fury)
-2.El furor del dragÛn
+2.El furor del drag√≥n
 3.Los cowboys
 4.Joe Kidd
 
 1971-----------------------------------------------------------------------------------------------------------------------------------
 
 1.El gran duelo
-2.K·rate a muerte en Bangkok
+2.K√°rate a muerte en Bangkok
 3.Las troyanas
 4.El gran Jack
 5.Harry el sucio
-6.EscalofrÌo en la noche 
+6.Escalofr√≠o en la noche 
 7.El seductor
 
 1970-----------------------------------------------------------------------------------------------------------------------------------
 
 1.Chisum
-2.RÌo Lobo
+2.R√≠o Lobo
 3.Dos mulas y una mujer
 
 1969-----------------------------------------------------------------------------------------------------------------------------------
@@ -1333,7 +1334,7 @@ calorina sandobal
 1965-----------------------------------------------------------------------------------------------------------------------------------
 
 1.Los cuatro hijos de Katie Elder
-2.La muerte tenÌa un precio
+2.La muerte ten√≠a un precio
 
 1964-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -1342,18 +1343,18 @@ calorina sandobal
 
 1963-----------------------------------------------------------------------------------------------------------------------------------
 
-1.Los p·jaros (1963) Alfred Hitchcock's
+1.Los p√°jaros (1963) Alfred Hitchcock's
 1.Apartate, carino
 
 1962-----------------------------------------------------------------------------------------------------------------------------------
 
 1.La conquista del Oeste
-2.El dÌa m·s largo
+2.El d√≠a m√°s largo
 3.Lawrence De Arabia
 
 1960-----------------------------------------------------------------------------------------------------------------------------------
 
-1.El ¡lamo
+1.El √Ålamo
 2.Alaska, tierra de oro
 
 1959-----------------------------------------------------------------------------------------------------------------------------------
@@ -1361,13 +1362,13 @@ calorina sandobal
 1.Con faldas y a lo loco (1959)
 2.Con la muerte en los talones (1959)
 3.El perro de Baskerville (1959)
-4.De repente, el ˙ltimo verano
-5.RÌo Bravo
-6.Apuestas contra el maÒana
+4.De repente, el √∫ltimo verano
+5.R√≠o Bravo
+6.Apuestas contra el ma√±ana
 
 1957-----------------------------------------------------------------------------------------------------------------------------------
 
-1.La maldiciÛn de la momia azteca (1957)
+1.La maldici√≥n de la momia azteca (1957)
 
 1956-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -1377,7 +1378,7 @@ calorina sandobal
 
 1955-----------------------------------------------------------------------------------------------------------------------------------
 
-1.El zorro de los ocÈanos
+1.El zorro de los oc√©anos
 
 1954-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -1388,30 +1389,30 @@ calorina sandobal
 1953-----------------------------------------------------------------------------------------------------------------------------------
 
 1.La Guerra de los Mundos (1953)
-2.°Bienvenido, MÌster Marshall! (1953)
+2.¬°Bienvenido, M√≠ster Marshall! (1953)
 3.Hondo
 
 1952-----------------------------------------------------------------------------------------------------------------------------------
 
 1.Solo ante el peligro (1952)
 2.Cantando bajo la lluvia (1952)
-3.°Viva Zapata! (1952)
+3.¬°Viva Zapata! (1952)
 1951-----------------------------------------------------------------------------------------------------------------------------------
 
-1.La reina de ¡frica
+1.La reina de √Åfrica
 
 1950-----------------------------------------------------------------------------------------------------------------------------------
 
-1.RÌo Grande
+1.R√≠o Grande
 
 1948-----------------------------------------------------------------------------------------------------------------------------------
 
-1.RÌo Rojo
+1.R√≠o Rojo
 
 1947-----------------------------------------------------------------------------------------------------------------------------------
 
-1.El ·ngel y el pistolero
-2.PasiÛn inmortal
+1.El √°ngel y el pistolero
+2.Pasi√≥n inmortal
 
 1946-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -1419,11 +1420,11 @@ calorina sandobal
 
 1944-----------------------------------------------------------------------------------------------------------------------------------
 
-1.Estirpe de dragÛn
+1.Estirpe de drag√≥n
 
 1943-----------------------------------------------------------------------------------------------------------------------------------
 
-1.Tres dÌas de amor y fe
+1.Tres d√≠as de amor y fe
 
 1942-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -1446,12 +1447,12 @@ calorina sandobal
 
 1.Cumbres borrascosas (1939)
 2.La diligencia
-3.La pequeÒa rebeliÛn
+3.La peque√±a rebeli√≥n
 
 1938-----------------------------------------------------------------------------------------------------------------------------------
 
 1.Vivir para gozar
-2.La fiera de mi niÒa
+2.La fiera de mi ni√±a
 
 1937-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -1461,20 +1462,20 @@ calorina sandobal
 
 1.Tiempos modernos (1936)
 2.Una mujer se rebela
-3.MarÌa Estuardo
+3.Mar√≠a Estuardo
 4.El terror de Texas
 
 1935-----------------------------------------------------------------------------------------------------------------------------------
 
-1.SueÒos de juventud
+1.Sue√±os de juventud
 2.La gran aventura de Silvia
-3.El caÒÛn del ParaÌso
+3.El ca√±√≥n del Para√≠so
 4.Corazones rotos
 5.El jinete del alba
 
 1934-----------------------------------------------------------------------------------------------------------------------------------
 
-1.Al oeste de la divisiÛn
+1.Al oeste de la divisi√≥n
 2.El hombre de Utah
 3.Sangre gitana
 4.El tejano afortunado
@@ -1484,18 +1485,18 @@ calorina sandobal
 
 1.King Kong  (1933)
 2.Hacia las alturas
-3.Gloria de un dÌa
+3.Gloria de un d√≠a
 4.Las cuatro hermanitas
 5.El camino de Sagebrush
 6.Jinetes del destino
 
 1932-----------------------------------------------------------------------------------------------------------------------------------
 
-1.Tarz·n de los monos (1932)
+1.Tarz√°n de los monos (1932)
 
 1931-----------------------------------------------------------------------------------------------------------------------------------
 
-1.Dr·cula (1931)
+1.Dr√°cula (1931)
 
 1930-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -1507,7 +1508,7 @@ calorina sandobal
 
 1903-----------------------------------------------------------------------------------------------------------------------------------
 
-1.Alicia en el PaÌs de las Maravillas (1903)
+1.Alicia en el Pa√≠s de las Maravillas (1903)
 
 1902-----------------------------------------------------------------------------------------------------------------------------------
 
