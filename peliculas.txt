@@ -26,17 +26,20 @@ calorina sandobal
 
 2020-----------------------------------------------------------------------------------------------------------------------------------
 
-1.A traición
-2.Modo avión
-3.Desastre y total: Agencia de detectives nº1
-4.Aves de presa (y la fantabulosa emancipación de Harley Quinn)
-5.Spenser: Confidencial
-6.Bad Boys for Life
-7.El sumiller
-8.bloodshot
-9.El banquero
-10.Las aventuras del doctor dolittle
-
+1.A traición -T
+2.Modo avión -T
+3.Desastre y total: Agencia de detectives nº1 -T
+4.Aves de presa (y la fantabulosa emancipación de Harley Quinn) -T
+5.Spenser: Confidencial -T
+6.Bad Boys for Life -T
+7.El sumiller -T
+8.bloodshot -T
+9.El banquero -T
+10.Las aventuras del doctor dolittle -T
+11.Like a Boss -T
+12.Los hermanos Willoughby -T
+13.Mi primer gran combate
+14.Tyler Rake
 2019-----------------------------------------------------------------------------------------------------------------------------------
 
 1.Cómo entrenar a tu dragón 3
