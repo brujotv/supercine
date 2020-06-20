@@ -1,33 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
-
-
-<item>
-<title>[COLOR lime]•[/COLOR] 24 play ad 4k</title>
-<link>plugin://plugin.video.elementum/play?uri=https://github.com/brujotv/repo-naranjitos/raw/master/torrentsdepaginas/Star_Wars_El_ascenso_de_Skywalker_4KUHDremux.torrent</link>
-<thumbnail>https://i.imgur.com/8HdKTcn.jpg<thumbnail>
-<fanart>https://i.imgur.com/Igmrej3.jpg</fanart>
-<genre>Thriller</genre>
-<year>2020</year>
-<info>Después de la infidelidad de su exmarido, Grace Waters (Crystal Fox) recupera la ilusión con un nuevo amor. Hasta que salen a la luz los secretos que sacan su cara más violenta.</info> 
-</item>
-
-
-<item>
-<title>[COLOR lime]•[/COLOR] 24 play ad</title>
-<link>plugin://plugin.video.elementum/play?uri=https://github.com/brujotv/repo-naranjitos/raw/master/torrentsdepaginas/Ad%20Adtra.torrent</link>
-<thumbnail>https://i.imgur.com/8HdKTcn.jpg<thumbnail>
-<fanart>https://i.imgur.com/Igmrej3.jpg</fanart>
-<genre>Thriller</genre>
-<year>2020</year>
-<info>Después de la infidelidad de su exmarido, Grace Waters (Crystal Fox) recupera la ilusión con un nuevo amor. Hasta que salen a la luz los secretos que sacan su cara más violenta.</info> 
-</item>
- 
- 
 <item>
 <title>[COLOR lime]•[/COLOR] A traición </title>
-<link>plugin://plugin.video.torrentin/?uri=https://www.elitetorrent.li/wp-content/uploads/files/1579581700-A%20Traicion%20[1080p][Castellano][wWw.EliteTorrent.LI].torrent</link>
+<link>plugin://plugin.video.torrentin/?uri=https://github.com/brujotv/repo-naranjitos/raw/master/torrentsdepaginas/2020-1.torrent</link>
 <thumbnail>https://i.imgur.com/8HdKTcn.jpg<thumbnail>
 <fanart>https://i.imgur.com/Igmrej3.jpg</fanart>
 <genre>Thriller</genre>
@@ -37,7 +13,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Aves de presa (y la fantabulosa emancipación de Harley Quinn) </title>
-<link>plugin://plugin.video.torrentin/?uri=https://www.elitetorrent.nl/wp-content/uploads/files/1585628930-Aves%20de%20Presa%20[1080p][Castellano][wWw.EliteTorrent.NL].torrent</link>
+<link>plugin://plugin.video.torrentin/?uri=https://github.com/brujotv/repo-naranjitos/raw/master/torrentsdepaginas/2020-4.torrent</link>
 <thumbnail>https://i.imgur.com/22ySPcH.jpg</thumbnail>
 <fanart>https://i.imgur.com/3CsWjvl.jpg</fanart>
 <genre>Acción. Aventuras</genre>
@@ -47,7 +23,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] bloodshot </title>
-<link>plugin://plugin.video.torrentin/?uri=https://www.elitetorrent.nl/wp-content/uploads/files/1585359535-Bloodshot%20[720p][Castellano][wWw.EliteTorrent.NL].torrent</link>
+<link>plugin://plugin.video.torrentin/?uri=https://github.com/brujotv/repo-naranjitos/raw/master/torrentsdepaginas/2020-8.torrent</link>
 <thumbnail>https://i.imgur.com/mpyS9su.jpg</thumbnail>
 <fanart>https://i.imgur.com/jtTY845.jpg</fanart>
 <genre>Acción. Fantástico</genre>
@@ -57,7 +33,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Bad Boys for Life </title>
-<link>plugin://plugin.video.torrentin/?uri=https://www.elitetorrent.nl/wp-content/uploads/files/1586557632-Bad%20Boys%20for%20Life%20[1080p][Castellano][wWw.EliteTorrent.NL].torrent</link>
+<link>plugin://plugin.video.torrentin/?uri=https://github.com/brujotv/repo-naranjitos/raw/master/torrentsdepaginas/2020-6.torrent</link>
 <thumbnail>https://i.imgur.com/CSZphhb.jpg</thumbnail>
 <fanart>https://i.imgur.com/DckMHjC.jpg</fanart>
 <genre>Acción. Thriller. Comedia</genre>
@@ -67,7 +43,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Desastre y total: Agencia de detectives nº1  </title>
-<link>plugin://plugin.video.torrentin/?uri=https://www.elitetorrent.nl/wp-content/uploads/files/1583131998-Timmy%20Failure%20[1080][Castellano][wWw.EliteTorrent.BZ].torrent</link>
+<link>plugin://plugin.video.torrentin/?uri=https://github.com/brujotv/repo-naranjitos/raw/master/torrentsdepaginas/2020-3.torrent</link>
 <thumbnail>https://i.imgur.com/BfdW66s.jpg</thumbnail>
 <fanart>https://i.imgur.com/zpq5qRl.jpg</fanart>
 <genre>Comedia </genre>
@@ -77,7 +53,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] El banquero </title>
-<link>plugin://plugin.video.torrentin/?uri=https://www.elitetorrent.nl/wp-content/uploads/files/1584847049-El%20banquero%20[1080p][Castellano][wWw.EliteTorrent.BZ].torrent</link>
+<link>plugin://plugin.video.torrentin/?uri=https://github.com/brujotv/repo-naranjitos/raw/master/torrentsdepaginas/2020-9.torrent</link>
 <thumbnail>https://i.imgur.com/qwYTGA9.jpg</thumbnail>
 <fanart>https://i.imgur.com/ggl0OqL.jpg</fanart>
 <genre>Drama</genre>
@@ -87,7 +63,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] El sumiller </title>
-<link>plugin://plugin.video.torrentin/?uri=https://www.elitetorrent.nl/wp-content/uploads/files/1585359618-El%20sumiller%20[1080p][Castellano][wWw.EliteTorrent.NL].torrent</link>
+<link>plugin://plugin.video.torrentin/?uri=https://github.com/brujotv/repo-naranjitos/raw/master/torrentsdepaginas/2020-7.torrent</link>
 <thumbnail>https://i.imgur.com/0WvDvkb.jpg</thumbnail>
 <fanart>https://i.imgur.com/aZRxxda.jpg</fanart>
 <genre>Drama</genre>
@@ -97,7 +73,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Las aventuras del Doctor Dolittle </title>
-<link>plugin://plugin.video.torrentin/?uri=https://www.elitetorrent.nl/wp-content/uploads/files/1587498210-Las%20aventuras%20del%20Doctor%20Dolittle%20[1080p][Castellano][wWw.EliteTorrent.NL].torrent</link>
+<link>plugin://plugin.video.torrentin/?uri=https://github.com/brujotv/repo-naranjitos/raw/master/torrentsdepaginas/2020-10.torrent</link>
 <thumbnail>https://i.imgur.com/wpcmuda.jpg</thumbnail>
 <fanart>https://i.imgur.com/nGxF7Yx.jpg</fanart>
 <genre>Aventuras. Comedia</genre>
@@ -107,7 +83,7 @@
  
 <item>
 <title>[COLOR lime]•[/COLOR] Like a Boss </title>
-<link>plugin://plugin.video.torrentin/?uri=https://www.elitetorrent.nl/wp-content/uploads/files/1586832750-Like%20a%20Boss%20[1080p][Castellano][wWw.EliteTorrent.NL].torrent</link>
+<link>plugin://plugin.video.torrentin/?uri=https://github.com/brujotv/repo-naranjitos/raw/master/torrentsdepaginas/2020-11.torrent</link>
 <thumbnail>https://i.imgur.com/vchvF9F.jpg</thumbnail>
 <fanart>https://i.imgur.com/9gCkH2P.jpg</fanart>
 <genre>Comedia</genre>
@@ -117,7 +93,7 @@
   
 <item>
 <title>[COLOR lime]•[/COLOR] Los hermanos Willoughby </title>
-<link>plugin://plugin.video.torrentin/?uri=https://www.elitetorrent.nl/wp-content/uploads/files/1587617493-The%20Willoughbys%20[1080p][Castellano][wWw.EliteTorrent.NL].torrent</link>
+<link>plugin://plugin.video.torrentin/?uri=https://github.com/brujotv/repo-naranjitos/raw/master/torrentsdepaginas/2020-12.torrent</link>
 <thumbnail>https://i.imgur.com/aSKh3k1.jpg</thumbnail>
 <fanart>https://i.imgur.com/fogK9gw.jpg</fanart>
 <genre>Animación. Comedia. Fantástico. Aventuras</genre>
@@ -127,7 +103,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Mi primer gran combate </title>
-<link>plugin://plugin.video.torrentin/?uri=https://www.elitetorrent.nl/wp-content/uploads/files/1586831361-Mi%20primer%20gran%20combate%20[720p][Castellano][wWw.EliteTorrent.NL].torrent</link>
+<link>plugin://plugin.video.torrentin/?uri=https://github.com/brujotv/repo-naranjitos/raw/master/torrentsdepaginas/2020-13.torrent</link>
 <thumbnail>https://i.imgur.com/Ungdr28.jpg</thumbnail>
 <fanart>https://i.imgur.com/ryJgLME.jpg</fanart>
 <genre>Acción. Comedia</genre>
@@ -137,7 +113,7 @@
   
 <item>
 <title>[COLOR lime]•[/COLOR] Modo avión </title>
-<link>plugin://plugin.video.torrentin/?uri=https://www.elitetorrent.li/wp-content/uploads/files/1579992010-Modo%20Avion%20[1080p][Castellano][wWw.EliteTorrent.LI].torrent</link>
+<link>plugin://plugin.video.torrentin/?uri=https://github.com/brujotv/repo-naranjitos/raw/master/torrentsdepaginas/2020-2.torrent</link>
 <thumbnail>https://i.imgur.com/JKETO51.jpg<thumbnail>
 <fanart>https://i.imgur.com/tWHlZa5.jpg</fanart>
 <genre>Comedia. Romance </genre>
@@ -147,7 +123,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Spenser: Confidencial  </title>
-<link>plugin://plugin.video.torrentin/?uri=https://www.elitetorrent.nl/wp-content/uploads/files/1583553735-Spenser%20Confidential%20[1080p][Castellano][wWw.EliteTorrent.BZ].torrent</link>
+<link>plugin://plugin.video.torrentin/?uri=https://github.com/brujotv/repo-naranjitos/raw/master/torrentsdepaginas/2020-5.torrent</link>
 <thumbnail>https://i.imgur.com/B0EA1Ym.jpg</thumbnail>
 <fanart>https://i.imgur.com/zOyBOEQ.jpg</fanart>
 <genre>Acción. Comedia</genre>
@@ -157,7 +133,7 @@
   
 <item>
 <title>[COLOR lime]•[/COLOR] Tyler Rake </title>
-<link>plugin://plugin.video.torrentin/?uri=https://www.elitetorrent.nl/wp-content/uploads/files/1587781124-Extraction%20[1080p][Castellano][wWw.EliteTorrent.NL].torrent</link>
+<link>plugin://plugin.video.torrentin/?uri=https://github.com/brujotv/repo-naranjitos/raw/master/torrentsdepaginas/2020-14.torrent</link>
 <thumbnail>https://i.imgur.com/8CeNDZB.jpg</thumbnail>
 <fanart>https://i.imgur.com/Pw1FW4F.jpg</fanart>
 <genre>Acción. Thriller </genre>
