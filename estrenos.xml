@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
-
+<item>
+<title>[COLOR lime]•[/COLOR] The </title>
+<link>plugin://plugin.video.elementum/play?uri=https://archive.org/download/150_20200805/150_20200805_archive.torrent</link>
+<thumbnail>https://i.imgur.com/8MHInfh.jpg</thumbnail>
+<fanart>https://i.imgur.com/BmDTct5.jpg</fanart>
+<genre>Bélico. Drama</genre>
+<year>2020</year>
+<info>Narra la historia real de una de las batallas más duras que tuvo lugar durante la guerra de Afganistán. Un pequeño equipo de 53 soldados estadounidenses tuvo que enfrentarse contra más de 400 combatientes talibanes durante la operación llamada “Libertad duradera”... Adaptación del best seller escrito por el corresponsal de guerra Jake Tapper.</info> 
+</item>
 
 
 <item>
