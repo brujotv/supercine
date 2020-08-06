@@ -35,17 +35,6 @@
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR] El gran duelo (1970)</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail>https://image.tmdb.org/t/p/w154/1LwaEvfy4k845EN2YkOt6bBhK2M.jpg<thumbnail>
-<fanart></fanart>
-<info>Dos pistoleros, cada uno con fama de ser el más rápido del oeste, 
-deciden enfrentarse en un duelo y vender tickets ante la expectación surgida. 
-El vencedor se queda con todo.
-</info> 
-</item>
-
-<item>
 <title>[COLOR lime]•[/COLOR] Harry el sucio  </title>
 <link>plugin://plugin.video.elementum/play?uri=https://github.com/brujotv/repo-naranjitos/blob/master/torrentsdepaginas/5-1971.torrent?raw=true</link>
 <thumbnail>https://i.imgur.com/T2qpXks.jpg</thumbnail>
@@ -57,9 +46,11 @@ El vencedor se queda con todo.
 
 <item>
 <title>[COLOR lime]•[/COLOR] Kárate a muerte en Bangkok </title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail>https://pics.filmaffinity.com/tang_shan_da_xiong-745196785-mmed.jpg<thumbnail>
-<fanart></fanart>
+<link>plugin://plugin.video.elementum/play?uri=https://github.com/brujotv/repo-naranjitos/blob/master/torrentsdepaginas/6-1971.torrent?raw=true</link>
+<thumbnail>https://i.imgur.com/8aFZ11v.jpg<thumbnail>
+<fanart>https://i.imgur.com/bL7CKyw.jpg</fanart>
+<genre>Acción. Drama. Thriller</genre>
+<year>1971</year>
 <info>Cheng (Bruce Lee) llega a Bangkok desde China habiendo prometido a su madre que no se metería en peleas. Nada más llegar, encuentra trabajo en la fábrica del Sr. Mi, pero descubre que la factoría es en realidad una tapadera para encubrir el tráfico de drogas y la prostitución. Dos obreros desaparecen misteriosamente y los restantes trabajadores deciden ir a la huelga. La dirección envía contra ellos a hombres armados, y es cuando Cheng decide intervenir revelando su maestría en las artes marciales y haciendo que triunfen los obreros. Entonces, el Sr. Mi hace nombrar capataz a Cheng y da una fiesta en su honor, pero cuando éste descubre las verdaderas intenciones del jefe decide enfrentarse a él con todas sus consecuencias.</info> 
 </item>
 
