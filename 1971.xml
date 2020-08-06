@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-<link>plugin://plugin.video.torrentin/?uri=</link>
 
 
+<link>plugin://plugin.video.elementum/play?uri=</link>
 
 <item>
 <title>[COLOR lime]•[/COLOR] Escalofrío en la noche  </title>
-<urlsolve></urlsolve>
+<link>plugin://plugin.video.elementum/play?uri=</link>
 <thumbnail>https://i.imgur.com/LUr0Nyl.jpg</thumbnail>
 <fanart>https://i.imgur.com/RsLj1lh.jpg</fanart>
 <genre>accion.</genre>
@@ -16,7 +16,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] El seductor </title>
-<urlsolve></urlsolve>
+<link>plugin://plugin.video.elementum/play?uri=</link>
 <thumbnail>https://i.imgur.com/N2928vy.jpg</thumbnail>
 <fanart>https://i.imgur.com/RsLj1lh.jpg</fanart>
 <genre>accion.</genre>
@@ -26,7 +26,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] El gran Jack </title>
-<urlsolve>http://streamcloud.eu/t9wggnj4z0tu/19.avi.html</urlsolve>
+<link>plugin://plugin.video.elementum/play?uri=</link>
 <thumbnail>https://i.imgur.com/BIVkGFm.jpg</thumbnail>
 <fanart>https://i.imgur.com/RsLj1lh.jpg</fanart>
 <genre>western.</genre>
@@ -36,7 +36,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] El gran duelo (1970)</title>
-<urlsolve>http://streamcloud.eu/32dzti39tvp0/A_Gunfight.avi.html</urlsolve>
+<link>plugin://plugin.video.elementum/play?uri=</link>
 <thumbnail>https://image.tmdb.org/t/p/w154/1LwaEvfy4k845EN2YkOt6bBhK2M.jpg<thumbnail>
 <fanart></fanart>
 <info>Dos pistoleros, cada uno con fama de ser el más rápido del oeste, 
@@ -47,7 +47,7 @@ El vencedor se queda con todo.
 
 <item>
 <title>[COLOR lime]•[/COLOR] Harry el sucio  </title>
-<urlsolve>http://streamcloud.eu/o2rat9qsh7rx/3.avi.html</urlsolve>
+<link>plugin://plugin.video.elementum/play?uri=</link>
 <thumbnail>https://i.imgur.com/TKSothC.jpg</thumbnail>
 <fanart>https://i.imgur.com/RsLj1lh.jpg</fanart>
 <genre>accion.</genre>
@@ -57,7 +57,7 @@ El vencedor se queda con todo.
 
 <item>
 <title>[COLOR lime]•[/COLOR] Kárate a muerte en Bangkok </title>
-<urlsolve>http://streamcloud.eu/tulexwflbbiq</urlsolve>
+<link>plugin://plugin.video.elementum/play?uri=</link>
 <thumbnail>https://pics.filmaffinity.com/tang_shan_da_xiong-745196785-mmed.jpg<thumbnail>
 <fanart></fanart>
 <info>Cheng (Bruce Lee) llega a Bangkok desde China habiendo prometido a su madre que no se metería en peleas. Nada más llegar, encuentra trabajo en la fábrica del Sr. Mi, pero descubre que la factoría es en realidad una tapadera para encubrir el tráfico de drogas y la prostitución. Dos obreros desaparecen misteriosamente y los restantes trabajadores deciden ir a la huelga. La dirección envía contra ellos a hombres armados, y es cuando Cheng decide intervenir revelando su maestría en las artes marciales y haciendo que triunfen los obreros. Entonces, el Sr. Mi hace nombrar capataz a Cheng y da una fiesta en su honor, pero cuando éste descubre las verdaderas intenciones del jefe decide enfrentarse a él con todas sus consecuencias.</info> 
@@ -65,7 +65,7 @@ El vencedor se queda con todo.
 
 <item>
 <title>[COLOR lime]•[/COLOR] Las troyanas </title>
-<urlsolve>http://streamcloud.eu/ke5fey44g4kl/24.avi.html</urlsolve>
+<link>plugin://plugin.video.elementum/play?uri=</link>
 <thumbnail>https://i.imgur.com/Q4RYJ6i.jpg</thumbnail>
 <fanart>https://i.imgur.com/RsLj1lh.jpg</fanart>
 <genre>Comedia dramática.</genre>
