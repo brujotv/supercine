@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+<link>plugin://plugin.video.torrentin/?uri=</link>
+
+
 
 <item>
 <title>[COLOR lime]•[/COLOR] Escalofrío en la noche  </title>
-<urlsolve>http://streamcloud.eu/w30xwakk0kpv/48.mkv.html</urlsolve>
+<urlsolve></urlsolve>
 <thumbnail>https://i.imgur.com/LUr0Nyl.jpg</thumbnail>
 <fanart>https://i.imgur.com/RsLj1lh.jpg</fanart>
 <genre>accion.</genre>
@@ -13,7 +16,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] El seductor </title>
-<urlsolve>http://streamcloud.eu/lhebnuymt23t/41.avi.html</urlsolve>
+<urlsolve></urlsolve>
 <thumbnail>https://i.imgur.com/N2928vy.jpg</thumbnail>
 <fanart>https://i.imgur.com/RsLj1lh.jpg</fanart>
 <genre>accion.</genre>
@@ -32,7 +35,7 @@
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR] El gran duelo (1971)</title>
+<title>[COLOR lime]•[/COLOR] El gran duelo (1970)</title>
 <urlsolve>http://streamcloud.eu/32dzti39tvp0/A_Gunfight.avi.html</urlsolve>
 <thumbnail>https://image.tmdb.org/t/p/w154/1LwaEvfy4k845EN2YkOt6bBhK2M.jpg<thumbnail>
 <fanart></fanart>
