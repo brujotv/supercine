@@ -1,19 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
-<item>
-<title>[COLOR lime]•[/COLOR] El bueno, el feo y el malo </title>
-<urlsolve>http://streamcloud.eu/nnqwwfx0k90y/10.avi.html</urlsolve>
-<thumbnail>https://i.imgur.com/2iXTLHG.jpg</thumbnail>
-<fanart>https://i.imgur.com/RsLj1lh.jpg</fanart>
-<genre>accion.</genre>
-<year>1977</year>
-<info>Durante la guerra civil norteamericana (1861-1865), tres cazadores de recompensas buscan un tesoro que ninguno de ellos puede encontrar sin la ayuda de los otros dos. Así que colaboran entre sí para conseguir el botín. </info> 
-</item>
+
 
 <item>
 <title>[COLOR lime]•[/COLOR] Medianoche en el jardín del bien y del mal  </title>
-<urlsolve>http://streamcloud.eu/qcy6w5dhmj7m/8.avi.html</urlsolve>
+<link>plugin://plugin.video.elementum/play?uri=</link>
 <thumbnail>https://i.imgur.com/KQz3d6b.jpg</thumbnail>
 <fanart>https://i.imgur.com/RsLj1lh.jpg</fanart>
 <genre>accion.</genre>
@@ -23,7 +15,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Ruta suicida  </title>
-<urlsolve>http://streamcloud.eu/b4ffjvm0u2lq/5.avi.html</urlsolve>
+<link>plugin://plugin.video.elementum/play?uri=</link>
 <thumbnail>https://i.imgur.com/4GJmaYT.jpg</thumbnail>
 <fanart>https://i.imgur.com/RsLj1lh.jpg</fanart>
 <genre>accion.</genre>
