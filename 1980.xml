@@ -37,7 +37,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] El resplandor </title>
-<link>plugin://plugin.video.torrentin/?uri=https://github.com/brujotv/repo-naranjitos/blob/master/torrentsdepaginas/4-1980.torrent?raw=true</link>
+<link>plugin://plugin.video.elementum/play?uri=https://github.com/brujotv/repo-naranjitos/blob/master/torrentsdepaginas/4-1980.torrent?raw=true</link>
 <thumbnail>https://i.imgur.com/69Wfb1r.jpg</thumbnail>
 <fanart>https://i.imgur.com/Alli5x2.jpg</fanart>
 <genre>Terror</genre>
