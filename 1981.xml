@@ -8,7 +8,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Ausencia de malicia  </title>
-<link>plugin://plugin.video.torrentin/?uri=</link>
+<link>plugin://plugin.video.elementum/play?uri=</link>
 <thumbnail>https://i.imgur.com/6DPd7AU.jpg</thumbnail>
 <fanart>https://i.imgur.com/RsLj1lh.jpg</fanart>
 <genre></genre>
@@ -19,7 +19,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Aquella casa al lado del cementerio </title>
-<link>plugin://plugin.video.torrentin/?uri=</link>
+<link>plugin://plugin.video.elementum/play?uri=</link>
 <thumbnail>https://i.imgur.com/d2x0fOn.jpg<thumbnail>
 <fanart>https://i.imgur.com/2amOpOr.jpg</fanart>
 <genre>Terror. Intriga</genre>
@@ -29,7 +29,7 @@
   
 <item>
 <title>[COLOR lime]•[/COLOR] Atmósfera cero </title>
-<link>plugin://plugin.video.torrentin/?uri=</link>
+<link>plugin://plugin.video.elementum/play?uri=https://github.com/brujotv/repo-naranjitos/blob/master/torrentsdepaginas/3-1981.torrent?raw=true</link>
 <thumbnail>https://i.imgur.com/Eu7b7OL.jpg<thumbnail>
 <fanart>https://i.imgur.com/93qpj5x.jpg</fanart>
 <genre>Ciencia ficción. Thriller</genre>
@@ -39,7 +39,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Aullidos </title>
-<link>plugin://plugin.video.torrentin/?uri=</link>
+<link>plugin://plugin.video.elementum/play?uri=</link>
 <thumbnail>https://i.imgur.com/JpawDDF.jpg<thumbnail>
 <fanart>https://i.imgur.com/pGqaTug.jpg</fanart>
 <genre>Terror</genre>
@@ -49,7 +49,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] En el estanque dorado</title>
-<link>plugin://plugin.video.torrentin/?uri=</link>
+<link>plugin://plugin.video.elementum/play?uri=</link>
 <thumbnail>https://i.imgur.com/lhfYSai.jpg</thumbnail>
 <fanart>https://i.imgur.com/RsLj1lh.jpg</fanart>
 <genre>Comedia dramática.</genre>
@@ -59,7 +59,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Halcones de la noche  </title>
-<link>plugin://plugin.video.torrentin/?uri=</link>
+<link>plugin://plugin.video.elementum/play?uri=</link>
 <thumbnail>https://i.imgur.com/CIJeW29.jpg</thumbnail>
 <fanart></fanart>
 <genre></genre>
@@ -70,7 +70,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Indiana Jones En busca del arca perdida </title>
-<link>plugin://plugin.video.torrentin/?uri=</link>
+<link>plugin://plugin.video.elementum/play?uri=</link>
 <thumbnail>https://i.imgur.com/6D7aUvA.jpg</thumbnail>
 <fanart></fanart>
 <genre></genre>
@@ -81,7 +81,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Posesión infernal   </title>
-<link>plugin://plugin.video.torrentin/?uri=</link>
+<link>plugin://plugin.video.elementum/play?uri=</link>
 <thumbnail>https://i.imgur.com/lPXZmoA.jpg</thumbnail>
 <fanart></fanart>
 <genre></genre>
@@ -92,7 +92,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] 1997: Rescate en Nueva York  </title>
-<link>plugin://plugin.video.torrentin/?uri=</link>
+<link>plugin://plugin.video.elementum/play?uri=</link>
 <thumbnail>https://i.imgur.com/xhl1nLD.jpg</thumbnail>
 <fanart></fanart>
 <genre></genre>
@@ -103,7 +103,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Scanners  </title>
-<link>plugin://plugin.video.torrentin/?uri=</link>
+<link>plugin://plugin.video.elementum/play?uri=</link>
 <thumbnail>https://i.imgur.com/5aD9rax.jpg</thumbnail>
 <fanart></fanart>
 <genre></genre>
