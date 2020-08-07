@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
-<link>plugin://plugin.video.torrentin/?uri=</link>
+<link>plugin://plugin.video.elementum/play?uri=</link>
 <genre></genre>
 <year>1980</year>
 
 
 <item>
 <title>[COLOR lime]•[/COLOR] Atlantic City </title>
-<link>plugin://plugin.video.torrentin/?uri=</link>
+<link>plugin://plugin.video.elementum/play?uri=</link>
 <thumbnail>https://i.imgur.com/inMf3tZ.jpg<thumbnail>
 <fanart>https://i.imgur.com/g5IjKfD.jpg</fanart>
 <genre>Drama. Romance</genre>
@@ -18,7 +18,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Aterriza como puedas </title>
-<link>plugin://plugin.video.torrentin/?uri=https://www.divxtotal.eu/wp-content/uploads/files/aterriza-como-puedas-ff70b764e171d0e78cefe75f8607a9e4.torrent</link>
+<link>plugin://plugin.video.elementum/play?uri=https://github.com/brujotv/repo-naranjitos/blob/master/torrentsdepaginas/2-1980.torrent?raw=true</link>
 <thumbnail>https://i.imgur.com/SlOwPXL.jpg</thumbnail>
 <fanart>https://i.imgur.com/g9aQAgl.jpg</fanart>
 <genre>Comedia</genre>
@@ -28,7 +28,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Brubaker  </title>
-<link>plugin://plugin.video.torrentin/?uri=https://www.divxtotal.eu/wp-content/uploads/files/brubaker-1980-a744ebcb7b72ddcc26020b227ccb5ab2.torrent</link>
+<link>plugin://plugin.video.elementum/play?uri=https://github.com/brujotv/repo-naranjitos/blob/master/torrentsdepaginas/3-1980.torrent?raw=true</link>
 <thumbnail>https://i.imgur.com/HRqfxua.jpg</thumbnail>
 <fanart>https://i.imgur.com/mFiEON0.jpg</fanart>
 <genre>Drama</genre>
@@ -39,7 +39,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] El resplandor </title>
-<link>plugin://plugin.video.torrentin/?uri=https://www.elitetorrent.nl/wp-content/uploads/files/el-resplandor-v-ext-hdrip-KxDiw.torrent</link>
+<link>plugin://plugin.video.torrentin/?uri=https://github.com/brujotv/repo-naranjitos/blob/master/torrentsdepaginas/4-1980.torrent?raw=true</link>
 <thumbnail>https://i.imgur.com/69Wfb1r.jpg</thumbnail>
 <fanart>https://i.imgur.com/Alli5x2.jpg</fanart>
 <genre>Terror</genre>
@@ -49,7 +49,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] El retorno del hombre lobo </title>
-<link>plugin://plugin.video.torrentin/?uri=</link>
+<link>plugin://plugin.video.elementum/play?uri=</link>
 <thumbnail>https://i.imgur.com/k471x3t.jpg</thumbnail>
 <fanart>https://i.imgur.com/rqMwUsT.jpg</fanart>
 <genre>Terror</genre>
@@ -60,7 +60,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Flash Gordon </title>
-<link>plugin://plugin.video.torrentin/?uri=https://www.elitetorrent.nl/wp-content/uploads/files/flash-gordon-1980-hdrip-hT31Y.torrent</link>
+<link>plugin://plugin.video.elementum/play?uri=https://github.com/brujotv/repo-naranjitos/blob/master/torrentsdepaginas/6-1980.torrent?raw=true</link>
 <thumbnail>https://i.imgur.com/7TOyrKF.jpg</thumbnail>
 <fanart>https://i.imgur.com/KOamXQa.jpg</fanart>
 <genre>Fantástico. Ciencia ficción. Acción</genre>
@@ -71,7 +71,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Locos de remate </title>
-<link>plugin://plugin.video.torrentin/?uri=</link>
+<link>plugin://plugin.video.elementum/play?uri=</link>
 <thumbnail>https://i.imgur.com/WoQ13Bg.jpg</thumbnail>
 <fanart>https://i.imgur.com/YVxxMjG.jpg</fanart>
 <genre>Comedia</genre>
@@ -82,7 +82,7 @@
  
 <item>
 <title>[COLOR lime]•[/COLOR] La gran pelea  </title>
-<link>plugin://plugin.video.torrentin/?uri=</link>
+<link>plugin://plugin.video.elementum/play?uri=</link>
 <thumbnail>https://i.imgur.com/LYKplNL.jpg</thumbnail>
 <fanart>https://i.imgur.com/RsLj1lh.jpg</fanart>
 <genre>accion.</genre>
@@ -92,7 +92,7 @@
  
 <item>
 <title>[COLOR lime]•[/COLOR] La niebla  </title>
-<link>plugin://plugin.video.torrentin/?uri=</link>
+<link>plugin://plugin.video.elementum/play?uri=</link>
 <thumbnail>https://i.imgur.com/PnPxtFp.jpg</thumbnail>
 <fanart>https://i.imgur.com/ia6xxtp.jpg</fanart>
 <genre>Terror. Fantástico</genre>
@@ -103,7 +103,7 @@
  
 <item>
 <title>[COLOR lime]•[/COLOR] Toro salvaje </title>
-<link>plugin://plugin.video.torrentin/?uri=https://www.divxtotal.eu/wp-content/uploads/files/toro-salvaje-hd-dWqkIouUW1.torrent</link>
+<link>plugin://plugin.video.elementum/play?uri=https://github.com/brujotv/repo-naranjitos/blob/master/torrentsdepaginas/10-1980.torrent?raw=true</link>
 <thumbnail>https://i.imgur.com/t3UzxVy.jpg</thumbnail>
 <fanart>https://i.imgur.com/GQQiwXY.jpg</fanart>
 <genre>Drama</genre>
@@ -114,7 +114,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Viernes 13 </title>
-<link>plugin://plugin.video.torrentin/?uri=https://www.divxtotal.eu/wp-content/uploads/files/viernes-13-47a1353cf4399d937d5fd017894cddc0.torrent</link>
+<link>plugin://plugin.video.elementum/play?uri=https://github.com/brujotv/repo-naranjitos/blob/master/torrentsdepaginas/11-1980.torrent?raw=true</link>
 <thumbnail>https://i.imgur.com/6AnNj91.jpg</thumbnail>
 <fanart>https://i.imgur.com/PHnaH1w.jpg</fanart>
 <genre>Terror</genre>
