@@ -54,10 +54,14 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Big Hero 6 </title>
-<link>normal</link>
+<item>
+<title>normal </title>
 <link>plugin://plugin.video.elementum/play?uri=https://github.com/brujotv/repo-naranjitos/raw/master/torrentsdepaginas/2014-11.torrent</link>
-<link>3D</link>
+</item>
+<item>
+<title>3D</title>
 <link>plugin://plugin.video.elementum/play?uri=https://github.com/brujotv/repo-naranjitos/raw/master/torrentsdepaginas/2014-11-3D.torrent</link>
+</item>
 <thumbnail>https://i.imgur.com/vKC68Hv.jpg</thumbnail>
 <fanart>https://i.imgur.com/SPMY3iG.jpg</fanart>
 <genre>Animación. Fantástico. Ciencia ficción. Comedia. Acción</genre>
