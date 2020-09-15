@@ -519,14 +519,14 @@ calorina sandobal
 
 2017-----------------------------------------------------------------------------------------------------------------------------------
 
-1.Breath
+1.Breath    (torrent 2017-1) 
 2.Zona hostil
 3.El Secreto de Marrowbone
 4.Los vigilantes de la playa
 5.Transformes: El ultimo caballero
 6.Abracadabra    (torrent 2017-6) 
 7.Una noche fuera de control
-8.Baby Driver
+8.Baby Driver     (torrent 2017-8)
 9.Salyut-7: Héroes en el espacio
 10.Liga de la Justicia
 11.Olé, el viaje de Ferdinand
@@ -547,11 +547,11 @@ calorina sandobal
 26.Inside
 27.Bushwick
 28.El profesor Marston y Wonder Women
-29.Barry Seal: El Traficante
-30.Bright
+29.Barry Seal: El Traficante    (torrent 2017-29)
+30.Bright    (torrent 2017-30)
 31.Niebla y la doncella
 32.Geostorm
-33.Blade runner 2049
+33.Blade runner 2049    (torrent 2017-33)
 34.Piratas del Caribe La venganza de Salazar
 35.The Mummy
 36.Capitán Calzoncillos
@@ -570,9 +570,9 @@ calorina sandobal
 49.Spider-Man: Homecoming
 50.Cuestión de karma
 51.Cambio de reinas
-52.Bomb City
+52.Bomb City    (torrent 2017-52) 
 53.Amigos por siempre    (torrent 2017-53) 
-54.Burn Out
+54.Burn Out    (torrent 2017-54) 
 55.El extranjero
 56.John Wick: Pacto de sangre
 57.Bleeding Steel     (torrent 2017-57)
@@ -582,7 +582,7 @@ calorina sandobal
 61.6 días
 62.Colonia V
 63.Mujer y marido
-64.Ciudad sin ley
+64.Ciudad sin ley    (torrent 2017-64) 
 65.Monsters at Large
 66.Framed
 67.Ana y el apocalipsis    (torrent 2017-67) 
@@ -592,7 +592,7 @@ calorina sandobal
 71.Familiye
 72.Buenos vecinos    (torrent 2017-72)
 73.Voces ocultas
-74.Como pez fuera del agua
+74.Como pez fuera del agua    (torrent 2017-74)
 75.Estasis
 76.Un extraño presentimiento
 77.Garabandal, solo Dios lo sabe
@@ -605,6 +605,7 @@ calorina sandobal
 84.Sahara
 85.Dos padres por desigual    (torrent 2017-85) 
 86.Animal Crackers    (torrent 2017-86) 
+87.Bushwick    (torrent 2017-87)
 
 2016-----------------------------------------------------------------------------------------------------------------------------------
 
