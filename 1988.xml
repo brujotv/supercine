@@ -1,19 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
-<item>
-<title>[COLOR lime]•[/COLOR] Atracción diabólica </title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail>https://i.imgur.com/depAqJ4.jpg</thumbnail>
-<fanart>https://i.imgur.com/P8hytiW.jpg</fanart>
-<genre>Terror. Ciencia ficción</genre>
-<year>1988</year>
-<info>Allan Mann, un joven con un brillante futuro en el mundo de las leyes y el deporte, sufre un terrible accidente que lo deja paralizado. Su novia le deja y su madre le atosiga con una enfermera, pero encuentra una solución: la compañía de una mona. El problema surge cuando la primate se vuelve celosa y no soporta que nadie se meta en la relación, al tiempo que el simio le obedece en todo. Tanto que acaba interpretando cuáles son sus más oscuros deseos y los ejecuta. </info> 
-</item>
+
 
 <item>
 <title>[COLOR lime]•[/COLOR] Arde Mississippi </title>
-<link>plugin://plugin.video.elementum/play?uri=https://github.com/brujotv/repo-naranjitos/raw/master/torrentsdepaginas/arde-mississipi.torrent</link>
+<link>plugin://plugin.video.elementum/play?uri=https://github.com/brujotv/repo-naranjitos/raw/master/torrentsdepaginas/1988-7.torrent</link>
 <thumbnail>https://i.imgur.com/lYKZKfs.jpg</thumbnail>
 <fanart>https://i.imgur.com/dlXufGp.jpg</fanart>
 <genre>Drama.Intriga</genre>
@@ -23,7 +15,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Arma joven </title>
-<link>plugin://plugin.video.elementum/play?uri=https://github.com/brujotv/repo-naranjitos/raw/master/torrentsdepaginas/Arma-Joven.torrent</link>
+<link>plugin://plugin.video.elementum/play?uri=https://github.com/brujotv/repo-naranjitos/raw/master/torrentsdepaginas/1988-10.torrent</link>
 <thumbnail>https://i.imgur.com/RIpJQ33.jpg</thumbnail>
 <fanart>https://i.imgur.com/bjtlEzL.jpg</fanart>
 <genre>Western. Acción</genre>
@@ -32,8 +24,18 @@
 </item>
 
 <item>
+<title>[COLOR lime]•[/COLOR] Akira </title>
+<link>plugin://plugin.video.elementum/play?uri=https://github.com/brujotv/repo-naranjitos/raw/master/torrentsdepaginas/1988-12.torrent</link>
+<thumbnail>https://i.imgur.com/mF58tNG.jpg</thumbnail>
+<fanart>https://i.imgur.com/IQhCc0o.jpg</fanart>
+<genre>Animación. Ciencia ficción. Acción. Thriller</genre>
+<year>1988</year>
+<info>Año 2019. Neo-Tokyo es una ciudad construida sobre las ruinas de la antigua capital japonesa destruida tras la Tercera Guerra Mundial. Japón es un país al borde del colapso que sufre continuas crisis políticas. En secreto, un equipo de científicos ha reanudado por orden del ejército un experimento para encontrar a individuos que puedan controlar el arma definitiva: una fuerza denominada "la energía absoluta". Pero los habitantes de Neo-Tokyo tienen otras cosas de las que preocuparse. Uno de ellos es Kaneda, un joven pandillero líder de una banda de motoristas. Durante una pelea, su mejor amigo, Tetsuo, sufre un extraño accidente y termina ingresado en unas instalaciones militares. Allí los científicos descubrirán que es el poseedor de la energía absoluta. Pero Tetsuo, que no se resigna a convertirse en un conejillo de indias, muy pronto se convertirá en la amenaza más grande que el mundo ha conocido.</info> 
+</item>
+
+<item>
 <title>[COLOR lime]•[/COLOR] Bitelchús </title>
-<link>plugin://plugin.video.elementum/play?uri=https://github.com/brujotv/repo-naranjitos/raw/master/torrentsdepaginas/Beetlejuice.torrent</link>
+<link>plugin://plugin.video.elementum/play?uri=https://github.com/brujotv/repo-naranjitos/raw/master/torrentsdepaginas/1988-2.torrent</link>
 <thumbnail>https://i.imgur.com/1SmILkL.jpg</thumbnail>
 <fanart>https://i.imgur.com/t4yLk7X.jpg</fanart>
 <genre>Fantástico. Comedia</genre>
@@ -44,7 +46,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Cocodrilo Dundee II </title>
-<link>plugin://plugin.video.elementum/play?uri=https://github.com/brujotv/repo-naranjitos/raw/master/torrentsdepaginas/Cocodrilo-Dundee-II.torrent</link>
+<link>plugin://plugin.video.elementum/play?uri=https://github.com/brujotv/repo-naranjitos/raw/master/torrentsdepaginas/1988-8.torrent</link>
 <thumbnail>https://i.imgur.com/fy9AzOe.jpg</thumbnail>
 <fanart>https://i.imgur.com/uR0Gnz2.jpg</fanart>
 <genre>Comedia.Acción</genre>
@@ -54,7 +56,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Contacto sangriento </title>
-<link>plugin://plugin.video.elementum/play?uri=https://github.com/brujotv/repo-naranjitos/raw/master/torrentsdepaginas/contacto-sangriento.torrent</link>
+<link>plugin://plugin.video.elementum/play?uri=https://github.com/brujotv/repo-naranjitos/raw/master/torrentsdepaginas/1988-5.torrent</link>
 <thumbnail>https://i.imgur.com/5tDp7WM.jpg</thumbnail>
 <fanart>https://i.imgur.com/1QbMkrZ.jpg</fanart>
 <genre>Acción</genre>
@@ -63,8 +65,18 @@
 </item>
 
 <item>
+<title>[COLOR lime]•[/COLOR] En busca del valle encantado </title>
+<link>plugin://plugin.video.elementum/play?uri=https://github.com/brujotv/repo-naranjitos/raw/master/torrentsdepaginas/1988-14.torrent</link>
+<thumbnail>https://i.imgur.com/kaw6cTW.jpg</thumbnail>
+<fanart>https://i.imgur.com/ywk0lc3.jpg</fanart>
+<genre>Animación. Aventuras. Drama. Infantil </genre>
+<year>1988</year>
+<info>Aclamada película de animación que narra las aventuras de unos pequeños dinosaurios en su viaje por alcanzar el Gran Valle, el único sitio de la tierra que todavía no ha sido alcanzado por una plaga devastadora. </info> 
+</item>
+
+<item>
 <title>[COLOR lime]•[/COLOR] Están vivos  </title>
-<link>plugin://plugin.video.elementum/play?uri=https://github.com/brujotv/repo-naranjitos/raw/master/torrentsdepaginas/estan-vivos.torrent</link>
+<link>plugin://plugin.video.elementum/play?uri=https://github.com/brujotv/repo-naranjitos/raw/master/torrentsdepaginas/1988-4.torrent</link>
 <thumbnail>https://i.imgur.com/kdWXIAj.jpg</thumbnail/>
 <fanart>https://i.imgur.com/fMlv26K.jpg</fanart>
 <genre>Ciencia ficción. Fantástico. Acción. Terror. Comedia</genre>
@@ -75,7 +87,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] La lista negra </title>
-<link>plugin://plugin.video.elementum/play?uri=https://github.com/brujotv/repo-naranjitos/raw/master/torrentsdepaginas/La_Lista_Negra.torrent</link>
+<link>plugin://plugin.video.elementum/play?uri=https://github.com/brujotv/repo-naranjitos/raw/master/torrentsdepaginas/1988-9.torrent</link>
 <thumbnail>https://i.imgur.com/su9RujM.jpg</thumbnail>
 <fanart>https://i.imgur.com/klzgjue.jpg</fanart>
 <genre>accion.</genre>
@@ -85,7 +97,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] La jungla de cristal </title>
-<link>plugin://plugin.video.elementum/play?uri=https://github.com/brujotv/repo-naranjitos/raw/master/torrentsdepaginas/la-jungla-i.torrent</link>
+<link>plugin://plugin.video.elementum/play?uri=https://github.com/brujotv/repo-naranjitos/raw/master/torrentsdepaginas/1988-3.torrent</link>
 <thumbnail>https://i.imgur.com/Le3ljqN.jpg</thumbnail>
 <fanart>https://i.imgur.com/dVWxFKP.jpg</fanart>
 <genre>Acción. Thriller</genre>
@@ -96,7 +108,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Muñeco diabólico</title>
-<link>plugin://plugin.video.elementum/play?uri=https://github.com/brujotv/repo-naranjitos/raw/master/torrentsdepaginas/Muneco-Diabolico.torrent</link>
+<link>plugin://plugin.video.elementum/play?uri=https://github.com/brujotv/repo-naranjitos/raw/master/torrentsdepaginas/1988-1.torrent</link>
 <thumbnail>https://i.imgur.com/tKb0FmB.jpg</thumbnail>
 <fanart>https://i.imgur.com/FGnAfTF.jpg</fanart>
 <genre>Terror</genre>
@@ -107,7 +119,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Rambo III </title/>
-<link>plugin://plugin.video.elementum/play?uri=https://github.com/brujotv/repo-naranjitos/raw/master/torrentsdepaginas/rambo_iii.torrent</link>
+<link>plugin://plugin.video.elementum/play?uri=https://github.com/brujotv/repo-naranjitos/raw/master/torrentsdepaginas/1988-6.torrent</link>
 <thumbnail>https://i.imgur.com/TUfdfuI.jpg</thumbnail>
 <fanart>https://i.imgur.com/4eJ37Oa.jpg</fanart>
 <genre>Acción. Bélico</genre>
@@ -115,3 +127,22 @@
 <info>Cuando descubre que el coronel Trautman ha caído en manos soviéticas en Afganistán, Rambo regresa al servicio para intentar liberar a su amigo. Después de contactar a la resistencia afgana, entra en la zona sitiada por las tropas enemigas…</info> 
 </item>
 
+<item>
+<title>[COLOR lime]•[/COLOR] Rain Man </title>
+<link>plugin://plugin.video.elementum/play?uri=https://github.com/brujotv/repo-naranjitos/raw/master/torrentsdepaginas/1988-11.torrent</link>
+<thumbnail>https://i.imgur.com/ae86BpE.jpg</thumbnail>
+<fanart>https://i.imgur.com/26YpUPX.jpg</fanart>
+<genre>Drama</genre>
+<year>1988</year>
+<info>Charlie Babbitt (Tom Cruise), un joven egoísta que espera heredar la fortuna de su difunto padre, se entera de que el beneficiario es su hermano Raymond (Dustin Hoffman), un autista al que no conoce, porque ha vivido siempre recluido en un centro especial. Ambos harán un largo viaje a través de los Estados Unidos. Al principio, a Charlie, el extravagante comportamiento de su hermano lo irrita y lo desconcierta, pero, poco a poco, aprenderá a conocerlo y a quererlo. </info> 
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Un pez llamado Wanda  </title>
+<link>plugin://plugin.video.elementum/play?uri=https://github.com/brujotv/repo-naranjitos/raw/master/torrentsdepaginas/1988-13.torrent</link>
+<thumbnail>https://i.imgur.com/gT2mRS9.jpg</thumbnail>
+<fanart>https://i.imgur.com/rO5ZTrR.jpg</fanart>
+<genre>Comedia</genre>
+<year>1988</year>
+<info>Un cuarteto de atracadores ejecuta con éxito un gran golpe en la joyería Hatton Gardens de Londres. El problema es que es detenido George, el jefe de la banda y única persona que sabe dónde están escondidas las joyas. Wanda, la única mujer del grupo, planea seducir a Archie, el abogado defensor de George, con la esperanza de sonsacarle el escondite del botín. Los otros dos miembros del grupo que esperan su parte son Otto, un siniestro psicópata admirador de Nietzsche, y Ken, un tartamudo aficionado a los peces exóticos.</info> 
+</item>
