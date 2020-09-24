@@ -1197,7 +1197,8 @@ calorina sandobal
 4.Fargo    (torrent 1996-4)
 5.Tesis     (torrent 1996-5)
 6.El paciente inglés    (torrent 1996-6)
-7.Abierto hasta el amanecer       (torrent 1996-7)
+7.Abierto hasta el amanecer   (torrent 1996-7)
+8.La roca    
 
 1995-----------------------------------------------------------------------------------------------------------------------------------
 
