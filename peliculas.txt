@@ -1,6 +1,5 @@
 peliculas nº1039
 calorina sandobal
-<link>plugin://plugin.video.torrentin/?uri=</link>
 
 
 <item>
@@ -13,15 +12,7 @@ calorina sandobal
 <info></info> 
 </item>
 
-<item>
-<title>[COLOR lime]•[/COLOR]  [COLOR yellow](Streaming)[/COLOR]</title>
-<urlsolve></urlsolve>
-<thumbnail><thumbnail>
-<fanart></fanart>
-<genre></genre>
-<year>2019</year>
-<info></info> 
-</item>
+
 
 
 2020-----------------------------------------------------------------------------------------------------------------------------------
@@ -193,7 +184,7 @@ calorina sandobal
 134.6 en la sombra (torrent 2019-)
 135.A 47 metros 2 (torrent 2019-135)
 136.Chicos buenos (torrent 2019-136)
-137.Dora y la ciudad perdida (torrent 2019-)
+137.Dora y la ciudad perdida (torrent 2019-137)
 138.El arte de vivir bajo la lluvia (torrent 2019-)
 139.El caso Willingham (torrent 2019-)
 140.El irlandés (torrent 2019-)
@@ -247,7 +238,7 @@ calorina sandobal
 188.Maléfica: Maestra del mal (torrent 2019-)
 189.Terminator: Destino oscuro (torrent 2019-)
 190.522. Un gato, un chino y mi padre (torrent 2019-)
-191.Día de lluvia en Nueva York (torrent 2019-)
+191.Día de lluvia en Nueva York (torrent 2019-191)
 192.El asesino de los caprichos (torrent 2019-)
 193.Dragon Quest: Your Story (torrent 2019-)
 194.Last Christmas (torrent 2019-)
@@ -258,7 +249,7 @@ calorina sandobal
 199.La cocina del infierno (torrent 2019-)
 200.Tan cerca, tan lejos (torrent 2019-)
 201.Sorry We Missed You (torrent 2019-)
-202.Darlin' (torrent 2019-)
+202.Darlin' (torrent 2019-202)
 203.Snatchers (torrent 2019-)
 204.Testigo protegido (torrent 2019-)
 205.¿Por amor o por dinero?  (torrent 2019-)
@@ -270,13 +261,13 @@ calorina sandobal
 211.Los Rodríguez y el más allá (torrent 2019-)
 212.Jay y Bob el silencioso: el reboot (torrent 2019-)
 213.El campeón (torrent 2019-)
-214.Danger Close: La batalla de Long Tan (torrent 2019-)
+214.Danger Close: La batalla de Long Tan (torrent 2019-214)
 215.Frozen II (torrent 2019-)
 216.Ventajas de viajar en tren (torrent 2019-)
 217.The Huntress: Rune of the Dead (torrent 2019-)
 218.The Wonderland (torrent 2019-)
 219.The Mustang (torrent 2019-)
-220.Cuestión de justicia (torrent 2019-)
+220.Cuestión de justicia (torrent 2019-220)
 221.Bliss (torrent 2019-221)
 222.Hala (torrent 2019-)
 223.One Piece: Estampida (torrent 2019-)
@@ -287,7 +278,7 @@ calorina sandobal
 228.Midway (torrent 2019-)
 229.Puñales por la espalda (torrent 2019-)
 230.Guns Akimbo
-231.Cómo ser un french lover (torrent 2019-)
+231.Cómo ser un french lover (torrent 2019-231)
 232.Frankie (torrent 2019-)
 233.Plan de escape 3 (torrent 2019-)
 234.Los miserables (torrent 2019-)
@@ -307,6 +298,7 @@ calorina sandobal
 248.Cómo escapar de Búfalo   (torrent 2019-248)
 249.Cats  (torrent 2019-249)
 250.Código 8  (torrent 2019-250)
+251.Cuerdas    (torrent 2019-251)
 
 2018-----------------------------------------------------------------------------------------------------------------------------------
 
