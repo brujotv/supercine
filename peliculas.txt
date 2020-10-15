@@ -230,7 +230,7 @@ calorina sandobal
 177.@buelos (torrent 2019-)
 178.Bienvenidos al barrio (torrent 2019-178)
 179.Diamantes en bruto (torrent 2019-179)
-180.En acto de servicio (torrent 2019-)
+180.En acto de servicio (torrent 2019-180)
 181.Géminis (torrent 2019-)
 182.Jugando con fuego (torrent 2019-)
 183.La banda (torrent 2019-)
@@ -498,7 +498,7 @@ calorina sandobal
 197.En buenas manos
 198.Ghostland
 199.Only You
-200.City Hunter y el perfume de Cupido
+200.City Hunter y el perfume de Cupido    (torrent 2018-200) 
 201.El regreso de Aladino
 202.Sordo
 203.La gran batalla
