@@ -120,7 +120,7 @@ calorina sandobal
 67.Sin piedad (torrent 2019-)
 68.La pequeña Suiza (torrent 2019-)
 69.Sextillizos (torrent 2019-)
-70.Vengadores: Endgame (torrent 2019-)
+70.Vengadores: Endgame (torrent 2019-70)
 71.Pokémon: Detective Pikachu (torrent 2019-)
 72.Rocketman (torrent 2019-)
 73.Bellezonismo (torrent 2019-73)
@@ -383,7 +383,7 @@ calorina sandobal
 82.The Titan
 83.De tonta, nada
 84.Eliminado: Dark Web
-85.Vengadores: Infinity War
+85.Vengadores: Infinity War    (torrent 2018-85)
 86.Black 47
 87.Blue Iguana
 88.Smallfoot
@@ -864,7 +864,7 @@ calorina sandobal
 9.Madagascar 3: Europe's Most Wanted   (torrent 2012-9)
 10.Las aventuras de Tadeo Jones   (torrent 2012-10)
 11.Hotel Transilvania   (torrent 2012-11)
-12.
+12.Los vengadores     (torrent 2012-12)
 13.Jack Reacher   (torrent 2012-13)
 14.007: Skyfall  (torrent 2012-14)
 15.American Pie: El reencuentro    (torrent 2012-15)
@@ -1505,13 +1505,13 @@ calorina sandobal
 
 1985-----------------------------------------------------------------------------------------------------------------------------------
 
-1.Regreso al futuro
+1.Regreso al futuro    (torrent 1985-1)
 2.Commando
 3.Noche de miedo
 4.Cocoon
 5.El secreto de la pirámide
 6.Re-Animator
-7.Rambo: Acorralado Parte II (Rambo 2)
+7.Rambo: Acorralado Parte II (Rambo 2)    (torrent 1985-7)
 8.El jinete pálido
 9.Aullidos 2: Stirba, la mujer lobo
 
