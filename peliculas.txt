@@ -116,7 +116,7 @@ calorina sandobal
 63.El parque mágico (torrent 2019-)
 64.El hijo (torrent 2019-)
 65.Capsized: Blood in the water (TV) (torrent 2019-65)
-66.John Wick: Capítulo 3 - Parabellum (torrent 2019-)
+66.John Wick: Capítulo 3 - Parabellum (torrent 2019-66)
 67.Sin piedad (torrent 2019-)
 68.La pequeña Suiza (torrent 2019-)
 69.Sextillizos (torrent 2019-)
@@ -138,7 +138,7 @@ calorina sandobal
 85.Estafadores (Lying and Stealing) (torrent 2019-)
 86.Aladdin (torrent 2019-86)
 87.Timadoras compulsivas (torrent 2019-)
-88.Infiltrado en Miami (torrent 2019-)
+88.Infiltrado en Miami (torrent 2019-88)
 89.Los muertos no mueren (torrent 2019-)
 90.El lado siniestro de la luna (torrent 2019-)
 91.Súper empollonas (torrent 2019-)
@@ -172,7 +172,7 @@ calorina sandobal
 119.Los Japón (torrent 2019-)
 120.La trampa de la araña (torrent 2019-)
 121.La música del terremoto (torrent 2019-)
-122.Fast & Furious: Hobbs & Shaw (torrent 2019-)
+122.Fast & Furious: Hobbs & Shaw (torrent 2019-122)
 123.Padre no hay más que uno (torrent 2019-)
 124.Érase una vez en... Hollywood (torrent 2019-)
 125.Angry Birds 2: La película (torrent 2019-125)
@@ -259,7 +259,7 @@ calorina sandobal
 206.El papel de sus vidas (torrent 2019-)
 207.Pokémon. Mewtwo contraataca: Evolución (torrent 2019-)
 208.Estafadoras de Wall Street (torrent 2019-)
-209.Jaque al asesino (torrent 2019-)
+209.Jaque al asesino (torrent 2019-209)
 210.La trinchera infinita (torrent 2019-)
 211.Los Rodríguez y el más allá (torrent 2019-)
 212.Jay y Bob el silencioso: el reboot (torrent 2019-)
@@ -277,10 +277,10 @@ calorina sandobal
 224.Legado en los huesos (torrent 2019-)
 225.La hija de un ladrón (torrent 2019-)
 226.Navidad sangrienta (torrent 2019-)
-227.El último héroe (torrent 2019-)
+227.El último héroe (torrent 2019-227)
 228.Midway (torrent 2019-)
 229.Puñales por la espalda (torrent 2019-)
-230.Guns Akimbo
+230.Guns Akimbo    (torrent 2019-230)
 231.Cómo ser un french lover (torrent 2019-231)
 232.Frankie (torrent 2019-)
 233.Plan de escape 3 (torrent 2019-)
@@ -303,6 +303,7 @@ calorina sandobal
 250.Código 8  (torrent 2019-250)
 251.Cuerdas    (torrent 2019-251)
 252.El tiempo contigo     (torrent 2019-252)
+253.Escuadrón de la muerte    (torrent 2019-253)
 
 2018-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -316,7 +317,7 @@ calorina sandobal
 8.Blackwood
 9.Cadaver
 10.La Noche de Halloween
-11.El Rascacielos
+11.El Rascacielos    (torrent 2018-11)
 12.Ant-Man Y La Avispa
 13.El cuaderno de sara
 14.Black panther
@@ -333,7 +334,7 @@ calorina sandobal
 25.A Rienda Suelta: Doce Relinchos De Navidad 
 26.El vicio del poder
 27.Los hermanos Sisters
-28.El Escuadrón del Diablo
+28.El Escuadrón del Diablo    (torrent 2018-28)
 29.Sobibor
 30.Verano del 84
 31.Pedro el afortunado
@@ -346,7 +347,7 @@ calorina sandobal
 39.Suspiria
 40.Muerto en una semana (o le devolvemos su dinero)
 41.Un pequeño favor
-42.Hot Dog
+42.Hot Dog     (torrent 2018-42)
 43.Perturbada
 44.Juego de ladrones. El atraco perfecto
 45.Siberia
