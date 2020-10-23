@@ -198,7 +198,7 @@ calorina sandobal
 145.Let's Dance (torrent 2019-)
 146.Un verano en Ibiza (torrent 2019-)
 147.Atlantique (torrent 2019-147)
-148.La mensajera (torrent 2019-)
+148.La mensajera (torrent 2019-148)
 149.Vencedor (torrent 2019-)
 150.Amor a segunda vista (torrent 2019-150)
 151.La mejor defensa es un ataque (torrent 2019-)
@@ -249,7 +249,7 @@ calorina sandobal
 196.Doctor Sueño (torrent 2019-)
 197.Le Mans '66 (torrent 2019-)
 198.La familia Addams (torrent 2019-)
-199.La cocina del infierno (torrent 2019-)
+199.La cocina del infierno (torrent 2019-199)
 200.Tan cerca, tan lejos (torrent 2019-)
 201.Sorry We Missed You (torrent 2019-)
 202.Darlin' (torrent 2019-202)
@@ -304,6 +304,7 @@ calorina sandobal
 251.Cuerdas    (torrent 2019-251)
 252.El tiempo contigo     (torrent 2019-252)
 253.Escuadrón de la muerte    (torrent 2019-253)
+254.Killerman    (torrent 2019-254)
 
 2018-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -458,7 +459,7 @@ calorina sandobal
 156.El año de la plaga
 157.La viuda 
 158.La última lección
-159.La corresponsal
+159.La corresponsal     (torrent 2018-159) 
 160.Sombra
 161.La importancia de llamarse Oscar Wilde
 162.Ein Sommer in Vietnam (TV)
@@ -502,7 +503,7 @@ calorina sandobal
 200.City Hunter y el perfume de Cupido    (torrent 2018-200) 
 201.El regreso de Aladino
 202.Sordo
-203.La gran batalla
+203.La gran batalla    torrent 2018-203) 
 204.Wild Rose
 205.Diane
 206.Farming
@@ -1453,45 +1454,45 @@ calorina sandobal
 1988-----------------------------------------------------------------------------------------------------------------------------------
 
 1.Muñeco diabólico    (torrent 1988-1)
-2.Bitelchús    (torrent 1988-2)
+2.Bitelchús   --T--  (torrent 1988-2)
 3.La jungla de cristal    (torrent 1988-3)
 4.Están vivos    (torrent 1988-4)
-5.Contacto sangriento    (torrent 1988-5)
+5.Contacto sangriento   --T--  (torrent 1988-5)
 6.Rambo III    (torrent 1988-6)
-7.Arde Mississippi    (torrent 1988-7)
-8.Cocodrilo Dundee II    (torrent 1988-8)
+7.Arde Mississippi   --T--  (torrent 1988-7)
+8.Cocodrilo Dundee II  --T--  (torrent 1988-8)
 9.La lista negra    (torrent 1988-9)
-10.Arma joven    (torrent 1988-10)
+10.Arma joven   --T--  (torrent 1988-10)
 11.Rain Man    (torrent 1988-11)
 12.Akira    (torrent 1988-12)
 13.Un pez llamado Wanda    (torrent 1988-13)
 14.En busca del valle encantado    (torrent 1988-14)
 15.El príncipe de Zamunda    (torrent 1988-15)
-16.Agárralo como puedas    (torrent 1988-16)
+16.Agárralo como puedas   --T--  (torrent 1988-16)
 17.Los gemelos golpean dos veces   (torrent 1988-17)
 18.Danko: Calor rojo    (torrent 1988-18)
 19.Los fantasmas atacan al jefe    (torrent 1988-19)
 20.Mi novia es una extraterrestre    (torrent 1988-20)
 21.Pesadilla en Elm Street 4: El amo del sueño    (torrent 1988-21)
-22.Cortocircuito 2    (torrent 1988-22)
+22.Cortocircuito 2  --T--  (torrent 1988-22)
 23.La divertida noche de los zombies    (torrent 1988-23)
 
 1987-----------------------------------------------------------------------------------------------------------------------------------
 
-1.Arma letal    (torrent 1987-1)
-2.Jóvenes ocultos    (torrent 1987-2)
-3.Depredador    (torrent 1987-3)
-4.El chip prodigioso    (torrent 1987-4)
-5.Superdetective en Hollywood II    (torrent 1987-5)
-6.Bala blindada    (torrent 1987-6)
-7.Granja maldita    (torrent 1987-7)
-8.Los intocables de Eliot Ness    (torrent 1987-8)
-9.Atracción fatal    (torrent 1987-9)
-10.La chaqueta metálica   (torrent 1987-10)
-11.Dirty Dancing    (torrent 1987-11)
-12.Robocop    (torrent 1987-12)
-13.El imperio del sol    (torrent 1987-13)
-14.La loca historia de las galaxias    (torrent 1987-14)
+1.Arma letal  --T--  (torrent 1987-1)
+2.Jóvenes ocultos   --T--  (torrent 1987-2)
+3.Depredador  --T--  (torrent 1987-3)
+4.El chip prodigioso  --T--  (torrent 1987-4)
+5.Superdetective en Hollywood II    --T--  (torrent 1987-5)
+6.Bala blindada  --T--  (torrent 1987-6)
+7.Granja maldita  --T--  (torrent 1987-7)
+8.Los intocables de Eliot Ness   --T--  (torrent 1987-8)
+9.Atracción fatal  --T--  (torrent 1987-9)
+10.La chaqueta metálica  --T--   (torrent 1987-10)
+11.Dirty Dancing  --T--  (torrent 1987-11)
+12.Robocop   --T--  (torrent 1987-12)
+13.El imperio del sol  --T--  (torrent 1987-13)
+14.La loca historia de las galaxias  --T-- (torrent 1987-14)
 
 1986-----------------------------------------------------------------------------------------------------------------------------------
 
