@@ -54,7 +54,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Ejecución inminente  </title>
-<link>plugin://plugin.video.torrentin/?uri=</link>
+<link>plugin://plugin.video.elementum/play?uri=https://github.com/brujotv/repo-naranjitos/raw/master/torrentsdepaginas/.torrent</link>
 <thumbnail>https://i.imgur.com/4GQYN5t.jpg</thumbnail>
 <fanart>https://i.imgur.com/RsLj1lh.jpg</fanart> 
 <genre>accion.</genre> 
