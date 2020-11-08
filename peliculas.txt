@@ -22,7 +22,7 @@ calorina sandobal
 3.Desastre y total: Agencia de detectives nº1 -T (torrent 2020-3)
 4.Aves de presa (y la fantabulosa emancipación de Harley Quinn) -T (torrent 2020-4)
 5.Spenser: Confidencial -T (torrent 2020-5)
-6.Bad Boys for Life -T (torrent 2020-6)
+6.Bad Boys for Life --T-- (torrent 2020-6)
 7.El sumiller -T (torrent 2020-7)
 8.bloodshot -T (torrent 2020-8)
 9.El banquero -T (torrent 2020-9)
@@ -48,9 +48,9 @@ calorina sandobal
 29.Deep Blue Sea 3    (torrent 2020-29)
 30.Mortal    (torrent 2020-30)
 31.365 días   (torrent 2020-31)
-32.Mercenarios de élite     (torrent 2020-32)
-33.Sonic, la película    (torrent 2020-33)
-
+32.Mercenarios de élite   --T--  (torrent 2020-32)
+33.Sonic, la película  --T--  (torrent 2020-33)
+34.Onward  --T--   (torrent 2020-34)
 2019-----------------------------------------------------------------------------------------------------------------------------------
 
 1.Cómo entrenar a tu dragón 3 (torrent 2019-1)
@@ -182,7 +182,7 @@ calorina sandobal
 127.Al agua gambas (torrent 2019-127)
 128.El rey león (torrent 2019-)
 129.Brittany Runs a Marathon (torrent 2019-129)
-130.Mascotas 2 (torrent 2019-)
+130.Mascotas 2   --T--  (torrent 2019-130)
 131.La luz de mi vida (torrent 2019-)
 132.Dos padres en apuros (torrent 2019-132)
 133.Ad Astra (torrent 2019-133)

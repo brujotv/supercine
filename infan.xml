@@ -850,7 +850,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Mascotas 2  </title>
-<link>plugin://plugin.video.elementum/play?uri=https://www.elitetorrent.nl/wp-content/uploads/files/1566537434-Mascotas%202%20[BRS][Castellano][wWw.EliteTorrent.IO].torrent</link>
+<link>plugin://plugin.video.elementum/play?uri=https://github.com/brujotv/repo-naranjitos/raw/master/torrentsdepaginas/2019-130.torrent</link>
 <thumbnail>https://i.imgur.com/bURQOAl.jpg<thumbnail>
 <fanart>https://i.imgur.com/x0Mm9Cv.jpg</fanart>
 <genre>Animación. Aventuras. Comedia</genre>
@@ -945,6 +945,16 @@
 <genre>Animación. Acción. Fantástico</genre>
 <year>2019</year>
 <info>¡Sé testigo de una batalla campal entre piratas, marines, los Siete Señores de la Guerra y el Ejército Revolucionario con motivo del Festival de los Piratas!</info> 
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Onward </title>
+<link>plugin://plugin.video.elementum/play?uri=https://github.com/brujotv/repo-naranjitos/raw/master/torrentsdepaginas/2020-34.torrent</link>
+<thumbnail>https://i.imgur.com/DWakQJk.jpg</thumbnail>
+<fanart>https://i.imgur.com/wGusCQP.jpg</fanart>
+<genre>Animación. Aventuras. Comedia. Fantástico</genre>
+<year>2020</year>
+<info>Ambientado en un mundo de fantasía suburbana, dos hermanos elfos adolescentes, Ian y Barley Lightfood, se embarcan en una aventura en la que se proponen descubrir si existe aún algo de magia en el mundo que les permita pasar un último día con su padre, que falleció cuando ellos eran aún muy pequeños como para poder recordarlo.</info>
 </item>
 
 <item>
