@@ -312,18 +312,18 @@ calorina sandobal
 
 1.Ralph rompe Internet
 2.Armado. La gran conspiración americana   --T--  (torrent 2018-2)
-3.Bendita locura
+3.Bendita locura    --T--  (torrent 2018-3)
 4.La gaviota
 5.Lo que esconde Silver Lake
 6.Replicas
 7.Miamor perdido
-8.Blackwood
+8.Blackwood   --T--   (torrent 2018-8)
 9.Cadaver
 10.La Noche de Halloween
 11.El Rascacielos    (torrent 2018-11)
 12.Ant-Man Y La Avispa  --T--   (torrent 2018-12)
 13.El cuaderno de sara
-14.Black panther
+14.Black panther    --T--   (torrent 2018-14)
 15.Gorrión rojo
 16.The Cloverfield Paradox
 17.Scoobydoo y el intrepido Batman
@@ -354,14 +354,14 @@ calorina sandobal
 43.Perturbada
 44.Juego de ladrones. El atraco perfecto
 45.Siberia
-46.Beyond White Space
+46.Beyond White Space  --T--  (torrent 2018-46)
 47.Creed II
 48.Ola de crímenes
 49.Superlópez
 50.Venom
 51.La Mula (The Mule)
 52.Capharnaüm
-53.Bienvenidos a Marwen
+53.Bienvenidos a Marwen  --T--  (torrent 2018-53)
 54.High Life
 55.The Dark
 56.¿Podrás perdonarme algún día?
@@ -388,8 +388,8 @@ calorina sandobal
 83.De tonta, nada
 84.Eliminado: Dark Web
 85.Vengadores: Infinity War    (torrent 2018-85)
-86.Black 47
-87.Blue Iguana
+86.Black 47    --T--   (torrent 2018-86)  
+87.Blue Iguana   --T--   (torrent 2018-87)
 88.Smallfoot
 89.Stubby, un héroe muy especial
 90.4 latas
@@ -414,7 +414,7 @@ calorina sandobal
 109.Quiero comerme tu páncreas
 110.La sombra del pasado
 111.Conociendo a Astrid
-112.Chicas con pelotas
+112.Chicas con pelotas     (torrent 2018-112)
 113.Why Hide?
 114.Skif (The Last Warrior)
 115.La noche devora el mundo
@@ -431,7 +431,7 @@ calorina sandobal
 126.Lifechanger
 127.La alfombra mágica
 128.The Bromley Boys
-129.Bikes
+129.Bikes   --T--   (torrent 2018-129) 
 130.Un pueblo y su rey
 131.Terminal
 132.La espía roja
@@ -487,8 +487,8 @@ calorina sandobal
 182.La tribu
 183.303
 184.Alcanzando tu sueño (Teen Spirit)   --T--  (torrent 2018-184)
-185.Blaze
-186.Como la vida misma
+185.Blaze   --T--   (torrent 2018-185)
+186.Como la vida misma   --T--  (torrent 2018-186)
 187.Una íntima convicción
 188.Freaks
 189.La fiesta acaba de empezar
@@ -502,7 +502,7 @@ calorina sandobal
 197.En buenas manos
 198.Ghostland
 199.Only You
-200.City Hunter y el perfume de Cupido    (torrent 2018-200) 
+200.City Hunter y el perfume de Cupido  --T--  (torrent 2018-200) 
 201.El regreso de Aladino
 202.Sordo
 203.La gran batalla    torrent 2018-203) 
@@ -511,7 +511,7 @@ calorina sandobal
 206.Farming
 207.Un amor imposible
 208.Funan
-209.Brillantissime
+209.Brillantissime      torrent 2018-209) 
 210.La ceniza es el blanco más puro
 211.Vita & Virginia
 212.Rocambola
