@@ -311,7 +311,7 @@ calorina sandobal
 2018-----------------------------------------------------------------------------------------------------------------------------------
 
 1.Ralph rompe Internet
-2.Armado. La gran conspiración americana
+2.Armado. La gran conspiración americana   --T--  (torrent 2018-2)
 3.Bendita locura
 4.La gaviota
 5.Lo que esconde Silver Lake
@@ -321,7 +321,7 @@ calorina sandobal
 9.Cadaver
 10.La Noche de Halloween
 11.El Rascacielos    (torrent 2018-11)
-12.Ant-Man Y La Avispa
+12.Ant-Man Y La Avispa  --T--   (torrent 2018-12)
 13.El cuaderno de sara
 14.Black panther
 15.Gorrión rojo
@@ -334,7 +334,7 @@ calorina sandobal
 22.La gracia de Lucía
 23.55 Pasos
 24.Sorry to Bother You
-25.A Rienda Suelta: Doce Relinchos De Navidad 
+25.A Rienda Suelta: Doce Relinchos De Navidad   --T--  (torrent 2018-25)
 26.El vicio del poder
 27.Los hermanos Sisters
 28.El Escuadrón del Diablo    (torrent 2018-28)
@@ -346,7 +346,7 @@ calorina sandobal
 34.Holmes & Watson
 35.Entre dos aguas
 36.Mortal Engines
-37.Aquaman
+37.Aquaman   --T--  (torrent 2018-37)
 39.Suspiria
 40.Muerto en una semana (o le devolvemos su dinero)
 41.Un pequeño favor
@@ -366,8 +366,8 @@ calorina sandobal
 55.The Dark
 56.¿Podrás perdonarme algún día?
 57.Dragon Ball Super: Broly
-58.Astérix: El secreto de la poción mágica
-59.Above Suspicion
+58.Astérix: El secreto de la poción mágica  --T--  (torrent 2018-58)
+59.Above Suspicion   --T--   (torrent 2018-59)
 60.Unbroken: Path to Redemption
 67.Ploey. Nunca volarás solo
 68.Jefa por accidente
@@ -381,7 +381,7 @@ calorina sandobal
 76.Taxi 5
 77.Supermaderos 2
 78.El hombre que mató a Hitler y después a Bigfoot
-79.Ártico
+79.Ártico  --T--   (torrent 2018-79)
 80.Una cuestión de género
 81.The Axiom
 82.The Titan
@@ -409,7 +409,7 @@ calorina sandobal
 104.Donnybrook
 105.The Equalizer 2
 106.Upgrade (Ilimitado)
-107.Anon
+107.Anon   --T--  (torrent 2018-107)
 108.London Fields
 109.Quiero comerme tu páncreas
 110.La sombra del pasado
@@ -486,15 +486,15 @@ calorina sandobal
 181.Killer Kate!
 182.La tribu
 183.303
-184.Alcanzando tu sueño (Teen Spirit)     (torrent 2018-184)
+184.Alcanzando tu sueño (Teen Spirit)   --T--  (torrent 2018-184)
 185.Blaze
 186.Como la vida misma
 187.Una íntima convicción
 188.Freaks
 189.La fiesta acaba de empezar
 190.The Domestics
-191.A Young Man with High Potential     (torrent 2018-191)
-192.Atardecer     (torrent 2018-192)
+191.A Young Man with High Potential   --T--  (torrent 2018-191)
+192.Atardecer   --T--  (torrent 2018-192)
 193.Hotel Bombay
 194.Hex
 195.Viento de libertad
@@ -1605,10 +1605,10 @@ calorina sandobal
 
 1978-----------------------------------------------------------------------------------------------------------------------------------
 
-1.Juego con la muerte (Game of Death)
-2.Grease
-3.El trigo está verde
-4.El principiante
+1.Juego con la muerte (Game of Death)     (torrent 1978-1)
+2.Grease     (torrent 1978-2)
+3.
+4.El principiante    (torrent 1978-4)
 
 1977-----------------------------------------------------------------------------------------------------------------------------------
 
