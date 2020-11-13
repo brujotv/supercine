@@ -318,7 +318,7 @@ calorina sandobal
 6.Replicas
 7.Miamor perdido
 8.Blackwood   --T--   (torrent 2018-8)
-9.Cadaver
+9.Cadaver   --T--   (torrent 2018-9)
 10.La Noche de Halloween
 11.El Rascacielos    (torrent 2018-11)
 12.Ant-Man Y La Avispa  --T--   (torrent 2018-12)
@@ -329,7 +329,7 @@ calorina sandobal
 17.Scoobydoo y el intrepido Batman
 18.La Primera Vez Que Nos Vimos
 19.Familia al instante
-20.Dumplin
+20.Dumplin    --T--   (torrent 2018-20)
 21.Tiempo después
 22.La gracia de Lucía
 23.55 Pasos
@@ -355,12 +355,12 @@ calorina sandobal
 44.Juego de ladrones. El atraco perfecto
 45.Siberia
 46.Beyond White Space  --T--  (torrent 2018-46)
-47.Creed II
+47.Creed II  --T--  (torrent 2018-47)
 48.Ola de crímenes
 49.Superlópez
 50.Venom
 51.La Mula (The Mule)
-52.Capharnaüm
+52.Capharnaüm  --T--  (torrent 2018-52)
 53.Bienvenidos a Marwen  --T--  (torrent 2018-53)
 54.High Life
 55.The Dark
@@ -385,7 +385,7 @@ calorina sandobal
 80.Una cuestión de género
 81.The Axiom
 82.The Titan
-83.De tonta, nada
+83.De tonta, nada    --T--   (torrent 2018-83)  
 84.Eliminado: Dark Web
 85.Vengadores: Infinity War    (torrent 2018-85)
 86.Black 47    --T--   (torrent 2018-86)  
@@ -399,34 +399,34 @@ calorina sandobal
 94.Todos a una
 95.Van Gogh, a las puertas de la eternidad
 96.
-97.Deadpool 2
-98.Cuenta pendiente    (torrent 2018-98)
+97.Deadpool 2  --T--  (torrent 2018-97)
+98.Cuenta pendiente  --T--  (torrent 2018-98)
 99.El Reino
 100.Hotel Transilvania 3: Unas vacaciones monstruosas
 101.La aparición
 102.Los Increibles 2
 103.Paciente cero
-104.Donnybrook
+104.Donnybrook   --T--  (torrent 2018-104)
 105.The Equalizer 2
 106.Upgrade (Ilimitado)
 107.Anon   --T--  (torrent 2018-107)
 108.London Fields
 109.Quiero comerme tu páncreas
 110.La sombra del pasado
-111.Conociendo a Astrid
-112.Chicas con pelotas     (torrent 2018-112)
+111.Conociendo a Astrid   --T--  (torrent 2018-111)
+112.Chicas con pelotas   --T--  (torrent 2018-112)
 113.Why Hide?
 114.Skif (The Last Warrior)
 115.La noche devora el mundo
 116.Galveston
-117.Damsel
+117.Damsel   --T--  (torrent 2018-117)
 118.La profesora de parvulario
 119.Territorio Escualo (TV)
 120.El gran baño
 121.La casa de Jack
 122.Green Book
 123.Mia y el león blanco
-124.Dominios oscuros
+124.Dominios oscuros   --T--   (torrent 2018-124) 
 125.Llenos de vida
 126.Lifechanger
 127.La alfombra mágica
@@ -441,19 +441,19 @@ calorina sandobal
 136.12 valientes
 137.Mirai
 138.Okko, el hostal y sus fantasmas
-139.Dios no está muerto: Una luz en la oscuridad
+139.Dios no está muerto: Una luz en la oscuridad   --T--  (torrent 2018-139)
 140.Speed Kills
 141.Killer Weekend
-142.Donbass
+142.Donbass   --T--  (torrent 2018-142)
 143.15:17 Tren a París
 144.Las invisibles
 145.No hay salida
 146.Keepers, el misterio del faro
 147.El bailarín
-148.De la India a París en un armario de Ikea
+148.De la India a París en un armario de Ikea   --T--  (torrent 2018-148)
 149.Gloria Bell
 150.Welcome Home
-151.Dragged Across Concrete
+151.Dragged Across Concrete   --T--  (torrent 2018-151)
 152.Me llamo Gennet (TV)
 153.Mug
 154.Un hombre fiel
@@ -465,7 +465,7 @@ calorina sandobal
 160.Sombra
 161.La importancia de llamarse Oscar Wilde
 162.Ein Sommer in Vietnam (TV)
-163.Dobles vidas
+163.Dobles vidas   --T--  (torrent 2018-163)
 164.Family Vanished
 165.La tercera esposa
 166.La pequeña traviesa
@@ -479,7 +479,7 @@ calorina sandobal
 174.Hurricane
 175.Enemigos íntimos
 176.La canción de mi padre
-177.Driven: el origen de la leyenda
+177.Driven: el origen de la leyenda   --T--  (torrent 2018-177)
 178.El vendedor de tabaco
 179.123.El permiso
 180.Los Bando
@@ -498,7 +498,7 @@ calorina sandobal
 193.Hotel Bombay
 194.Hex
 195.Viento de libertad
-196.Day of the Dead: Bloodline
+196.Day of the Dead: Bloodline   --T--  (torrent 2018-196)
 197.En buenas manos
 198.Ghostland
 199.Only You
@@ -507,7 +507,7 @@ calorina sandobal
 202.Sordo
 203.La gran batalla    torrent 2018-203) 
 204.Wild Rose
-205.Diane
+205.Diane  --T--  (torrent 2018-205) 
 206.Farming
 207.Un amor imposible
 208.Funan
