@@ -53,6 +53,7 @@ calorina sandobal
 34.Onward  --T--   (torrent 2020-34)
 35.Bob Esponja: Un héroe al rescate  --T--   (torrent 2020-35)
 36.Superagente Makey  --T--   (torrent 2020-36)
+37.El rey del barrio  --T--   (torrent 2020-37)
 
 2019-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -1520,7 +1521,7 @@ calorina sandobal
 3.El chico de oro
 4.Golpe en la pequeña China 
 5.Dentro del laberinto
-6.Karate Kid II: la historia continúa
+6.Karate Kid II: la historia continúa  --T-- (torrent 1986-6)
 7.Crocodile Dundee
 8.9 semanas y media
 9.El sargento de hierro
@@ -1540,7 +1541,7 @@ calorina sandobal
 
 1984-----------------------------------------------------------------------------------------------------------------------------------
 
-1.Karate kid, el momento de la verdad    (torrent 1984-1)
+1.Karate kid, el momento de la verdad  --T--  (torrent 1984-1)
 2.Gremlins   --T--  (torrent 1984-2)
 3.En la cuerda floja     (torrent 1984-2)
 4.Terminator  --T--   (torrent 1984-4)
