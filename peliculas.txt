@@ -312,6 +312,8 @@ calorina sandobal
 252.El tiempo contigo     (torrent 2019-252)
 253.Escuadrón de la muerte    (torrent 2019-253)
 254.Killerman    (torrent 2019-254)
+255.El día llegará   --T--  (torrent 2019-255)
+256.Unplanned    --T--  (torrent 2019-256)
 
 2018-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -521,6 +523,8 @@ calorina sandobal
 211.Vita & Virginia
 212.Rocambola
 213.El convento 
+214.Echoes of Fear  --T--  (torrent 2018-214) 
+215.El último testigo  --T--  (torrent 2018-215) 
 
 2017-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -612,7 +616,7 @@ calorina sandobal
 86.Animal Crackers  --T--  (torrent 2017-86) 
 87.Bushwick   --T--   (torrent 2017-87)
 88.Tadeo Jones 2. El secreto del Rey Midas   --T--  (torrent 2017-88)
-
+89.Sharknado 5: Aletamiento global (TV)   --T--  (torrent 2017-89)
 2016-----------------------------------------------------------------------------------------------------------------------------------
 
 1.Jacques  --T--  (torrent 2016-1) 
@@ -798,6 +802,7 @@ calorina sandobal
 67.Río 2  --T--  (torrent 2014-67)
 68.Las aventuras de Peabody y Sherman  --T--  (torrent 2014-68)
 69.Clown  --T--  (torrent 2014-69)
+70.Treehouse  --T--  (torrent 2014-69)
 
 2013-----------------------------------------------------------------------------------------------------------------------------------
 
