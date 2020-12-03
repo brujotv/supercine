@@ -809,6 +809,7 @@ calorina sandobal
 69.Clown  --T--  (torrent 2014-69)
 70.Treehouse  --T--  (torrent 2014-70)
 71.Sharknado 2: El regreso (TV)  --T--  (torrent 2014-71)
+72.Wax  --T--  (torrent 2014-72)
 
 2013-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -1066,7 +1067,7 @@ calorina sandobal
 6.300  --T--  (torrent 2006-6)
 7.Piratas del Caribe: El cofre del hombre muerto  --T--  (torrent 2006-7)
 8.El ilusionista   --T--  (torrent 2006-8)
-9.
+9.Turistas   --T--  (torrent 2006-9)
 10.Los ojos del mal (See No Evil)  --T--  (torrent 2006-10)
 11.Rocky Balboa (Rocky VI)  --T--  (torrent 2006-11)
 12.El truco final (El prestigio)  --T--  (torrent 2006-12)
