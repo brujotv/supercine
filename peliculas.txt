@@ -526,7 +526,8 @@ calorina sandobal
 213.El convento 
 214.Echoes of Fear  --T--  (torrent 2018-214) 
 215.El último testigo  --T--  (torrent 2018-215) 
-
+216.Accident Man  --T--  (torrent 2018-216)
+ 
 2017-----------------------------------------------------------------------------------------------------------------------------------
 
 1.Breath  --T--  (torrent 2017-1) 
@@ -619,6 +620,7 @@ calorina sandobal
 88.Tadeo Jones 2. El secreto del Rey Midas   --T--  (torrent 2017-88)
 89.Sharknado 5: Aletamiento global (TV)   --T--  (torrent 2017-89)
 90.Slumber. El demonio del sueño   --T--  (torrent 2017-90)
+91.24 horas para vivir   --T--  (torrent 2017-91)
 
 2016-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -667,6 +669,9 @@ calorina sandobal
 43.Bus Driver  --T--  (torrent 2016-43)
 44.Mascotas   --T--  (torrent 2016-44)
 45.Sharknado: Que la 4ª te acompañe (TV)   --T--  (torrent 2016-45)
+46.Agente contrainteligente   --T--  (torrent 2016-46)
+47.Ahora me ves 2   --T--  (torrent 2016-47)
+48.Assassin's Creed    --T--  (torrent 2016-48)
 
 2015-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -974,7 +979,7 @@ calorina sandobal
 
 2009-----------------------------------------------------------------------------------------------------------------------------------
 
-1.
+1.Bienvenidos a Zombieland  --T-- (torrent 2009-1)
 2.Star Runners (TV)  --T-- (torrent 2009-2)
 3.Solomon Kane  --T-- (torrent 2009-3)
 4.Sherlock Holmes  --T-- (torrent 2009-4)
@@ -1698,6 +1703,7 @@ calorina sandobal
 1967-----------------------------------------------------------------------------------------------------------------------------------
 
 1.Ataque al carro blindado
+2.Barbarella   --T--  (torrent 1967-2)
 
 1966-----------------------------------------------------------------------------------------------------------------------------------
 
