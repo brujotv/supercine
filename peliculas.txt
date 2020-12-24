@@ -153,11 +153,11 @@ calorina sandobal
 87.Timadoras compulsivas (torrent 2019-87)
 88.
 89.Los muertos no mueren     --T--  (torrent 2019-89)
-90.El lado siniestro de la luna (torrent 2019-)
-91.Súper empollonas (torrent 2019-)
-92.Entre dos helechos: La película (torrent 2019-)
-93.Terra Willy: planeta desconocido (torrent 2019-)
-94.Stuber Express (torrent 2019-)
+90.El lado siniestro de la luna     --T--  (torrent 2019-90)
+91.Súper empollonas     --T--  (torrent 2019-91)
+92.Entre dos helechos: La película      --T--  (torrent 2019-92)
+93.Terra Willy: planeta desconocido   --T--   (torrent 2019-93)
+94.Stuber Express   --T--    (torrent 2019-94)
 95.Corrupción (torrent 2019-95)
 96.Tolkien (torrent 2019-)
 97.Antes de la quema (torrent 2019-97)
@@ -476,11 +476,11 @@ calorina sandobal
 157.La viuda    --T--  (torrent 2018-157)
 158.La última lección    --T--  (torrent 2018-158)
 159.La corresponsal    --T--  (torrent 2018-159) 
-160.Sombra
-161.La importancia de llamarse Oscar Wilde
+160.Sombra    --T--  (torrent 2018-160) 
+161.La importancia de llamarse Oscar Wilde    --T--  (torrent 2018-161) 
 162.Ein Sommer in Vietnam (TV)   --T--  (torrent 2018-162)
 163.Dobles vidas   --T--  (torrent 2018-163)
-164.Family Vanished
+164.Family Vanished   --T--  (torrent 2018-164)
 165.La tercera esposa
 166.La pequeña traviesa
 167.Project Gutenberg
