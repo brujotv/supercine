@@ -161,14 +161,14 @@ calorina sandobal
 95.Corrupción    --T--    (torrent 2019-95)
 96.Tolkien     --T--    (torrent 2019-96)
 97.Antes de la quema     --T--    (torrent 2019-97)
-98.Toy Story 4 (torrent     --T--    2019-98)
-99.El final de la verdad (torrent 2019-)
-100.Spider-Man: Lejos de casa (torrent 2019-)
-101.La influencia (torrent 2019-)
-102.La biblioteca de los libros rechazados (torrent 2019-)
-103.Fractura (torrent 2019-)
-104.10 días sin mamá (torrent 2019-)
-105.Suburbanos (torrent 2019-)
+98.Toy Story 4      --T--    (torrent2019-98)
+99.El final de la verdad      --T--    (torrent 2019-99)
+100.Spider-Man: Lejos de casa     --T--   (torrent 2019-100)
+101.La influencia     --T--   (torrent 2019-101)
+102.La biblioteca de los libros rechazados     --T--   (torrent 2019-102)
+103.Fractura     --T--    (torrent 2019-103)
+104.10 días sin mamá    --T--  (torrent 2019-104)
+105.Suburbanos   --T--  (torrent 2019-105)
 106.El sol también es una estrella (torrent 2019-)
 107.The Laundromat: Dinero sucio (torrent 2019-)
 108.Wounds (torrent 2019-)
@@ -486,11 +486,11 @@ calorina sandobal
 167.Project Gutenberg   --T--  (torrent 2018-167)
 168.Inuyashiki   --T--  (torrent 2018-168)
 169.Vuela como una mariposa   --T--  (torrent 2018-169)
-170.Kin
-171.Hotel Artemis
-172.Necesitamos tu voto
-173.Vitoria, 3 de marzo
-174.Hurricane
+170.Kin   --T--  (torrent 2018-170)
+171.Hotel Artemis   --T--  (torrent 2018-171)
+172.Necesitamos tu voto   --T--  (torrent 2018-172)
+173.Vitoria, 3 de marzo   --T--  (torrent 2018-173)
+174.Hurricane   --T--  (torrent 2018-174)
 175.Enemigos íntimos   --T--  (torrent 2018-175)
 176.La canción de mi padre
 177.Driven: el origen de la leyenda   --T--  (torrent 2018-177)
