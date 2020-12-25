@@ -158,10 +158,10 @@ calorina sandobal
 92.Entre dos helechos: La película      --T--  (torrent 2019-92)
 93.Terra Willy: planeta desconocido   --T--   (torrent 2019-93)
 94.Stuber Express   --T--    (torrent 2019-94)
-95.Corrupción (torrent 2019-95)
-96.Tolkien (torrent 2019-)
-97.Antes de la quema (torrent 2019-97)
-98.Toy Story 4 (torrent 2019-)
+95.Corrupción    --T--    (torrent 2019-95)
+96.Tolkien     --T--    (torrent 2019-96)
+97.Antes de la quema     --T--    (torrent 2019-97)
+98.Toy Story 4 (torrent     --T--    2019-98)
 99.El final de la verdad (torrent 2019-)
 100.Spider-Man: Lejos de casa (torrent 2019-)
 101.La influencia (torrent 2019-)
@@ -481,11 +481,11 @@ calorina sandobal
 162.Ein Sommer in Vietnam (TV)   --T--  (torrent 2018-162)
 163.Dobles vidas   --T--  (torrent 2018-163)
 164.Family Vanished   --T--  (torrent 2018-164)
-165.La tercera esposa
-166.La pequeña traviesa
-167.Project Gutenberg
-168.Inuyashiki
-169.Vuela como una mariposa
+165.La tercera esposa   --T--  (torrent 2018-165)
+166.La pequeña traviesa   --T--  (torrent 2018-166)
+167.Project Gutenberg   --T--  (torrent 2018-167)
+168.Inuyashiki   --T--  (torrent 2018-168)
+169.Vuela como una mariposa   --T--  (torrent 2018-169)
 170.Kin
 171.Hotel Artemis
 172.Necesitamos tu voto
