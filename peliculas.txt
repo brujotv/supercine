@@ -271,7 +271,7 @@ calorina sandobal
 201.Sorry We Missed You   --T--  (torrent 2019-201)
 202.Darlin'   --T-- (torrent 2019-202)
 203.Snatchers (torrent 2019-)
-204.Testigo protegido (torrent 2019-)
+204.Testigo protegido    --T-- (torrent 2019-204)
 205.¿Por amor o por dinero?  (torrent 2019-)
 206.El papel de sus vidas (torrent 2019-)
 207.Pokémon. Mewtwo contraataca: Evolución (torrent 2019-)
@@ -908,6 +908,7 @@ calorina sandobal
 64.Bienvenidos al fin del mundo  --T--  (torrent 2013-64)
 65.Somos los Miller   --T--  (torrent 2013-65)
 66.Monstruos University   --T--  (torrent 2013-66)
+67.Thai Dragon 2: El protector   --T--  (torrent 2013-67)
 
 2012-----------------------------------------------------------------------------------------------------------------------------------
 
