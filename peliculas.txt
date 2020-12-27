@@ -62,6 +62,9 @@ calorina sandobal
 43.La llamada de lo salvaje  --T--   (torrent 2020-43)
 44.Tenet  --T--   (torrent 2020-44)
 45.Alone  --T--   (torrent 2020-45)
+46.Un policía honesto  --T--   (torrent 2020-46)
+47.100% Wolf: Pequeño gran lobo  --T--   (torrent 2020-47)
+48.AK-47  --T--   (torrent 2020-48)
 
 2019-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -226,21 +229,21 @@ calorina sandobal
 159.Quien a hierro mata   --T-- (torrent 2019-159)
 160.The Poison Rose   --T-- (torrent 2019-160)
 161.Yo, mi mujer y mi mujer muerta   --T-- (torrent 2019-161)
-162.The Report (torrent 2019-)
-163.The Informer (torrent 2019-)
-164.Los dos papas (torrent 2019-)
-165.Grimsey (torrent 2019-)
-166.Litus (torrent 2019-)
-167.Noche de bodas (torrent 2019-)
-168.Vivir dos veces (torrent 2019-)
-169.The Aeronauts (torrent 2019-)
-170.Downton Abbey (torrent 2019-)
-171.H0us3 (torrent 2019-)
-172.The Murder of Nicole Brown Simpson (torrent 2019-)
-173.Troupe Zero (torrent 2019-)
-174.Tu fotografía (torrent 2019-)
+162.The Report   --T-- (torrent 2019-162)
+163.The Informer    --T-- (torrent 2019-163)
+164.Los dos papas   --T--  (torrent 2019-164)
+165.Grimsey   --T--  (torrent 2019-165)
+166.Litus   --T--  (torrent 2019-166)
+167.Noche de bodas   --T--  (torrent 2019-167)
+168.Vivir dos veces   --T--  (torrent 2019-168)
+169.The Aeronauts   --T--  (torrent 2019-169)
+170.Downton Abbey   --T--   (torrent 2019-170)
+171.H0us3   --T--   (torrent 2019-171)
+172.The Murder of Nicole Brown Simpson  --T--   (torrent 2019-172)
+173.Troupe Zero   --T--  (torrent 2019-173)
+174.Tu fotografía   --T-- (torrent 2019-174)
 175.Rambo: Last Blood (torrent 2019-)
-176.El jilguero (torrent 2019-)
+176.El jilguero   --T-- (torrent 2019-176)
 177.@buelos (torrent 2019-)
 178.Bienvenidos al barrio (torrent 2019-178)
 179.Diamantes en bruto (torrent 2019-179)
@@ -511,12 +514,12 @@ calorina sandobal
 191.A Young Man with High Potential   --T--  (torrent 2018-191)
 192.Atardecer   --T--  (torrent 2018-192)
 193.Hotel Bombay   --T--  (torrent 2018-193)
-194.Hex
-195.Viento de libertad
+194.Hex   --T--  (torrent 2018-194)
+195.Viento de libertad   --T--  (torrent 2018-195)
 196.Day of the Dead: Bloodline   --T--  (torrent 2018-196)
-197.En buenas manos
-198.Ghostland
-199.Only You
+197.En buenas manos   --T--  (torrent 2018-197)
+198.Ghostland  --T--  (torrent 2018-198)
+199.Only You  --T--  (torrent 2018-199)
 200.City Hunter y el perfume de Cupido  --T--  (torrent 2018-200) 
 201.El regreso de Aladino  --T--  (torrent 2018-201) 
 202.Sordo
