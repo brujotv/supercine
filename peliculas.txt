@@ -67,6 +67,10 @@ calorina sandobal
 48.AK-47  --T--   (torrent 2020-48)
 49.Soul  --T--   (torrent 2020-49)
 50.La boda de Rosa   --T--   (torrent 2020-50)
+51.The Way Back   --T--   (torrent 2020-51)
+52.La estación de la felicidad   --T--   (torrent 2020-52)
+53.Cielo de medianoche  --T--   (torrent 2020-53)
+54.Matar a Santa  --T--   (torrent 2020-54)
 
 2019-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -327,6 +331,7 @@ calorina sandobal
 255.El día llegará   --T--  (torrent 2019-255)
 256.Unplanned    --T--  (torrent 2019-256)
 257.Te veo    --T--  (torrent 2019-257)
+258.Skyfire    --T--  (torrent 2019-258)
 
 2018-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -540,6 +545,7 @@ calorina sandobal
 215.El último testigo  --T--  (torrent 2018-215) 
 216.Accident Man  --T--  (torrent 2018-216)
 217.The Domestics (proxima)  --T--  (torrent 2018-217)
+218.Las chicas de Manson  --T--  (torrent 2018-218)
 
 2017-----------------------------------------------------------------------------------------------------------------------------------
 
