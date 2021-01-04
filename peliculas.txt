@@ -32,21 +32,21 @@ calorina sandobal
 13.Mi primer gran combate   --T--  (torrent 2020-13)
 14.Tyler Rake  --T--   (torrent 2020-14)
 15.Atrapada en las profundidades   --T--    (torrent 2020-15)
-16.Emma.  (torrent 2020-16)
+16.Emma.   --T--   (torrent 2020-16)
 17.Fantasy Island  --T--   (torrent 2020-17)
 18.La gallina Turuleca   --T--   (torrent 2020-18)
-19.La maldición (The Grudge)    --T--  (torrent 2020-19)
-20.Larva: Aventuras en la isla - La película  (torrent 2020-20)
-21.Mi primer beso 2  (torrent 2020-21)
-22.Ofrenda a la tormenta (torrent 2020-22)
-23.The Outpost (torrent 2020-23)
+19.La maldición (The Grudge)   --T--  (torrent 2020-19)
+20.Larva: Aventuras en la isla - La película  --T--   (torrent 2020-20)
+21.Mi primer beso 2   --T--   (torrent 2020-21)
+22.Ofrenda a la tormenta   --T-- (torrent 2020-22)
+23.The Outpost   --T-- (torrent 2020-23)
 24.Underwater  --T--   (torrent 2020-24)
 25.365 días (off line)
-26.Los niños de Windermere
-27.Chemical Hearts  (torrent 2020-27)
-28.Supervivencia   (torrent 2020-28)
-29.Deep Blue Sea 3    (torrent 2020-29)
-30.Mortal    (torrent 2020-30)
+26.Los niños de Windermere  --T--   (torrent 2020-26)
+27.Chemical Hearts   --T--    (torrent 2020-27)
+28.Supervivencia    --T--    (torrent 2020-28)
+29.Deep Blue Sea 3     --T--    (torrent 2020-29)
+30.Mortal     --T--    (torrent 2020-30)
 31.365 días   (torrent 2020-31)
 32.Mercenarios de élite   --T--  (torrent 2020-32)
 33.Sonic, la película  --T--  (torrent 2020-33)
@@ -318,14 +318,14 @@ calorina sandobal
 238.Altered Carbon: Reefundados    --T--  (torrent 2019-238)
 239.Pequeñas mentiras para estar juntos (torrent 2019-239)
 240.El hoyo   --T--   (torrent 2019-240)
-241.Latte y la piedra mágica
-242.Badland
-243.Harpoon
-244.Stano
-245.Saint Frances
+241.Latte y la piedra mágica   --T--   (torrent 2019-241)
+242.Badland   --T--   (torrent 2019-242)
+243.Harpoon   --T--   (torrent 2019-243)
+244.Stano  --T--   (torrent 2019-244)
+245.Saint Frances  --T--   (torrent 2019-245)
 246.Buenos principios (torrent 2019-246)
-247.Cenicienta pop  (torrent 2019-247)
-248.Cómo escapar de Búfalo   (torrent 2019-248)
+247.Cenicienta pop   --T--   (torrent 2019-247)
+248.Cómo escapar de Búfalo   --T--   (torrent 2019-248)
 249.Cats   --T--  (torrent 2019-249)
 250.Código 8    --T--  (torrent 2019-250)
 251.Cuerdas     --T--    (torrent 2019-251)
@@ -355,6 +355,8 @@ calorina sandobal
 275.La posesión de Mary  --T--  (torrent 2019-275)
 276.La verdadera historia de la banda de Kelly  --T--  (torrent 2019-276)
 277.Una buena mujer es difícil de encontrar  --T--  (torrent 2019-277)
+278.Zapatos rojos y los siete trolls  --T--  (torrent 2019-278)
+279.The Vast of Night  --T--  (torrent 2019-279)
 
 2018-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -562,8 +564,8 @@ calorina sandobal
 209.Brillantissime  --T--  torrent (2018-209) 
 210.La ceniza es el blanco más puro  --T--  torrent (2018-210)
 211.Vita & Virginia  --T--  torrent (2018-211)
-212.Rocambola
-213.El convento 
+212.Rocambola  --T--  torrent (2018-212)
+213.El convento   --T--  torrent (2018-213)
 214.Echoes of Fear  --T--  (torrent 2018-214) 
 215.El último testigo  --T--  (torrent 2018-215) 
 216.Accident Man  --T--  (torrent 2018-216)
