@@ -71,6 +71,10 @@ calorina sandobal
 52.La estación de la felicidad   --T--   (torrent 2020-52)
 53.Cielo de medianoche  --T--   (torrent 2020-53)
 54.Matar a Santa  --T--   (torrent 2020-54)
+55.Un plan irresistible   --T--   (torrent 2020-55)
+56.Ava   --T--   (torrent 2020-56)
+57.Voces   --T--   (torrent 2020-57)
+58.La caza   --T--   (torrent 2020-58)
 
 2019-----------------------------------------------------------------------------------------------------------------------------------
 
@@ -332,6 +336,7 @@ calorina sandobal
 256.Unplanned    --T--  (torrent 2019-256)
 257.Te veo    --T--  (torrent 2019-257)
 258.Skyfire    --T--  (torrent 2019-258)
+259.Little Monsters    --T--  (torrent 2019-259)
 
 2018-----------------------------------------------------------------------------------------------------------------------------------
 
