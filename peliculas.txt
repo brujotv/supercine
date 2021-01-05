@@ -1,20 +1,6 @@
 peliculas nº1039
 calorina sandobal
 
-
-<item>
-<title>[COLOR lime]•[/COLOR]  [COLOR red](torrent)[/COLOR]</title>
-<link>plugin://plugin.video.torrentin/?uri=</link>
-<thumbnail><thumbnail>
-<fanart></fanart>
-<genre></genre>
-<year>2019</year>
-<info></info> 
-</item>
-
-
-
-
 2020-----------------------------------------------------------------------------------------------------------------------------------
 
 1.A traición   --T--  (torrent 2020-1)                                                           
@@ -79,18 +65,18 @@ calorina sandobal
 2019-----------------------------------------------------------------------------------------------------------------------------------
 
 1.Cómo entrenar a tu dragón 3   --T--  (torrent 2019-1)
-2.Money Trap (torrent 2019-2)
-3.Miss Bala (torrent 2019-3)
-4.Hijo nativo (torrent 2019-4)
-5.La Protectora (torrent 2019-5)
+2.Money Trap  --T--  (torrent 2019-2)
+3.Miss Bala   --T--  (torrent 2019-3)
+4.Hijo nativo    --T--  (torrent 2019-4)
+5.La Protectora   --T--  (torrent 2019-5)
 6.Doom: Annihilation (torrent 2019-6)
-7.Todo por mi hijo (TV) (torrent 2019-7)
-8.Glass (torrent 2019-8)
-9.A pesar de todo (torrent 2019-9)
-10.Nuestro último verano (torrent 2019-10)
-11.Escape Room: Sin salida (torrent 2019-11)
-12.Beats (torrent 2019-12)
-13.Feedback (torrent 2019-13)
+7.Todo por mi hijo (TV)   --T--  (torrent 2019-7)
+8.Glass  --T--  (torrent 2019-8)
+9.A pesar de todo   --T--  (torrent 2019-9)
+10.Nuestro último verano   --T--  (torrent 2019-10)
+11.Escape Room: Sin salida   --T--  (torrent 2019-11)
+12.Beats  --T--   (torrent 2019-12)
+13.Feedback   --T--  (torrent 2019-13)
 14.El Canto del Lobo (torrent 2019-14)
 15.Criminales en el mar (torrent 2019-15)
 16.Capitana Marvel (torrent 2019-16)
@@ -1192,8 +1178,8 @@ calorina sandobal
 5.Gigoló europeo  --T-- (torrent 2005-5)
 6. V de Vendetta  --T-- (torrent 2005-6)
 7.Transporter 2  --T--  (torrent 2005-7)
-8.
-9.
+8.La guerra de las galaxias. Episodio III: La venganza de los Sith   --T--   (torrent 2005-8)
+9.La novia cadáver   --T--   (torrent 2005-9)
 10.American Pie: Band Camp  --T--  (torrent 2005-10)
 11.Torrente 3: El protector  --T--  (torrent 2005-11)
 12.Hostage  --T--  (torrent 2005-12)
@@ -1203,6 +1189,8 @@ calorina sandobal
 16.7 vírgenes  --T-- (torrent 2005-16)
 17.Apostando al límite  --T--  (torrent 2005-17)
 18.Asalto al distrito 13   --T--  (torrent 2005-18)
+19.Charlie y la fábrica de chocolate   --T--   (torrent 2005-19)
+20.La guerra de los mundos   --T--   (torrent 2005-20)
 
 2004-----------------------------------------------------------------------------------------------------------------------------------
 
