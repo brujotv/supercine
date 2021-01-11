@@ -220,7 +220,7 @@ calorina sandobal
 154.Anna   --T--  (torrent 2019-154)
 155.joker    --T--  (torrent 2019-155)
 156.Objetivo: Washington D.C.  --T--   (torrent 2019-156)
-157.Zombieland: Mata y remata   --T--  (torrent 2019-157)
+157.Zombieland: Mata y remata   -T-D-C-  (torrent 2019-157)
 158.Girl on the Third Floor   --T-- (torrent 2019-158)
 159.Quien a hierro mata   --T-- (torrent 2019-159)
 160.The Poison Rose   --T-- (torrent 2019-160)
@@ -401,7 +401,7 @@ calorina sandobal
 54.High Life
 55.The Dark
 56.¿Podrás perdonarme algún día?
-57.Dragon Ball Super: Broly  --T--  (torrent 2018-57)
+57.Dragon Ball Super: Broly  -T-D-C-  (torrent 2018-57)
 58.Astérix: El secreto de la poción mágica  --T--  (torrent 2018-58)
 59.Above Suspicion   --T--   (torrent 2018-59)
 60.Unbroken: Path to Redemption
@@ -685,7 +685,7 @@ calorina sandobal
 25.Parada en el Infierno  --T--  (torrent 2016-25) 
 26.Eliminators  --T--  (torrent 2016-26)
 27.Dr. Strange (Doctor Extraño)  --T--  (torrent 2016-27)
-28.Vaiana  --T--  (torrent 2016-28) 
+28.Vaiana  --T-D-C-  (torrent 2016-28) 
 29.¡Vaya cambiazo!  --T--  (torrent 2016-29) 
 30.13 Horas: Los soldados secretos de Bengasi  --T--  (torrent 2016-30)
 31.Sully  --T--  (torrent 2016-31) 
@@ -1378,7 +1378,7 @@ calorina sandobal
 37.El pacificador  --T--  (torrent 1997-37)
 38.Lolita  --T--  (torrent 1997-38)
 39.Amistad  --T--  (torrent 1997-39)
-40.Spawn  --T--  (torrent 1997-40)
+40.Spawn  -T-D-C-  (torrent 1997-40)
 41.Secuestro  --T--  (torrent 1997-41)
 42.Los Borrowers  --T--  (torrent 1997-42)
 43.El laberinto rojo  --T--  (torrent 1997-43)
@@ -1560,7 +1560,7 @@ calorina sandobal
 
 1989-----------------------------------------------------------------------------------------------------------------------------------
 
-1.Regreso al futuro II  --T--  (torrent 1989-1)
+1.Regreso al futuro II  -T-D-C-  (torrent 1989-1)
 2.Indiana Jones y la última cruzada  --T--  (torrent 1989-2)
 3.Tango y Cash   --T--  (torrent 1989-3)
 4.Karate Kid III: El desafío final  --T--  (torrent 1989-4)
@@ -1604,7 +1604,7 @@ calorina sandobal
 
 1987-----------------------------------------------------------------------------------------------------------------------------------
 
-1.Arma letal  --T--  (torrent 1987-1)
+1.Arma letal  -T-D-C-  (torrent 1987-1)
 2.Jóvenes ocultos   --T--  (torrent 1987-2)
 3.Depredador  --T--  (torrent 1987-3)
 4.El chip prodigioso  --T--  (torrent 1987-4)
@@ -1634,29 +1634,29 @@ calorina sandobal
 
 1985-----------------------------------------------------------------------------------------------------------------------------------
 
-1.Regreso al futuro  --T--  (torrent 1985-1)
-2.Commando  --T--   (torrent 1985-2)
-3.Noche de miedo   --T--  (torrent 1985-3)
-4.Cocoon  --T--   (torrent 1985-4)
-5.El secreto de la pirámide  --T--   (torrent 1985-5)
-6.Los goonies   --T--  (torrent 1985-6)
-7.Rambo: Acorralado Parte II (Rambo 2)  --T--  (torrent 1985-7)
-8.El jinete pálido  --T--   (torrent 1985-8)
-9.Aullidos 2: Stirba, la mujer lobo  --T--  (torrent 1985-9)
-10.Rocky IV   --T--  (torrent 1985-10)
+1.Regreso al futuro -T-D-C- (torrent 1985-1)
+2.Commando -T-D-C- (torrent 1985-2)
+3.Noche de miedo -T-D-C- (torrent 1985-3)
+4.Cocoon -T-D-C- (torrent 1985-4)
+5.El secreto de la pirámide --T-D-C- (torrent 1985-5)
+6.Los goonies -T-D-C- (torrent 1985-6)
+7.Rambo: Acorralado Parte II (Rambo 2) -T-D-C- (torrent 1985-7)
+8.El jinete pálido -T-D-C- (torrent 1985-8)
+9.Aullidos 2: Stirba, la mujer lobo -T-D--(torrent 1985-9)
+10.Rocky IV -T-D-C- (torrent 1985-10)
 
 1984-----------------------------------------------------------------------------------------------------------------------------------
 
 1.Karate kid, el momento de la verdad  --T--  (torrent 1984-1)
-2.Gremlins   --T--  (torrent 1984-2)
+2.Gremlins -T-D-C- (torrent 1984-2)
 3.En la cuerda floja     (torrent 1984-2)
 4.Terminator  --T--   (torrent 1984-4)
 5.La historia interminable  --T--   (torrent 1984-5)
 6.Loca academia de policía   --T--  (torrent 1984-6)
 7.La aventura de los Ewoks (TV)     (torrent 1984-7)
 8.Pesadilla en Elm Street  --T--  (torrent 1984-8)
-9.Los cazafantasmas  --T--   (torrent 1984-9)
-10.Superdetective en Hollywood   --T--  (torrent 1984-10)
+9.Los cazafantasmas -T-D-C- (torrent 1984-9)
+10.Superdetective en Hollywood -T-D-C-  (torrent 1984-10)
 11.Star Trek III. En busca de Spock  --T--   (torrent 1984-11)
 12.Tras el corazón verde     (torrent 1984-12)
 
