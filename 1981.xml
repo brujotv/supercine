@@ -37,7 +37,6 @@
 <item>
 <title>[COLOR lime]•[/COLOR] Aullidos </title>
 <link>plugin://plugin.video.elementum/play?uri=https://github.com/brujotv/repo-naranjitos/raw/master/torrentsdepaginas/1981-11.torrent</link>
-<link>plugin://plugin.video.elementum/play?uri=https://github.com/brujotv/repo-naranjitos/raw/master/torrentsdepaginas/1981-11-1.torrent</link>
 <thumbnail>https://i.imgur.com/JpawDDF.jpg<thumbnail>
 <fanart>https://i.imgur.com/pGqaTug.jpg</fanart>
 <genre>Terror</genre>
@@ -89,17 +88,6 @@
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR] 1997: Rescate en Nueva York  </title>
-<link>plugin://plugin.video.elementum/play?uri=https://github.com/brujotv/repo-naranjitos/raw/master/torrentsdepaginas/1981-2.torrent</link>
-<thumbnail>https://i.imgur.com/T27Qgnx.jpg</thumbnail>
-<fanart>https://i.imgur.com/NFiQKJx.jpg</fanart>
-<genre>Ciencia ficción. Acción</genre>
-<year>1981</year>
-<info>Año 1997. El avión del presidente de los Estados Unidos es secuestrado por un grupo radical, pero consigue sobrevivir y se encuentra solo en las calles de Nueva York, donde Manhattan se ha convertido en una enorme prisión de alta seguridad. Ante la imposibilidad de lanzar una acción convencional, por miedo a que maten al presidente, se decide enviar a un agente secreto para rescatarlo. El elegido es "Serpiente" Plissken (Kurt Russell), un conocido convicto al que todos daban por muerto.  
-</info>
-</item>
-
-<item>
 <title>[COLOR lime]•[/COLOR] Scanners  </title>
 <link>plugin://plugin.video.elementum/play?uri=https://github.com/brujotv/repo-naranjitos/raw/master/torrentsdepaginas/1981-5.torrent</link>
 <thumbnail>https://i.imgur.com/jm7Kqo9.jpg</thumbnail>
@@ -108,6 +96,17 @@
 <year>1981</year>
 <info>Sólo 237 personas en todo el mundo son "scanners", seres humanos con unos extraordinarios poderes mentales. Darryl Revok, el más poderoso, es el jefe del grupo. Todos ellos son capaces de controlar las mentes de los demás y pueden provocar terribles sufrimientos a sus víctimas. Cuando el doctor Paul Ruth descubre un scanner con más poderes que Revok, decide utilizarlo para acabar con el grupo.
 </info> 
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] 1997: Rescate en Nueva York  </title>
+<link>plugin://plugin.video.elementum/play?uri=https://github.com/brujotv/repo-naranjitos/raw/master/torrentsdepaginas/1981-2.torrent</link>
+<thumbnail>https://i.imgur.com/T27Qgnx.jpg</thumbnail>
+<fanart>https://i.imgur.com/NFiQKJx.jpg</fanart>
+<genre>Ciencia ficción. Acción</genre>
+<year>1981</year>
+<info>Año 1997. El avión del presidente de los Estados Unidos es secuestrado por un grupo radical, pero consigue sobrevivir y se encuentra solo en las calles de Nueva York, donde Manhattan se ha convertido en una enorme prisión de alta seguridad. Ante la imposibilidad de lanzar una acción convencional, por miedo a que maten al presidente, se decide enviar a un agente secreto para rescatarlo. El elegido es "Serpiente" Plissken (Kurt Russell), un conocido convicto al que todos daban por muerto.  
+</info>
 </item>
 
 
