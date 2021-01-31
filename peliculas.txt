@@ -1486,7 +1486,7 @@ calorina sandobal
 6.Parque Jurásico (Jurassic Park)  --T--  (torrent 1993-6)
 7.Philadelphia  --T--  (torrent 1993-7)
 8.El fugitivo  --T--  (torrent 1993-8)
-9.Atrapado en el tiempo  --T--  (torrent 1993-9)
+9.Atrapado en el tiempo -T-D-C-M- (torrent 1993-9)
 10.El último gran héroe  --T--  (torrent 1993-10)
 11.Algo para recordar  --T--  (torrent 1993-11)
 12.El informe Pelícano  --T--  (torrent 1993-12)
@@ -1708,7 +1708,7 @@ calorina sandobal
 5.El retorno del hombre lobo     (torrent 1980-5)
 6.La niebla     (torrent 1980-6)
 7.Locos de remate     (torrent 1980-7)
-8.El resplandor -T-D-C- (torrent 1980-8)
+8.El resplandor -T-D-C-M- (torrent 1980-8)
 9.La gran pelea     (torrent 1980-9)
 10.Aterriza como puedas -T-D-C- (torrent 1980-10)
 11.
