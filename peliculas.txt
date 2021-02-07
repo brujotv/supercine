@@ -1629,9 +1629,9 @@ calorina sandobal
 
 1986-----------------------------------------------------------------------------------------------------------------------------------
 
-1.Platoon -T-D-C- (torrent 1986-1)
-2.Top Gun (Ídolos del aire) -T-D-C- (torrent 1986-2)
-3.El chico de oro -T-D-C- (torrent 1986-3)
+1.Platoon -T-D-C-M- (torrent 1986-1)
+2.Top Gun (Ídolos del aire) -T-D-C-M- (torrent 1986-2)
+3.El chico de oro -T-D-C-M- (torrent 1986-3)
 4.Golpe en la pequeña China -T-D-C- (torrent 1986-4) 
 5.Dentro del laberinto -T-D-C- (torrent 1986-5)
 6.Karate Kid II: la historia continúa -T-D-C- (torrent 1986-6)
@@ -1641,16 +1641,16 @@ calorina sandobal
 
 1985-----------------------------------------------------------------------------------------------------------------------------------
 
-1.Regreso al futuro -T-D-C- (torrent 1985-1)
-2.Commando -T-D-C- (torrent 1985-2)
-3.Noche de miedo -T-D-C- (torrent 1985-3)
-4.Cocoon -T-D-C- (torrent 1985-4)
-5.El secreto de la pirámide --T-D-C- (torrent 1985-5)
-6.Los goonies -T-D-C- (torrent 1985-6)
-7.Rambo: Acorralado Parte II (Rambo 2) -T-D-C- (torrent 1985-7)
-8.El jinete pálido -T-D-C- (torrent 1985-8)
-9.Aullidos 2: Stirba, la mujer lobo -T-D--(torrent 1985-9)
-10.Rocky IV -T-D-C- (torrent 1985-10)
+1.Regreso al futuro -T-D-C-M- (torrent 1985-1)
+2.Commando -T-D-C-M- (torrent 1985-2)
+3.Noche de miedo -T-D-C-M- (torrent 1985-3)
+4.Cocoon -T-D-C-M- (torrent 1985-4)
+5.El secreto de la pirámide -T-D-C-M- (torrent 1985-5)
+6.Los goonies -T-D-C-M- (torrent 1985-6)
+7.Rambo: Acorralado Parte II (Rambo 2) -T-D-C-M- (torrent 1985-7)
+8.El jinete pálido -T-D-C-M- (torrent 1985-8)
+9.Aullidos 2: Stirba, la mujer lobo -T-D-C-M- (torrent 1985-9)
+10.Rocky IV -T-D-C-M- (torrent 1985-10)
 
 1984-----------------------------------------------------------------------------------------------------------------------------------
 
