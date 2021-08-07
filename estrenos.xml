@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
+
+
+<item>
+<title>[COLOR lime]•[/COLOR]  </title>
+<link>plugin://plugin.video.elementum/play?uri=https://github.com/brujotv/repo-naranjitos/raw/master/torrentsdepaginas1/2021-4.torrent</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<genre></genre>
+<year>2021</year>
+<info></info>
+</item>
+
+
 <item>
 <title>[COLOR lime]•[/COLOR] La guerra del mañana </title>
 <link>plugin://plugin.video.elementum/play?uri=https://github.com/brujotv/repo-naranjitos/raw/master/torrentsdepaginas1/2021-5.torrent</link>
@@ -33,7 +46,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Cruella </title>
-<link>plugin://plugin.video.elementum/play?uri=https://github.com/brujotv/repo-naranjitos/raw/master/torrentsdepaginas1/2021-2.torrent</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4C893416EEE51A60302C5688962C807741873497</link>
 <thumbnail>https://i.imgur.com/Tux5m4o.jpg</thumbnail>
 <fanart>https://i.imgur.com/BM2pmha.jpg</fanart>
 <genre>Comedia. Thriller </genre>
