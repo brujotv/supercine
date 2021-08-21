@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+<item>
+<title>[COLOR lime]•[/COLOR] A traición </title>
+<link>plugin://plugin.video.elementum/play?uri=https://github.com/brujotv/repo-naranjitos/raw/master/torrentsdepaginas/2020-1.torrent</link>
+<thumbnail>https://i.imgur.com/8HdKTcn.jpg<thumbnail>
+<fanart>https://i.imgur.com/Igmrej3.jpg</fanart>
+<genre>Thriller</genre>
+<year>2020</year>
+<info>Después de la infidelidad de su exmarido, Grace Waters (Crystal Fox) recupera la ilusión con un nuevo amor. Hasta que salen a la luz los secretos que sacan su cara más violenta.</info> 
+</item>
 
 <item>
 <title>[COLOR lime]•[/COLOR] Alone </title>
@@ -29,16 +38,6 @@
 <genre>Acción. Drama. Thriller</genre>
 <year>2020</year>
 <info>Las hermanastras Ida y Tuva sufren un accidente durante una sesión de buceo invernal en el norte de Noruega. Tuva queda atrapada a 30 metros de profundidad e Ida tendrá que poner a prueba sus habilidades para manejar la crisis. Sin ayuda del mundo exterior las hermanas deben resolver la situación por sus propios medios.</info> 
-</item>
-
-<item>
-<title>[COLOR lime]•[/COLOR] A traición </title>
-<link>plugin://plugin.video.elementum/play?uri=https://github.com/brujotv/repo-naranjitos/raw/master/torrentsdepaginas/2020-1.torrent</link>
-<thumbnail>https://i.imgur.com/8HdKTcn.jpg<thumbnail>
-<fanart>https://i.imgur.com/Igmrej3.jpg</fanart>
-<genre>Thriller</genre>
-<year>2020</year>
-<info>Después de la infidelidad de su exmarido, Grace Waters (Crystal Fox) recupera la ilusión con un nuevo amor. Hasta que salen a la luz los secretos que sacan su cara más violenta.</info> 
 </item>
 
 <item>
@@ -422,7 +421,7 @@
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR] Ofrenda a la tormenta</title>
+<title>[COLOR lime]•[/COLOR] Ofrenda a la tormenta </title>
 <link>plugin://plugin.video.elementum/play?uri=https://github.com/brujotv/repo-naranjitos/raw/master/torrentsdepaginas/2020-22.torrent</link>
 <thumbnail>https://i.imgur.com/8g0HugL.jpg</thumbnail>
 <fanart>https://i.imgur.com/TdPbD57.jpg</fanart>
@@ -562,7 +561,7 @@
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR] Un policía honesto </title>
+<title>[COLOR lime]•[/COLOR] Un ladron honesto </title>
 <link>plugin://plugin.video.elementum/play?uri=https://github.com/brujotv/repo-naranjitos/raw/master/torrentsdepaginas1/2020-46.torrent</link>
 <thumbnail>https://i.imgur.com/qJjRjT1.jpg</thumbnail>
 <fanart>https://i.imgur.com/KxtVab6.png</fanart>
@@ -613,7 +612,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR]  365 días </title>
-<link>plugin://plugin.video.elementum/play?uri=https://github.com/brujotv/repo-naranjitos/raw/master/torrentsdepaginas/2020-24.torrent</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:280cfccd13e252f2aec0055acb50500d06f808c1</link>
 <thumbnail>https://i.imgur.com/VYcJWzG.jpg</thumbnail>
 <fanart>https://i.imgur.com/FFxcxDB.jpg</fanart>
 <genre>Drama</genre>
