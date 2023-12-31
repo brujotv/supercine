@@ -2,6 +2,26 @@
 
 
 <item>
+<title>[COLOR lime]•[/COLOR]  </title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<genre></genre>
+<year>2023</year>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Hay algo en el granero </title>
+<link>plugin://plugin.video.elementum/play?uri=https://github.com/brujotv/repo-naranjitos/raw/master/2023/2023-2.torrent.torrent</link>
+<thumbnail>https://pics.filmaffinity.com/there_s_something_in_the_barn-399827018-large.jpg</thumbnail>
+<fanart>https://pics.filmaffinity.com/Hay_algo_en_el_granero-258325116-large.jpg</fanart>
+<genre> Comedia de terror</genre>
+<year>2023</year>
+<info>Una familia estadounidense cumple su sueño de regresar después de heredar una remota cabaña en las montañas de Noruega. </info>
+</item>
+
+<item>
 <title>[COLOR lime]•[/COLOR] Saw X </title>
 <link>plugin://plugin.video.elementum/play?uri=https://github.com/brujotv/repo-naranjitos/raw/master/2023/2023-1.torrent.torrent</link>
 <thumbnail>https://pics.filmaffinity.com/saw_10-770317273-large.jpg</thumbnail>
