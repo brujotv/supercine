@@ -2,6 +2,26 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Hay algo en el granero </title>
+<link>plugin://script.module.horus?action=play&id=dce1579e3a2e5bd29071fca8eae364f1eb3205cf</link>
+<thumbnail>https://pics.filmaffinity.com/there_s_something_in_the_barn-399827018-large.jpg</thumbnail>
+<fanart>https://pics.filmaffinity.com/Hay_algo_en_el_granero-258325116-large.jpg</fanart>
+<genre> Comedia de terror</genre>
+<year>2023</year>
+<info>Una familia estadounidense cumple su sueño de regresar después de heredar una remota cabaña en las montañas de Noruega. </info>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Hay algo en el granero </title>
+<link>plugin://plugin.video.elementum/play?uri=dce1579e3a2e5bd29071fca8eae364f1eb3205cf</link>
+<thumbnail>https://pics.filmaffinity.com/there_s_something_in_the_barn-399827018-large.jpg</thumbnail>
+<fanart>https://pics.filmaffinity.com/Hay_algo_en_el_granero-258325116-large.jpg</fanart>
+<genre> Comedia de terror</genre>
+<year>2023</year>
+<info>Una familia estadounidense cumple su sueño de regresar después de heredar una remota cabaña en las montañas de Noruega. </info>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Hay algo en el granero </title>
 <link>plugin://plugin.video.elementum/play?uri=https://github.com/brujotv/repo-naranjitos/raw/master/2023/2023-2.torrent.torrent</link>
 <thumbnail>https://pics.filmaffinity.com/there_s_something_in_the_barn-399827018-large.jpg</thumbnail>
 <fanart>https://pics.filmaffinity.com/Hay_algo_en_el_granero-258325116-large.jpg</fanart>
