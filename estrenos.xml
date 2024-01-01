@@ -1,6 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
+<title>[COLOR lime]•[/COLOR]  </title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<genre></genre>
+<year>2023</year>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Indiana Jones y el dial del destino </title>
+<link>plugin://plugin.video.elementum/play?uri=https://github.com/brujotv/repo-naranjitos/raw/master/2023/2023-8.torrent</link>
+<thumbnail>https://pics.filmaffinity.com/indiana_jones_and_the_dial_of_destiny-145866922-large.jpg</thumbnail>
+<fanart>https://pics.filmaffinity.com/Indiana_Jones_y_el_dial_del_destino-456657948-large.jpg</fanart>
+<genre>Aventuras. Acción</genre>
+<year>2023</year>
+<info>El arqueólogo Indiana Jones deberá emprender otra aventura contra el tiempo para intentar recuperar un dial legendario que puede cambiar el curso de la historia. Acompañado por su ahijada, Jones pronto se encuentra enfrentándose a Jürgen Voller, un ex nazi que trabaja para la NASA.</info>
+</item>
+
+<item>
 <title>[COLOR lime]•[/COLOR] Fast & Furious X </title>
 <link>plugin://plugin.video.elementum/play?uri=https://github.com/brujotv/repo-naranjitos/raw/master/2023/2023-6.torrent</link>
 <thumbnail>https://pics.filmaffinity.com/fast_x-854185380-mmed.jpg</thumbnail>
