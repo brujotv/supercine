@@ -1,13 +1,33 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[COLOR lime]•[/COLOR]  </title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<genre></genre>
+<title>[COLOR lime]•[/COLOR] Sin malos rollos </title>
+<link>plugin://plugin.video.elementum/play?uri=https://github.com/brujotv/repo-naranjitos/raw/master/2023/2023-14.torrent</link>
+<thumbnail>https://pics.filmaffinity.com/no_hard_feelings-625556131-mmed.jpg</thumbnail>
+<fanart>https://pics.filmaffinity.com/Sin_malos_rollos-667656488-large.jpg</fanart>
+<genre>Comedia</genre>
 <year>2023</year>
-<info></info>
+<info>Cuando está a punto de perder su casa de la infancia, Maddie (Lawrence) descubre un curioso anuncio de trabajo: unos adinerados padres controladores están buscando a alguien que salga en una cita con su introvertido hijo de 19 años, Percy, antes de que este vaya a la Universidad. Para su sorpresa, Maddie descubre pronto que la torpeza de Percy no está tan clara.</info>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] Insidious: La puerta roja </title>
+<link>plugin://plugin.video.elementum/play?uri=https://github.com/brujotv/repo-naranjitos/raw/master/2023/2023-13.torrent</link>
+<thumbnail>https://pics.filmaffinity.com/insidious_the_red_door-533249268-mmed.jpg</thumbnail>
+<fanart>https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2023/06/insidious-puerta-roja-3051988.jpg?tf=1920x</fanart>
+<genre>Terror</genre>
+<year>2023</year>
+<info>El Capítulo 5 continúa con la familia Lambert casi diez años después de los eventos del Capítulo 2. Para poner finalmente a sus demonios a descansar, Josh (Patrick Wilson) y su hijo Dalton (Ty Simpkins), ya un universitario, deben de ir más profundo hacia "el Más Allá" de lo que nunca habían ido, encontrándose con el pasado oscuro de su familia y un sin número de espantosos terrores que se esconden detrás de la puerta roja.</info>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR]  </title>
+<link>plugin://plugin.video.elementum/play?uri=https://github.com/brujotv/repo-naranjitos/raw/master/2023/2023-12.torrent</link>
+<thumbnail>https://pics.filmaffinity.com/the_creator-470808400-mmed.jpg</thumbnail>
+<fanart>https://pics.filmaffinity.com/The_Creator-692645818-large.jpg</fanart>
+<genre>Ciencia ficción. Thriller. Drama</genre>
+<year>2023</year>
+<info>En medio de una guerra futura entre la raza humana y las fuerzas de la inteligencia artificial, Joshua, un duro exagente de las fuerzas especiales que llora la desaparición de su esposa es reclutado para cazar y matar al Creador, el escurridizo arquitecto de la IA avanzada que ha desarrollado una misteriosa arma con el poder de acabar con la guerra... y con la propia humanidad.</info>
 </item>
 
 <item>
