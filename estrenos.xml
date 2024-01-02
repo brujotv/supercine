@@ -1,6 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
+<title>[COLOR lime]•[/COLOR]  </title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<genre></genre>
+<year>2023</year>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] No tengas miedo (Cobweb)  </title>
+<link>plugin://plugin.video.elementum/play?uri=https://github.com/brujotv/repo-naranjitos/raw/master/2023/2023-11.torrent</link>
+<thumbnail>https://pics.filmaffinity.com/cobweb-304613261-mmed.jpg</thumbnail>
+<fanart>https://pics.filmaffinity.com/No_tengas_miedo_Cobweb-438371619-large.jpg</fanart>
+<genre>Terror. Thriller. Intriga</genre>
+<year>2023</year>
+<info>Peter, de ocho años, vive atormentado por culpa de los misteriosos golpes provenientes del interior de la pared de su dormitorio. Sus padres insisten en que sólo están en su imaginación. A medida que el miedo de Peter se intensifica, empieza a creer que sus padres podrían estar escondiendo un terrible y peligroso secreto... ¿Qué hay más aterrador para un niño que dejar de confiar en su familia?</info>
+</item>
+
+<item>
 <title>[COLOR lime]•[/COLOR] Oppenheimer </title>
 <link>plugin://plugin.video.elementum/play?uri=https://github.com/brujotv/repo-naranjitos/raw/master/2023/2023-10.torrent</link>
 <thumbnail>https://pics.filmaffinity.com/oppenheimer-828933592-large.jpg</thumbnail>
