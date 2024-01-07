@@ -42,7 +42,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Ava </title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3DE36FB7587EDD8BB73D83779DE6B195DD2ACC0F&dn=Ava%20%5bMicroHD%201080p%5d%5bAC3%205.1-Castellano-AC3%205.1-Ingles%2bSubs%5d%5bES-EN%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=http%3a%2f%2ftracker.dler.org%3a6969%2fannounce&tr=http%3a%2f%2ftracker.skyts.net%3a6969%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce&tr=udp%3a%2f%2fatrack.pow7.com%3a6969%2fannounce&tr=udp%3a%2f%2fpow7.com%3a6969%2fannounce&tr=udp%3a%2f%2ft1.pow7.com%3a6969%2fannounce&tr=udp%3a%2f%2ft2.pow7.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3DE36FB7587EDD8BB73D83779DE6B195DD2ACC0F</link>
 <thumbnail>https://i.imgur.com/6NLtiR2.jpg</thumbnail>
 <fanart>https://i.imgur.com/wwsGu0M.jpg</fanart>
 <genre>Acción. Drama</genre>
@@ -92,7 +92,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Bob Esponja: Un héroe al rescate </title>
-<link>plugin://plugin.video.elementum/play?uri=https://github.com/brujotv/repo-naranjitos/raw/master/2020/2020-35.torrent</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B08568BEC55DE4C57D4916EA98A5F3FDDE56E856</link>
 <thumbnail>https://i.imgur.com/poi9WJh.jpg</thumbnail>
 <fanart>https://i.imgur.com/V39YfvT.jpg</fanart>
 <genre>Animación. Comedia</genre>
@@ -102,7 +102,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Chemical Hearts  </title>
-<link>plugin://plugin.video.elementum/play?uri=https://github.com/brujotv/repo-naranjitos/raw/master/2020/2020-27.torrent</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2808F54349DAD1081787BCF688502E33A2282AF2</link>
 <thumbnail>https://i.imgur.com/3vw3Ke9.jpg</thumbnail>
 <fanart>https://i.imgur.com/8EcesE5.jpg</fanart>
 <genre>Romance. Drama</genre>
@@ -112,7 +112,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Cielo de medianoche </title>
-<link>plugin://plugin.video.elementum/play?uri=https://github.com/brujotv/repo-naranjitos/raw/master/2020/2020-53.torrent</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ABD7C6FC640BB3021CBB406FC2F61D99D3FD8626</link>
 <thumbnail>https://i.imgur.com/b4NzFui.jpg</thumbnail>
 <fanart>https://i.imgur.com/kQEliFc.jpg</fanart>
 <genre>Ciencia ficción. Drama</genre>
@@ -122,7 +122,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Deep Blue Sea 3  </title>
-<link>plugin://plugin.video.elementum/play?uri=https://github.com/brujotv/repo-naranjitos/raw/master/2020/2020-29.torrent</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:100556D220A1CB924BBEFE9310DB8E98CBFB8F55</link>
 <thumbnail>https://i.imgur.com/tOGu9fa.jpg</thumbnail>
 <fanart>https://i.imgur.com/iI9z0rH.jpg</fanart>
 <genre>Acción</genre>
@@ -132,7 +132,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Desastre y total: Agencia de detectives nº1  </title>
-<link>plugin://plugin.video.elementum/play?uri=https://github.com/brujotv/repo-naranjitos/raw/master/2020/2020-3.torrent</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BFEBB76BE01658D9C3879E3053EA0707D813AD1A</link>
 <thumbnail>https://i.imgur.com/BfdW66s.jpg</thumbnail>
 <fanart>https://i.imgur.com/zpq5qRl.jpg</fanart>
 <genre>Comedia </genre>
@@ -142,7 +142,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR] Emma. </title>
-<link>plugin://plugin.video.elementum/play?uri=https://github.com/brujotv/repo-naranjitos/raw/master/2020/2020-16.torrent</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:828D2A3E7B99F160E474808F2EAA919B03978013</link>
 <thumbnail>https://i.imgur.com/4oVlPqi.jpg</thumbnail>
 <fanart>https://i.imgur.com/HjL5Ugv.jpg</fanart>
 <genre>Comedia. Romance</genre>
