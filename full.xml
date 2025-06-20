@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
+  <title>🔍 Buscar</title>
+  <search>si</search>
+</item>
+
+<item>
 <title>[COLOR lime]•[/COLOR] A 47 metros 2 </title>
 <link>plugin://plugin.video.elementum/play?uri=https://github.com/brujotv/repo-naranjitos/raw/master/2019/2019-135.torrent</link>
 <thumbnail>https://i.imgur.com/WRdiAmd.jpg<thumbnail>
