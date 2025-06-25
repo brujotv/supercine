@@ -1,14 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
-<busqueda>
-    <fuente>https://raw.githubusercontent.com/brujotv/supercine/refs/heads/master/full.xml</fuente>
-    <criterios>
-        <criterio campo="title">Ejemplo de título a buscar</criterio>
-        <criterio campo="genre">Ejemplo de género a buscar</criterio>
-        <criterio campo="year">2019</criterio>
-    </criterios>
-</busqueda> 
 
 <item>
 <title>[COLOR lime]•[/COLOR] A 47 metros 2 </title>
