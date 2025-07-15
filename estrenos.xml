@@ -265,7 +265,7 @@
     <video>
         <source>
             <name>Película 1</name>
-            <path pathversion="1">ed2k://|file|Take%20Shelter%20[2011].mkv|3540993669|8B591E360D1DCC78F9B71C1028CD9EE6|/</path>
+            <path pathversion="1"><a href="ed2k://|file|Take%20Shelter%20[2011].mkv|3540993669|8B591E360D1DCC78F9B71C1028CD9EE6|/">Take Shelter [2011].mkv</a></path>
         </source>
     </video>
 </sources>
