@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
-
+<item>
+<title>[COLOR yellow]-A-[/COLOR]</title>
+</item>
 
 <item>
 <title>[COLOR lime]•[/COLOR] A todo gas </title>
@@ -54,13 +56,11 @@
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR] El diario de Bridget Jones </title>
-<link>plugin://plugin.video.elementum/play?uri=https://github.com/brujotv/repo-naranjitos/raw/master/torrentsdepaginas/2001-11.torrent</link>
-<thumbnail>https://i.imgur.com/QInDBR1.jpg</thumbnail>
-<fanart>https://i.imgur.com/yhGzfqD.jpg</fanart>
-<genre>Romance. Comedia</genre>
-<year>2001</year>
-<info>Bridget Jones es una treintañera soltera y llena de complejos, cuya vida sentimental es un desastre. Tiene sólo dos ambiciones: adelgazar y encontrar el amor verdadero. El día de Año Nuevo toma dos decisiones: perder peso y escribir un diario. Pero muy pronto su vida amorosa se vuelve a complicar, pues se encuentra dividida entre dos hombres. Por un lado, Daniel Cleaver, su jefe, un tipo encantador y sexy, pero peligroso; por otro, Mark Darcy, un viejo amigo de la familia, que al principio le parece demasiado reservado y aburrido.</info> 
+<title>[COLOR yellow]-B-[/COLOR]</title>
+</item>
+
+<item>
+<title>[COLOR yellow]-C-[/COLOR]</title>
 </item>
 
 <item>
@@ -71,6 +71,24 @@
 <genre>Comedia</genre>
 <year>2001</year>
 <info>Nuevas aventuras del famoso personaje creado por Paul Hogan, esta vez con su hijo, acaecidas en la "jungla" californiana. Mick Dundee vive en la actualidad con Sue, la mujer que le robó el corazón. El padre de Sue le ruega a su hija que se traslade urgentemente a California para hacerse cargo de la dirección de su periódico. En la selva de los Ángeles "Cocodrilo Dundee", su mujer y su hijo vivirán las más divertidas y emocionantes aventuras investigando un misterio que les llevará a un estudio cinematográfico en Hollywood.</info> 
+</item>
+
+<item>
+<title>[COLOR yellow]-D-[/COLOR]</title>
+</item>
+
+<item>
+<title>[COLOR yellow]-E-[/COLOR]</title>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] El diario de Bridget Jones </title>
+<link>plugin://plugin.video.elementum/play?uri=https://github.com/brujotv/repo-naranjitos/raw/master/torrentsdepaginas/2001-11.torrent</link>
+<thumbnail>https://i.imgur.com/QInDBR1.jpg</thumbnail>
+<fanart>https://i.imgur.com/yhGzfqD.jpg</fanart>
+<genre>Romance. Comedia</genre>
+<year>2001</year>
+<info>Bridget Jones es una treintañera soltera y llena de complejos, cuya vida sentimental es un desastre. Tiene sólo dos ambiciones: adelgazar y encontrar el amor verdadero. El día de Año Nuevo toma dos decisiones: perder peso y escribir un diario. Pero muy pronto su vida amorosa se vuelve a complicar, pues se encuentra dividida entre dos hombres. Por un lado, Daniel Cleaver, su jefe, un tipo encantador y sexy, pero peligroso; por otro, Mark Darcy, un viejo amigo de la familia, que al principio le parece demasiado reservado y aburrido.</info> 
 </item>
 
 <item>
@@ -94,6 +112,48 @@
 </item>
 
 <item>
+<title>[COLOR yellow]-F-[/COLOR]</title>
+</item>
+
+<item>
+<title>[COLOR yellow]-G-[/COLOR]</title>
+</item>
+
+<item>
+<title>[COLOR yellow]-H-[/COLOR]</title>
+</item>
+
+<item>
+<title>[COLOR yellow]-I-[/COLOR]</title>
+</item>
+
+<item>
+<title>[COLOR yellow]-J-[/COLOR]</title>
+</item>
+
+<item>
+<title>[COLOR yellow]-K-[/COLOR]</title>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR] K-Pax. Un universo aparte </title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:24245CC5039D93AFBED5050B6224654D0ADE284C&dn=K-Pax%20HDRip%20www.DESCARGASMIX.com.avi</link>
+<thumbnail>https://i.imgur.com/6gQd7Eo.jpeg</thumbnail>
+<fanart></fanart>
+<genre>Drama. Ciencia ficción. Fantástico. Intriga</genre>
+<year>2001</year>
+<info>Prot es un paciente de psiquiatría que está perturbando el equilibrio mental del doctor Powell: afirma reiteradamente que procede de otro planeta y anuncia que pronto abandonará la Tierra. Además, los otros pacientes están decididos a acompañarlo. Esta situación lleva a Powell a dudar de su capacidad para distinguir la realidad de la fantasía.</info>
+</item>
+
+<item>
+<title>[COLOR yellow]-L-[/COLOR]</title>
+</item>
+
+<item>
+<title>[COLOR yellow]-M-[/COLOR]</title>
+</item>
+
+<item>
 <title>[COLOR lime]•[/COLOR] Monstruos, S.A. </title>
 <link>plugin://plugin.video.elementum/play?uri=https://github.com/brujotv/repo-naranjitos/raw/master/torrentsdepaginas1/2001-8.torrent</link>
 <thumbnail>https://i.imgur.com/EcYa5gu.jpg</thumbnail>
@@ -101,6 +161,34 @@
 <genre>Animación. Comedia. Fantástico. Infantil </genre>
 <year>2001</year>
 <info>Monsters Inc. es la mayor empresa de miedo del mundo, y James P. Sullivan es uno de sus mejores empleados. Asustar a los niños no es un trabajo fácil, ya que todos creen que los niños son tóxicos y no pueden tener contacto con ellos. Pero un día una niña se cuela sin querer en la empresa, provocando el caos.</info>
+</item>
+
+<item>
+<title>[COLOR yellow]-N-[/COLOR]</title>
+</item>
+
+<item>
+<title>[COLOR yellow]-Ñ-[/COLOR]</title>
+</item>
+
+<item>
+<title>[COLOR yellow]-O-[/COLOR]</title>
+</item>
+
+<item>
+<title>[COLOR yellow]-P-[/COLOR]</title>
+</item>
+
+<item>
+<title>[COLOR yellow]-Q-[/COLOR]</title>
+</item>
+
+<item>
+<title>[COLOR yellow]-R-[/COLOR]</title>
+</item>
+
+<item>
+<title>[COLOR yellow]-S-[/COLOR]</title>
 </item>
 
 <item>
@@ -114,6 +202,26 @@
 </item>
 
 <item>
+<title>[COLOR yellow]-T-[/COLOR]</title>
+</item>
+
+<item>
+<title>[COLOR yellow]-U-[/COLOR]</title>
+</item>
+
+<item>
+<title>[COLOR yellow]-V-[/COLOR]</title>
+</item>
+
+<item>
+<title>[COLOR yellow]-W-[/COLOR]</title>
+</item>
+
+<item>
+<title>[COLOR yellow]-Y-[/COLOR]</title>
+</item>
+
+<item>
 <title>[COLOR lime]•[/COLOR] Yamakasi </title>
 <link>plugin://plugin.video.elementum/play?uri=https://github.com/brujotv/repo-naranjitos/raw/master/torrentsdepaginas/2001-5.torrent</link>
 <thumbnail>https://i.imgur.com/JaCNW8d.jpg</thumbnail>
@@ -124,6 +232,10 @@
 </item>
 
 <item>
+<title>[COLOR yellow]-Z-[/COLOR]</title>
+</item>
+
+<item>
 <title>[COLOR lime]•[/COLOR] Zoolander: Un descerebrado de moda </title>
 <link>plugin://plugin.video.elementum/play?uri=https://github.com/brujotv/repo-naranjitos/raw/master/torrentsdepaginas/2001-10.torrent</link>
 <thumbnail>https://i.imgur.com/5IZ6Xs5.jpg</thumbnail>
@@ -131,6 +243,10 @@
 <genre>Comedia</genre>
 <year>2001</year>
 <info>Derek Zoolander (Stiller) ha sido el modelo masculino más cotizado durante los últimos tres años. La noche de la gala que podría suponer su cuarta corona, el galardón se lo lleva un nuevo modelo llamado Hansel (Wilson). Derek queda en entredicho y como un idiota, y decide retirarse. Sin embargo, un prestigioso diseñador le pide que desfile para él.</info> 
+</item>
+
+<item>
+<title>[COLOR yellow]-0-[/COLOR]</title>
 </item>
 
 <item>
